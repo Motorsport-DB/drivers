@@ -3,64 +3,214 @@
     "lastName": "Pin",
     "Nickname": "the Pocket Rocket",
     "dateOfBirth": "2004-01-06",
-    "dateOfDeath": null,
-    "picture": "doriane_pin.jpg",
+    "picture": "doriane_pin.png",
     "country": "France",
     "seasons": {
-        "2024": {
+        "2024-2024": {
             "F1 Academy": {
                 "standing": {
-                    "position": 2,
-                    "points": 217
+                    "position": "2",
+                    "points": "217"
                 },
                 "Jeddah": {
-                    "Free practice": {
-                        "position": 1,
+                    "Free Practice": {
+                        "position": "1",
+                        "points": 0,
                         "fastest_lap": "2:04.889",
+                        "team": "PREMA Racing",
                         "other_info": {
-                            "fastest_speed": "177.969 km/h",
-                            "laps": 15
-                        },
-                        "team": "PREMA Racing"
+                            "Fastest_speed": "177.969 km/h",
+                            "Laps": "15"
+                        }
                     },
                     "Qualifying 1": {
-                        "position": 1,
+                        "position": "1",
+                        "points": 0,
                         "fastest_lap": "2:03.472",
-                        "other_info": {
-                        },
-                        "team": "PREMA Racing"
+                        "team": "PREMA Racing",
+                        "other_info": {}
                     },
-                    "Qualifying 2":
-                        {
-                            "position": 1,
-                            "fastest_lap": "2:03.699",
-                            "other_info": {
-                            },
-                        "team": "PREMA Racing"
-                        },
+                    "Qualifying 2": {
+                        "position": "1",
+                        "points": 0,
+                        "fastest_lap": "2:03.699",
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
                     "Race 1": {
-                        "position": 1,
+                        "position": "1",
                         "points": 27,
                         "fastest_lap": "2:04.678",
+                        "team": "PREMA Racing",
                         "other_info": {
-                            "fastest_speed": "165.005 km/h",
-                            "laps": 12
-                        },
-                        "team": "PREMA Racing"
+                            "Fastest_speed": "165.005 km/h",
+                            "Laps": "12"
+                        }
                     },
                     "Race 2": {
-                        "position": 9,
+                        "position": "9",
                         "points": 5,
                         "fastest_lap": "2:04.259",
+                        "team": "PREMA Racing",
                         "other_info": {
-                            "fastest_speed": "148.378 km/h",
-                            "laps": 13
-                        },
-                        "team": "PREMA Racing"
+                            "Fastest_speed": "148.378 km/h",
+                            "Laps": "13"
+                        }
+                    }
+                },
+                "Miami": {
+                    "Qualifying 2": {
+                        "position": "3",
+                        "points": 15,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Qualifying 1": {
+                        "position": "2",
+                        "points": 15,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Race 1": {
+                        "position": "2",
+                        "points": 18,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Race 2": {
+                        "position": "3",
+                        "points": 15,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    }
+                },
+                "Barcelona": {
+                    "Qualifying 2": {
+                        "position": "3",
+                        "points": 10,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Qualifying 1": {
+                        "position": "4",
+                        "points": 10,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 10,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Race 1": {
+                        "position": "7",
+                        "points": 6,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    },
+                    "Race 2": {
+                        "position": "5",
+                        "points": 10,
+                        "team": "PREMA Racing",
+                        "other_info": {}
+                    }
+                }
+            }
+        },
+        "2022-2022": {
+            "European Le Mans Series (ELMS)": {
+                "4 Hours of Barcelona": {
+                    "Free practice 1": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Bronze driver collective test": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Free practice 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Qualifying - LMGTE": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    }
+                },
+                "4 Hours of Spa-Francorchamps": {
+                    "Free Practice 1": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Bronze driver collective test": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Free Practice 2": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Qualifications - LMGTE": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    }
+                },
+                "4 Hours of Portim\u00e3o": {
+                    "Free Practice 1": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Bronze driver collective test": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Free Practice 2": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
+                    },
+                    "Qualifications - LMGTE": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Iron Lynx",
+                        "other_info": {}
                     }
                 }
             }
         }
     }
 }
-  
