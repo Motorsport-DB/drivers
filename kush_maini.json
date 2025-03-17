@@ -1,253 +1,1405 @@
 {
     "firstName": "Kush",
     "lastName": "MAINI",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "",
-    "country": null,
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 2": {
+        "2023": {
+            "Formula 2": {
                 "Sakhir": {
+                    "Feature Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:48.383",
+                        "other_info": {
+                            "Elapsed_times": "1:01:49.715",
+                            "Gap": "38.789",
+                            "Average_speed": "167.823",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "32",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:48.626",
+                        "other_info": {
+                            "Elapsed_times": "42:32.138",
+                            "Gap": "41.541",
+                            "Average_speed": "175.236",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "23",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:41.927",
+                        "other_info": {
+                            "Gap": "1.024",
+                            "Average_speed": "191.148",
+                            "Laps": "8",
+                            "Car_number": "24"
+                        }
+                    },
                     "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:46.038",
+                        "other_info": {
+                            "Gap": "0.774",
+                            "Average_speed": "183.737",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Jeddah": {
+                    "Feature Race": {
                         "position": "12",
                         "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:45.140",
+                        "other_info": {
+                            "Elapsed_times": "51:15.318",
+                            "Gap": "29.731",
+                            "Average_speed": "202.073",
+                            "Lap_of_fastest_lap": "28",
+                            "Laps": "28",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:45.471",
+                        "other_info": {
+                            "Elapsed_times": "42:24.058",
+                            "Gap": "2.544",
+                            "Average_speed": "174.378",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "20",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:42.360",
+                        "other_info": {
+                            "Gap": "1.034",
+                            "Average_speed": "217.139",
+                            "Laps": "9",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:43.978",
+                        "other_info": {
+                            "Gap": "0.477",
+                            "Average_speed": "213.760",
+                            "Laps": "16",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Melbourne": {
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:30.993",
+                        "other_info": {
+                            "Elapsed_times": "1:00:38.541",
+                            "Gap": "8.294",
+                            "Average_speed": "172.329",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "33",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:31.955",
+                        "other_info": {
+                            "Elapsed_times": "40:05.145",
+                            "Gap": "1.716",
+                            "Average_speed": "173.801",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "22",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:46.530",
+                        "other_info": {
+                            "Gap": "1.412",
+                            "Average_speed": "178.361",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:30.035",
+                        "other_info": {
+                            "Gap": "1.046",
+                            "Average_speed": "211.037",
+                            "Laps": "15",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:54.340",
+                        "other_info": {
+                            "Elapsed_times": "57:38.955",
+                            "Gap": "15.792",
+                            "Average_speed": "181.077",
+                            "Lap_of_fastest_lap": "28",
+                            "Laps": "29",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:56.168",
+                        "other_info": {
+                            "Elapsed_times": "51:33.759",
+                            "Gap": "6.485",
+                            "Average_speed": "146.570",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:53.920",
+                        "other_info": {
+                            "Gap": "1.268",
+                            "Average_speed": "189.701",
+                            "Laps": "10",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:54.376",
+                        "other_info": {
+                            "Gap": "0.313",
+                            "Average_speed": "188.945",
+                            "Laps": "18",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Monte Carlo": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:23.760",
+                        "other_info": {
+                            "Elapsed_times": "1:20:27.743",
+                            "Gap": "25.317",
+                            "Average_speed": "97.046",
+                            "Lap_of_fastest_lap": "29",
+                            "Laps": "39",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:23.700",
+                        "other_info": {
+                            "Elapsed_times": "47:01.428",
+                            "Gap": "22.395",
+                            "Average_speed": "127.735",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "30",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:21.820",
+                        "other_info": {
+                            "Gap": "0.589",
+                            "Average_speed": "146.824",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:22.711",
+                        "other_info": {
+                            "Gap": "0.630",
+                            "Average_speed": "145.243",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Feature Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:29.748",
+                        "other_info": {
+                            "Elapsed_times": "57:59.415",
+                            "Gap": "62.686",
+                            "Average_speed": "178.150",
+                            "Lap_of_fastest_lap": "31",
+                            "Laps": "37",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:32.678",
+                        "other_info": {
+                            "Elapsed_times": "48:23.640",
+                            "Gap": "60.844",
+                            "Average_speed": "149.964",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "26",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:24.244",
+                        "other_info": {
+                            "Gap": "0.698",
+                            "Average_speed": "199.007",
+                            "Laps": "10",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:28.477",
+                        "other_info": {
+                            "Gap": "1.755",
+                            "Average_speed": "189.486",
+                            "Laps": "19",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Sprint Race": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:17.896",
+                        "other_info": {
+                            "Elapsed_times": "40:12.718",
+                            "Gap": "36.48",
+                            "Average_speed": "173.769",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "27",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:14.858",
+                        "other_info": {
+                            "Gap": "0.215",
+                            "Average_speed": "207.657",
+                            "Laps": "14",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:15.785",
+                        "other_info": {
+                            "Gap": "0.569",
+                            "Average_speed": "205.117",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:02.925",
+                        "other_info": {
+                            "Elapsed_times": "41:00.521",
+                            "Gap": "44.116",
+                            "Average_speed": "163.567",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "19",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.945",
+                        "other_info": {
+                            "Gap": "0.113",
+                            "Average_speed": "212.192",
+                            "Laps": "10",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:42.670",
+                        "other_info": {
+                            "Gap": "1.077",
+                            "Average_speed": "206.560",
+                            "Laps": "15",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Feature Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:31.942",
+                        "other_info": {
+                            "Elapsed_times": "59:09.428",
+                            "Gap": "76.994",
+                            "Average_speed": "164.365",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "37",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:34.733",
+                        "other_info": {
+                            "Elapsed_times": "45:07.198",
+                            "Gap": "24.054",
+                            "Average_speed": "163.069",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "28",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:28.164",
+                        "other_info": {
+                            "Gap": "0.488",
+                            "Average_speed": "178.889",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:29.221",
+                        "other_info": {
+                            "Gap": "0.339",
+                            "Average_speed": "176.770",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:01.782",
+                        "other_info": {
+                            "Elapsed_times": "59:15.548",
+                            "Gap": "13.782",
+                            "Average_speed": "177.163",
+                            "Lap_of_fastest_lap": "24",
+                            "Laps": "25",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:05.009",
+                        "other_info": {
+                            "Elapsed_times": "38:28.013",
+                            "Gap": "57.434",
+                            "Average_speed": "185.526",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:18.163",
+                        "other_info": {
+                            "Gap": "1.312",
+                            "Average_speed": "182.497",
+                            "Laps": "5",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Feature Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:24.539",
+                        "other_info": {
+                            "Elapsed_times": "1:02:53.252",
+                            "Gap": "77.127",
+                            "Average_speed": "154.352",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "38",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:21.551",
+                        "other_info": {
+                            "Gap": "0.341",
+                            "Average_speed": "188.009",
+                            "Laps": "9",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:24.076",
+                        "other_info": {
+                            "Gap": "1.361",
+                            "Average_speed": "182.363",
+                            "Laps": "16",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Sprint Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:34.832",
+                        "other_info": {
+                            "Elapsed_times": "40:21.945",
+                            "Gap": "3.939",
+                            "Average_speed": "180.366",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:32.542",
+                        "other_info": {
+                            "Gap": "0.214",
+                            "Average_speed": "225.354",
+                            "Laps": "8",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:33.742",
+                        "other_info": {
+                            "Gap": "0.577",
+                            "Average_speed": "222.470",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:40.149",
+                        "other_info": {
+                            "Elapsed_times": "56:36.992",
+                            "Gap": "33.113",
+                            "Average_speed": "184.565",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "33",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.910",
+                        "other_info": {
+                            "Elapsed_times": "42:51.344",
+                            "Gap": "21.720",
+                            "Average_speed": "170.223",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "23",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:35.976",
+                        "other_info": {
+                            "Gap": "0.409",
+                            "Average_speed": "198.087",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:38.054",
+                        "other_info": {
+                            "Gap": "0.665",
+                            "Average_speed": "193.889",
+                            "Laps": "15",
+                            "Car_number": "24"
+                        }
+                    }
+                }
+            }
+        },
+        "2024": {
+            "Formula 2": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:46.755",
+                        "other_info": {
+                            "Elapsed_times": "1:03:01.154",
+                            "Gap": "14.719",
+                            "Average_speed": "164.652",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "32",
+                            "Car_number": "9"
+                        }
                     },
                     "Sprint Race": {
                         "position": "13",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:48.169",
+                        "other_info": {
+                            "Elapsed_times": "42:40.972",
+                            "Gap": "27.246",
+                            "Average_speed": "174.632",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "23",
+                            "Car_number": "9"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "7",
-                        "points": 6,
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:46.106",
+                        "other_info": {
+                            "Gap": "1.007",
+                            "Average_speed": "183.620",
+                            "Laps": "12",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Jeddah": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:45.582",
+                        "other_info": {
+                            "Elapsed_times": "57:05.474",
+                            "Gap": "7.895",
+                            "Average_speed": "181.416",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "28",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:45.816",
+                        "other_info": {
+                            "Elapsed_times": "41:53.489",
+                            "Gap": "14.744",
+                            "Average_speed": "176.498",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "20",
+                            "Car_number": "9"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "2",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:42.242",
+                        "other_info": {
+                            "Gap": "0.025",
+                            "Average_speed": "217.390",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
                     },
                     "Free Practice": {
                         "position": "2",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "8",
-                        "points": 1,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "2",
-                        "points": 20,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:43.896",
+                        "other_info": {
+                            "Gap": "0.103",
+                            "Average_speed": "213.929",
+                            "Laps": "13",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Melbourne": {
+                    "Feature Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:31.055",
+                        "other_info": {
+                            "Elapsed_times": "57:16.157",
+                            "Gap": "34.041",
+                            "Average_speed": "182.478",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "33",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:31.948",
+                        "other_info": {
+                            "Elapsed_times": "44:01.091",
+                            "Gap": "8.581",
+                            "Average_speed": "165.468",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "23",
+                            "Car_number": "9"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "4",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:29.313",
+                        "other_info": {
+                            "Gap": "0.619",
+                            "Average_speed": "212.743",
+                            "Laps": "14",
+                            "Car_number": "9"
+                        }
                     },
                     "Free Practice": {
                         "position": "6",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 6,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.342",
+                        "other_info": {
+                            "Gap": "0.688",
+                            "Average_speed": "210.320",
+                            "Laps": "15",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Imola": {
-                    "Qualifying Session": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "8",
-                        "points": 1,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
                     "Feature Race": {
                         "position": "14",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.044",
+                        "other_info": {
+                            "Elapsed_times": "54:39.466",
+                            "Gap": "37.957",
+                            "Average_speed": "188.368",
+                            "Lap_of_fastest_lap": "34",
+                            "Laps": "35",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:31.291",
+                        "other_info": {
+                            "Elapsed_times": "42:00.294",
+                            "Gap": "16.330",
+                            "Average_speed": "174.989",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "25",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:28.061",
+                        "other_info": {
+                            "Gap": "1.005",
+                            "Average_speed": "200.683",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:29.487",
+                        "other_info": {
+                            "Gap": "0.635",
+                            "Average_speed": "197.485",
+                            "Laps": "15",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Monte Carlo": {
-                    "Free Practice": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
                     "Feature Race": {
                         "position": "17",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:22.837",
+                        "other_info": {
+                            "Elapsed_times": "1:00:59.492",
+                            "Gap": "33.796",
+                            "Average_speed": "137.875",
+                            "Lap_of_fastest_lap": "38",
+                            "Laps": "42",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:21.988",
+                        "other_info": {
+                            "Gap": "0.678",
+                            "Average_speed": "146.523",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:41.771",
+                        "other_info": {
+                            "Gap": "2.534",
+                            "Average_speed": "118.041",
+                            "Laps": "19",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Barcelona": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:29.053",
+                        "other_info": {
+                            "Elapsed_times": "1:00:06.133",
+                            "Gap": "19.333",
+                            "Average_speed": "171.890",
+                            "Lap_of_fastest_lap": "30",
+                            "Laps": "37",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:30.946",
+                        "other_info": {
+                            "Elapsed_times": "39:51.691",
+                            "Gap": "4.411",
+                            "Average_speed": "182.064",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "26",
+                            "Car_number": "9"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "10",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:25.199",
+                        "other_info": {
+                            "Gap": "0.433",
+                            "Average_speed": "196.776",
+                            "Laps": "9",
+                            "Car_number": "9"
+                        }
                     },
                     "Free Practice": {
                         "position": "18",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "2",
-                        "points": 8,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "6",
-                        "points": 8,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:27.865",
+                        "other_info": {
+                            "Gap": "0.943",
+                            "Average_speed": "190.806",
+                            "Laps": "13",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Spielberg": {
+                    "Feature Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:18.507",
+                        "other_info": {
+                            "Elapsed_times": "54:50.755",
+                            "Gap": "51.433",
+                            "Average_speed": "188.813",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "40",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:19.246",
+                        "other_info": {
+                            "Elapsed_times": "37:36.662",
+                            "Gap": "13.703",
+                            "Average_speed": "192.674",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "28",
+                            "Car_number": "9"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "10",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:15.911",
+                        "other_info": {
+                            "Gap": "0.424",
+                            "Average_speed": "204.776",
+                            "Laps": "14",
+                            "Car_number": "9"
+                        }
                     },
                     "Free Practice": {
                         "position": "21",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "7",
-                        "points": 2,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:17.525",
+                        "other_info": {
+                            "Gap": "1.084",
+                            "Average_speed": "200.513",
+                            "Laps": "19",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Silverstone": {
+                    "Feature Race": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:42.259",
+                        "other_info": {
+                            "Elapsed_times": "56:00.652",
+                            "Gap": "72.301",
+                            "Average_speed": "182.862",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "29",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "2:02.345",
+                        "other_info": {
+                            "Elapsed_times": "1:02:46.113",
+                            "Gap": "11.257",
+                            "Average_speed": "118.126",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "21",
+                            "Car_number": "9"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "8",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:39.856",
+                        "other_info": {
+                            "Gap": "0.488",
+                            "Average_speed": "212.381",
+                            "Laps": "12",
+                            "Car_number": "9"
+                        }
                     },
                     "Free Practice": {
                         "position": "16",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 6,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "2:01.447",
+                        "other_info": {
+                            "Gap": "3.383",
+                            "Average_speed": "174.624",
+                            "Laps": "6",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Budapest": {
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:33.300",
+                        "other_info": {
+                            "Elapsed_times": "1:03:06.961",
+                            "Gap": "20.270",
+                            "Average_speed": "149.891",
+                            "Lap_of_fastest_lap": "31",
+                            "Laps": "36",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:34.375",
+                        "other_info": {
+                            "Elapsed_times": "44:28.935",
+                            "Gap": "-",
+                            "Average_speed": "165.407",
+                            "Lap_of_fastest_lap": "23",
+                            "Laps": "28",
+                            "Car_number": "9"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "9",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.492",
+                        "other_info": {
+                            "Gap": "0.464",
+                            "Average_speed": "174.287",
+                            "Laps": "9",
+                            "Car_number": "9"
+                        }
                     },
                     "Free Practice": {
                         "position": "18",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "1",
-                        "points": 10,
-                        "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "7",
-                        "points": 6,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:33.876",
+                        "other_info": {
+                            "Gap": "1.208",
+                            "Average_speed": "168.004",
+                            "Laps": "20",
+                            "Car_number": "9"
+                        }
                     }
                 },
                 "Spa-Francorchamps": {
-                    "Qualifying Session": {
-                        "position": "12",
+                    "Feature Race": {
+                        "position": "15",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "2:01.504",
+                        "other_info": {
+                            "Elapsed_times": "58:07.326",
+                            "Gap": "58.831",
+                            "Average_speed": "180.629",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "25",
+                            "Car_number": "9"
+                        }
                     },
                     "Sprint Race": {
                         "position": "13",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "2:40.879",
+                        "other_info": {
+                            "Elapsed_times": "14:29.647",
+                            "Gap": "14.099",
+                            "Average_speed": "144.455",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "5",
+                            "Car_number": "9"
+                        }
                     },
+                    "Qualifying Session": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:57.804",
+                        "other_info": {
+                            "Gap": "0.845",
+                            "Average_speed": "214.036",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "2:00.516",
+                        "other_info": {
+                            "Gap": "1.786",
+                            "Average_speed": "209.220",
+                            "Laps": "8",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Monza": {
                     "Feature Race": {
                         "position": "15",
                         "points": 0,
                         "team": "Invicta Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:32.717",
+                        "other_info": {
+                            "Elapsed_times": "51:17.318",
+                            "Gap": "46.981",
+                            "Average_speed": "202.946",
+                            "Lap_of_fastest_lap": "30",
+                            "Laps": "30",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:33.701",
+                        "other_info": {
+                            "Elapsed_times": "35:54.345",
+                            "Gap": "17.120",
+                            "Average_speed": "202.770",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "21",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:32.824",
+                        "other_info": {
+                            "Gap": "0.664",
+                            "Average_speed": "224.670",
+                            "Laps": "7",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:34.207",
+                        "other_info": {
+                            "Gap": "1.822",
+                            "Average_speed": "221.372",
+                            "Laps": "16",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Sprint Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:57.953",
+                        "other_info": {
+                            "Elapsed_times": "44:15.129",
+                            "Gap": "15.013",
+                            "Average_speed": "170.783",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "21",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:55.174",
+                        "other_info": {
+                            "Gap": "0.317",
+                            "Average_speed": "187.636",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:58.896",
+                        "other_info": {
+                            "Gap": "0.652",
+                            "Average_speed": "181.762",
+                            "Laps": "8",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Lusail": {
+                    "Feature Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:39.765",
+                        "other_info": {
+                            "Elapsed_times": "56:37.342",
+                            "Gap": "51.909",
+                            "Average_speed": "171.979",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "30",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:39.599",
+                        "other_info": {
+                            "Elapsed_times": "34:04.625",
+                            "Gap": "DNF",
+                            "Average_speed": "190.347",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "20",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:36.100",
+                        "other_info": {
+                            "Gap": "0.985",
+                            "Average_speed": "203.001",
+                            "Laps": "14",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:39.700",
+                        "other_info": {
+                            "Gap": "1.676",
+                            "Average_speed": "195.671",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:40.894",
+                        "other_info": {
+                            "Elapsed_times": "56:53.510",
+                            "Gap": "29.795",
+                            "Average_speed": "183.672",
+                            "Lap_of_fastest_lap": "2",
+                            "Laps": "33",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:40.111",
+                        "other_info": {
+                            "Elapsed_times": "39:28.609",
+                            "Gap": "52.570",
+                            "Average_speed": "184.434",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "23",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:35.950",
+                        "other_info": {
+                            "Gap": "0.205",
+                            "Average_speed": "198.140",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:38.414",
+                        "other_info": {
+                            "Gap": "0.597",
+                            "Average_speed": "193.179",
+                            "Laps": "17",
+                            "Car_number": "9"
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:33.828",
+                        "other_info": {
+                            "Elapsed_times": "41:50.322",
+                            "Gap": "20.120",
+                            "Average_speed": "174.088",
+                            "Lap_of_fastest_lap": "23",
+                            "Laps": "23",
+                            "Car_number": "12"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:30.058",
+                        "other_info": {
+                            "Gap": "0.772",
+                            "Average_speed": "210.984",
+                            "Laps": "12",
+                            "Car_number": "12"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:32.736",
+                        "other_info": {
+                            "Gap": "0.149",
+                            "Average_speed": "204.891",
+                            "Laps": "10",
+                            "Car_number": "12"
+                        }
                     }
                 }
             }

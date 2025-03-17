@@ -1,247 +1,1375 @@
 {
     "firstName": "Jak",
-    "lastName": "CRAWFORD",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "",
-    "country": null,
+    "lastName": "Crawford",
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 2": {
+        "2023": {
+            "Formula 2": {
                 "Sakhir": {
+                    "Feature Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:48.835",
+                        "other_info": {
+                            "Elapsed_times": "1:02:04.255",
+                            "Gap": "53.329",
+                            "Average_speed": "167.168",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "32",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:49.386",
+                        "other_info": {
+                            "Elapsed_times": "42:42.880",
+                            "Gap": "52.283",
+                            "Average_speed": "174.502",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "23",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:42.234",
+                        "other_info": {
+                            "Gap": "1.331",
+                            "Average_speed": "190.574",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:46.554",
+                        "other_info": {
+                            "Gap": "1.290",
+                            "Average_speed": "182.848",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Jeddah": {
+                    "Feature Race": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:45.534",
+                        "other_info": {
+                            "Elapsed_times": "51:18.560",
+                            "Gap": "32.973",
+                            "Average_speed": "201.860",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "28",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:45.580",
+                        "other_info": {
+                            "Elapsed_times": "42:26.092",
+                            "Gap": "4.578",
+                            "Average_speed": "174.238",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "20",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:42.553",
+                        "other_info": {
+                            "Gap": "1.227",
+                            "Average_speed": "216.730",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:44.746",
+                        "other_info": {
+                            "Gap": "1.245",
+                            "Average_speed": "212.193",
+                            "Laps": "16",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:31.947",
+                        "other_info": {
+                            "Elapsed_times": "40:04.549",
+                            "Gap": "1.120",
+                            "Average_speed": "173.844",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "22",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:46.687",
+                        "other_info": {
+                            "Gap": "1.569",
+                            "Average_speed": "178.098",
+                            "Laps": "12",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:29.379",
+                        "other_info": {
+                            "Gap": "0.390",
+                            "Average_speed": "212.586",
+                            "Laps": "17",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:55.192",
+                        "other_info": {
+                            "Elapsed_times": "57:50.704",
+                            "Gap": "27.541",
+                            "Average_speed": "180.464",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "29",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:56.176",
+                        "other_info": {
+                            "Elapsed_times": "51:30.364",
+                            "Gap": "3.090",
+                            "Average_speed": "146.731",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "21",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:53.139",
+                        "other_info": {
+                            "Gap": "0.487",
+                            "Average_speed": "191.011",
+                            "Laps": "12",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:55.093",
+                        "other_info": {
+                            "Gap": "1.030",
+                            "Average_speed": "187.768",
+                            "Laps": "17",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Monte Carlo": {
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:22.613",
+                        "other_info": {
+                            "Elapsed_times": "1:20:44.510",
+                            "Gap": "42.084",
+                            "Average_speed": "96.710",
+                            "Lap_of_fastest_lap": "30",
+                            "Laps": "39",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:24.128",
+                        "other_info": {
+                            "Elapsed_times": "46:47.368",
+                            "Gap": "8.335",
+                            "Average_speed": "128.375",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "30",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:21.576",
+                        "other_info": {
+                            "Gap": "0.523",
+                            "Average_speed": "147.263",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:23.620",
+                        "other_info": {
+                            "Gap": "1.539",
+                            "Average_speed": "143.664",
+                            "Laps": "21",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Feature Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:29.960",
+                        "other_info": {
+                            "Elapsed_times": "57:40.221",
+                            "Gap": "43.492",
+                            "Average_speed": "179.138",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "37",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:24.069",
+                        "other_info": {
+                            "Gap": "0.523",
+                            "Average_speed": "199.421",
+                            "Laps": "9",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:28.455",
+                        "other_info": {
+                            "Gap": "1.733",
+                            "Average_speed": "189.533",
+                            "Laps": "11",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Feature Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:18.622",
+                        "other_info": {
+                            "Elapsed_times": "56:38.398",
+                            "Gap": "7.348",
+                            "Average_speed": "182.832",
+                            "Lap_of_fastest_lap": "40",
+                            "Laps": "40",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:17.892",
+                        "other_info": {
+                            "Elapsed_times": "39:36.231",
+                            "Gap": "-",
+                            "Average_speed": "176.437",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "27",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:15.087",
+                        "other_info": {
+                            "Gap": "0.444",
+                            "Average_speed": "207.023",
+                            "Laps": "15",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:16.034",
+                        "other_info": {
+                            "Gap": "0.818",
+                            "Average_speed": "204.445",
+                            "Laps": "14",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:44.179",
+                        "other_info": {
+                            "Elapsed_times": "59:18.932",
+                            "Gap": "24.543",
+                            "Average_speed": "172.674",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "29",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "2:03.387",
+                        "other_info": {
+                            "Elapsed_times": "41:01.111",
+                            "Gap": "44.706",
+                            "Average_speed": "163.528",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "19",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:40.400",
+                        "other_info": {
+                            "Gap": "0.568",
+                            "Average_speed": "211.231",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:41.859",
+                        "other_info": {
+                            "Gap": "0.266",
+                            "Average_speed": "208.205",
+                            "Laps": "15",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Feature Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:33.419",
+                        "other_info": {
+                            "Elapsed_times": "58:55.280",
+                            "Gap": "62.846",
+                            "Average_speed": "165.023",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "37",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:34.826",
+                        "other_info": {
+                            "Elapsed_times": "45:10.266",
+                            "Gap": "27.122",
+                            "Average_speed": "162.884",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "28",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:28.830",
+                        "other_info": {
+                            "Gap": "1.154",
+                            "Average_speed": "177.548",
+                            "Laps": "13",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:29.602",
+                        "other_info": {
+                            "Gap": "0.720",
+                            "Average_speed": "176.018",
+                            "Laps": "20",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "2:05.787",
+                        "other_info": {
+                            "Elapsed_times": "37:58.197",
+                            "Gap": "27.618",
+                            "Average_speed": "187.954",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "17",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "2:11.678",
+                        "other_info": {
+                            "Gap": "5.942",
+                            "Average_speed": "191.485",
+                            "Laps": "3",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "2:20.087",
+                        "other_info": {
+                            "Gap": "3.236",
+                            "Average_speed": "179.991",
+                            "Laps": "6",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:24.115",
+                        "other_info": {
+                            "Elapsed_times": "1:01:38.650",
+                            "Gap": "2.525",
+                            "Average_speed": "157.465",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "38",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:21.210",
+                        "other_info": {
+                            "Gap": "-",
+                            "Average_speed": "188.799",
+                            "Laps": "9",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:24.014",
+                        "other_info": {
+                            "Gap": "1.299",
+                            "Average_speed": "182.498",
+                            "Laps": "17",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:35.030",
+                        "other_info": {
+                            "Elapsed_times": "1:07:38.488",
+                            "Gap": "DNF",
+                            "Average_speed": "162.489",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "27",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:34.965",
+                        "other_info": {
+                            "Elapsed_times": "40:29.187",
+                            "Gap": "11.181",
+                            "Average_speed": "179.829",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "21",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:32.557",
+                        "other_info": {
+                            "Gap": "0.229",
+                            "Average_speed": "225.318",
+                            "Laps": "6",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:33.713",
+                        "other_info": {
+                            "Gap": "0.548",
+                            "Average_speed": "222.539",
+                            "Laps": "17",
+                            "Car_number": "9"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:40.441",
+                        "other_info": {
+                            "Elapsed_times": "56:40.102",
+                            "Gap": "36.223",
+                            "Average_speed": "184.397",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "33",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:40.178",
+                        "other_info": {
+                            "Elapsed_times": "42:51.297",
+                            "Gap": "26.673",
+                            "Average_speed": "169.895",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "23",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:36.718",
+                        "other_info": {
+                            "Gap": "1.151",
+                            "Average_speed": "196.567",
+                            "Laps": "12",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:38.443",
+                        "other_info": {
+                            "Gap": "1.054",
+                            "Average_speed": "193.122",
+                            "Laps": "16",
+                            "Car_number": "9"
+                        }
+                    }
+                }
+            }
+        },
+        "2024": {
+            "Formula 2": {
+                "Sakhir": {
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:47.127",
+                        "other_info": {
+                            "Elapsed_times": "42:19.216",
+                            "Gap": "5.490",
+                            "Average_speed": "176.128",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "10",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:42.287",
+                        "other_info": {
+                            "Gap": "0.591",
+                            "Average_speed": "190.475",
+                            "Laps": "11",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "6",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "2",
-                        "points": 8,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:45.824",
+                        "other_info": {
+                            "Gap": "0.725",
+                            "Average_speed": "184.109",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Jeddah": {
+                    "Feature Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:45.222",
+                        "other_info": {
+                            "Elapsed_times": "57:06.958",
+                            "Gap": "9.379",
+                            "Average_speed": "181.338",
+                            "Lap_of_fastest_lap": "23",
+                            "Laps": "28",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:45.285",
+                        "other_info": {
+                            "Elapsed_times": "41:47.872",
+                            "Gap": "9.127",
+                            "Average_speed": "176.894",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "20",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "3",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:42.376",
+                        "other_info": {
+                            "Gap": "0.159",
+                            "Average_speed": "217.105",
+                            "Laps": "12",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "5",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "5",
-                        "points": 4,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "4",
-                        "points": 12,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:44.233",
+                        "other_info": {
+                            "Gap": "0.440",
+                            "Average_speed": "213.237",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Melbourne": {
-                    "Free Practice": {
-                        "position": "16",
+                    "Feature Race": {
+                        "position": "10",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:30.961",
+                        "other_info": {
+                            "Elapsed_times": "57:13.315",
+                            "Gap": "31.199",
+                            "Average_speed": "182.630",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "33",
+                            "Car_number": "7"
+                        }
                     },
                     "Sprint Race": {
                         "position": "9",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:32.228",
+                        "other_info": {
+                            "Elapsed_times": "44:06.634",
+                            "Gap": "14.124",
+                            "Average_speed": "165.122",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "10",
-                        "points": 2,
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:31.238",
+                        "other_info": {
+                            "Gap": "1.584",
+                            "Average_speed": "208.255",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Imola": {
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:30.892",
+                        "other_info": {
+                            "Elapsed_times": "54:22.246",
+                            "Gap": "20.737",
+                            "Average_speed": "189.363",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "35",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:31.112",
+                        "other_info": {
+                            "Elapsed_times": "42:04.053",
+                            "Gap": "20.089",
+                            "Average_speed": "174.728",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "25",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "21",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:28.333",
+                        "other_info": {
+                            "Gap": "1.277",
+                            "Average_speed": "174.802",
+                            "Laps": "8",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "12",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "7",
-                        "points": 6,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:29.594",
+                        "other_info": {
+                            "Gap": "0.742",
+                            "Average_speed": "197.249",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Monte Carlo": {
-                    "Free Practice": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
                     "Sprint Race": {
                         "position": "13",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:22.924",
+                        "other_info": {
+                            "Elapsed_times": "1:04:40.171",
+                            "Gap": "19.225",
+                            "Average_speed": "92.881",
+                            "Lap_of_fastest_lap": "29",
+                            "Laps": "30",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:22.030",
+                        "other_info": {
+                            "Gap": "0.720",
+                            "Average_speed": "146.448",
+                            "Laps": "11",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:41.735",
+                        "other_info": {
+                            "Gap": "2.498",
+                            "Average_speed": "118.083",
+                            "Laps": "19",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Barcelona": {
+                    "Feature Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:29.642",
+                        "other_info": {
+                            "Elapsed_times": "59:46.800",
+                            "Gap": "-",
+                            "Average_speed": "172.816",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "37",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:31.403",
+                        "other_info": {
+                            "Elapsed_times": "39:56.376",
+                            "Gap": "9.096",
+                            "Average_speed": "181.708",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "26",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "2",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:24.768",
+                        "other_info": {
+                            "Gap": "0.002",
+                            "Average_speed": "197.777",
+                            "Laps": "8",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "4",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "4",
-                        "points": 5,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "1",
-                        "points": 25,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:27.250",
+                        "other_info": {
+                            "Gap": "0.328",
+                            "Average_speed": "192.151",
+                            "Laps": "13",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Spielberg": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:18.131",
+                        "other_info": {
+                            "Elapsed_times": "54:31.566",
+                            "Gap": "32.244",
+                            "Average_speed": "189.920",
+                            "Lap_of_fastest_lap": "36",
+                            "Laps": "40",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:19.718",
+                        "other_info": {
+                            "Elapsed_times": "37:34.636",
+                            "Gap": "11.677",
+                            "Average_speed": "192.847",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "28",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "14",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:16.007",
+                        "other_info": {
+                            "Gap": "0.520",
+                            "Average_speed": "204.518",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "3",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "6",
-                        "points": 3,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "10",
-                        "points": 1,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:16.713",
+                        "other_info": {
+                            "Gap": "0.272",
+                            "Average_speed": "202.635",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Silverstone": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:42.690",
+                        "other_info": {
+                            "Elapsed_times": "54:50.173",
+                            "Gap": "1.822",
+                            "Average_speed": "186.779",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "29",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "2:03.416",
+                        "other_info": {
+                            "Elapsed_times": "1:02:53.647",
+                            "Gap": "18.791",
+                            "Average_speed": "117.890",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "21",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "7",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:39.826",
+                        "other_info": {
+                            "Gap": "0.458",
+                            "Average_speed": "212.445",
+                            "Laps": "13",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "8",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "6",
-                        "points": 3,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:59.884",
+                        "other_info": {
+                            "Gap": "1.820",
+                            "Average_speed": "176.901",
+                            "Laps": "7",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Budapest": {
+                    "Feature Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:34.560",
+                        "other_info": {
+                            "Elapsed_times": "1:03:19.559",
+                            "Gap": "32.868",
+                            "Average_speed": "149.394",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "36",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:35.342",
+                        "other_info": {
+                            "Elapsed_times": "45:18.289",
+                            "Gap": "49.354",
+                            "Average_speed": "162.403",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "28",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "22",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:31.791",
+                        "other_info": {
+                            "Gap": "1.763",
+                            "Average_speed": "171.820",
+                            "Laps": "11",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "2",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "9",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:32.801",
+                        "other_info": {
+                            "Gap": "0.133",
+                            "Average_speed": "169.950",
+                            "Laps": "19",
+                            "Car_number": "7"
+                        }
                     }
                 },
                 "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "2:00.316",
+                        "other_info": {
+                            "Elapsed_times": "57:20.588",
+                            "Gap": "12.093",
+                            "Average_speed": "183.083",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "25",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "2:32.084",
+                        "other_info": {
+                            "Elapsed_times": "14:19.599",
+                            "Gap": "4.051",
+                            "Average_speed": "146.144",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "5",
+                            "Car_number": "7"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "4",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:57.382",
+                        "other_info": {
+                            "Gap": "0.423",
+                            "Average_speed": "214.806",
+                            "Laps": "10",
+                            "Car_number": "7"
+                        }
                     },
                     "Free Practice": {
                         "position": "9",
                         "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:59.631",
+                        "other_info": {
+                            "Gap": "0.901",
+                            "Average_speed": "210.768",
+                            "Laps": "12",
+                            "Car_number": "7"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:33.482",
+                        "other_info": {
+                            "Elapsed_times": "50:47.391",
+                            "Gap": "17.054",
+                            "Average_speed": "204.939",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "30",
+                            "Car_number": "7"
+                        }
                     },
                     "Sprint Race": {
-                        "position": "5",
-                        "points": 1,
+                        "position": "6",
+                        "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:33.636",
+                        "other_info": {
+                            "Elapsed_times": "35:50.711",
+                            "Gap": "13.486",
+                            "Average_speed": "203.113",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "21",
+                            "Car_number": "7"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
+                    "Qualifying Session": {
+                        "position": "14",
+                        "points": 0,
                         "team": "DAMS Lucas Oil",
-                        "other_info": {}
+                        "fastest_lap": "1:32.780",
+                        "other_info": {
+                            "Gap": "0.620",
+                            "Average_speed": "224.776",
+                            "Laps": "7",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:33.309",
+                        "other_info": {
+                            "Gap": "0.924",
+                            "Average_speed": "223.502",
+                            "Laps": "18",
+                            "Car_number": "7"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:57.057",
+                        "other_info": {
+                            "Elapsed_times": "1:10:09.883",
+                            "Gap": "1.468",
+                            "Average_speed": "87.178",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "17",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:57.406",
+                        "other_info": {
+                            "Elapsed_times": "44:03.560",
+                            "Gap": "3.444",
+                            "Average_speed": "171.530",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "21",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:55.634",
+                        "other_info": {
+                            "Gap": "0.777",
+                            "Average_speed": "186.889",
+                            "Laps": "10",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "2:00.501",
+                        "other_info": {
+                            "Gap": "2.257",
+                            "Average_speed": "179.341",
+                            "Laps": "11",
+                            "Car_number": "7"
+                        }
+                    }
+                },
+                "Lusail": {
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:38.848",
+                        "other_info": {
+                            "Elapsed_times": "40:51.576",
+                            "Gap": "0.295",
+                            "Average_speed": "182.622",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:36.095",
+                        "other_info": {
+                            "Gap": "0.980",
+                            "Average_speed": "203.011",
+                            "Laps": "13",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:39.460",
+                        "other_info": {
+                            "Gap": "1.436",
+                            "Average_speed": "196.143",
+                            "Laps": "17",
+                            "Car_number": "7"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:40.608",
+                        "other_info": {
+                            "Elapsed_times": "39:05.807",
+                            "Gap": "29.768",
+                            "Average_speed": "186.227",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:36.753",
+                        "other_info": {
+                            "Gap": "1.008",
+                            "Average_speed": "196.496",
+                            "Laps": "11",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:38.504",
+                        "other_info": {
+                            "Gap": "0.687",
+                            "Average_speed": "193.003",
+                            "Laps": "17",
+                            "Car_number": "7"
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Qualifying Session": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:29.587",
+                        "other_info": {
+                            "Gap": "0.301",
+                            "Average_speed": "212.093",
+                            "Laps": "12",
+                            "Car_number": "11"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:32.934",
+                        "other_info": {
+                            "Gap": "0.347",
+                            "Average_speed": "204.454",
+                            "Laps": "11",
+                            "Car_number": "11"
+                        }
                     }
                 }
             }

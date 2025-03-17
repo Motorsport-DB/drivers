@@ -1,161 +1,47 @@
 {
     "firstName": "Raffaele",
     "lastName": "Marciello",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "assets/images/drivers/Raffaele_Marciello.jpg",
-    "country": null,
     "seasons": {
-        "2024-2024": {
-            "GT World Challenge Europe": {
-                "Circuit Paul Ricard": {
-                    "Free practice": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Pre Qualifying": {
-                        "position": "37",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 1": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 2": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 3": {
-                        "position": "36",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Main Race": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    }
-                },
-                "CrowdStrike 24 Hours of Spa": {
-                    "Official test sessions": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Free practice": {
-                        "position": "27",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Pre Qualifying": {
-                        "position": "28",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 2": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 3": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 4": {
-                        "position": "44",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Night Practice": {
-                        "position": "39",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Warm-up": {
-                        "position": "32",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Main Race": {
-                        "position": "24",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    }
-                },
-                "N\u00fcrburgring ": {
-                    "Official Paid Test Sessions 1": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Official Paid Test Session 2": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Free practice": {
-                        "position": "29",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Pre Qualifying": {
+        "2017": {
+            "Formula 2": {
+                "Spielberg": {
+                    "Feature Race": {
                         "position": "19",
                         "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:18.327",
+                        "other_info": {
+                            "Elapsed_times": "52:34.631",
+                            "Gap": "1 LAP",
+                            "Average_speed": "192.033",
+                            "Lap_of_fastest_lap": "31",
+                            "Laps": "39",
+                            "Car_number": "17"
+                        }
                     },
-                    "Qualifying 1": {
-                        "position": "22",
+                    "Qualifying Session": {
+                        "position": "16",
                         "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:14.643",
+                        "other_info": {
+                            "Gap": "1.247",
+                            "Average_speed": "208.255",
+                            "Laps": "14",
+                            "Car_number": "17"
+                        }
                     },
-                    "Qualifying 2": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying 3": {
-                        "position": "44",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Qualifying Combined": {
-                        "position": "24",
-                        "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
-                    },
-                    "Main Race": {
+                    "Free Practice": {
                         "position": "18",
                         "points": 0,
-                        "team": "Team WRT",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:15.488",
+                        "other_info": {
+                            "Gap": "1.132",
+                            "Average_speed": "205.924",
+                            "Laps": "25",
+                            "Car_number": "17"
+                        }
                     }
                 }
             }

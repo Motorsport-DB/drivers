@@ -1,247 +1,737 @@
 {
     "firstName": "Joshua",
-    "lastName": "D\u00dcRKSEN",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "",
-    "country": null,
+    "lastName": "Dürksen",
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 2": {
+        "2024": {
+            "Formula 2": {
                 "Sakhir": {
-                    "Qualifying Session": {
-                        "position": "21",
+                    "Feature Race": {
+                        "position": "11",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:47.922",
+                        "other_info": {
+                            "Elapsed_times": "1:03:10.470",
+                            "Gap": "24.035",
+                            "Average_speed": "164.247",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "32",
+                            "Car_number": "24"
+                        }
                     },
                     "Sprint Race": {
                         "position": "15",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:46.847",
+                        "other_info": {
+                            "Elapsed_times": "42:48.983",
+                            "Gap": "35.257",
+                            "Average_speed": "174.087",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "23",
+                            "Car_number": "24"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "11",
+                    "Qualifying Session": {
+                        "position": "21",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:43.153",
+                        "other_info": {
+                            "Gap": "1.457",
+                            "Average_speed": "188.876",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:46.693",
+                        "other_info": {
+                            "Gap": "1.594",
+                            "Average_speed": "182.609",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Jeddah": {
-                    "Qualifying Session": {
-                        "position": "19",
+                    "Feature Race": {
+                        "position": "12",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:45.822",
+                        "other_info": {
+                            "Elapsed_times": "57:23.848",
+                            "Gap": "26.269",
+                            "Average_speed": "180.449",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "28",
+                            "Car_number": "24"
+                        }
                     },
                     "Sprint Race": {
                         "position": "9",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:45.717",
+                        "other_info": {
+                            "Elapsed_times": "41:57.028",
+                            "Gap": "18.283",
+                            "Average_speed": "176.250",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "20",
+                            "Car_number": "24"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "12",
+                    "Qualifying Session": {
+                        "position": "19",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:43.544",
+                        "other_info": {
+                            "Gap": "1.327",
+                            "Average_speed": "214.656",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:45.237",
+                        "other_info": {
+                            "Gap": "1.444",
+                            "Average_speed": "211.203",
+                            "Laps": "14",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Melbourne": {
+                    "Sprint Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.490",
+                        "other_info": {
+                            "Elapsed_times": "44:43.784",
+                            "Gap": "51.274",
+                            "Average_speed": "162.836",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "24"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "14",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.005",
+                        "other_info": {
+                            "Gap": "1.311",
+                            "Average_speed": "211.108",
+                            "Laps": "14",
+                            "Car_number": "24"
+                        }
                     },
                     "Free Practice": {
                         "position": "12",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.782",
+                        "other_info": {
+                            "Gap": "1.128",
+                            "Average_speed": "209.301",
+                            "Laps": "16",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Imola": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:30.771",
+                        "other_info": {
+                            "Elapsed_times": "54:15.245",
+                            "Gap": "13.736",
+                            "Average_speed": "189.770",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "35",
+                            "Car_number": "24"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "5",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:27.384",
+                        "other_info": {
+                            "Gap": "0.328",
+                            "Average_speed": "202.238",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
                     },
                     "Free Practice": {
                         "position": "15",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:29.711",
+                        "other_info": {
+                            "Gap": "0.859",
+                            "Average_speed": "196.992",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Monte Carlo": {
-                    "Free Practice": {
-                        "position": "22",
+                    "Feature Race": {
+                        "position": "18",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:24.128",
+                        "other_info": {
+                            "Elapsed_times": "56:04.755",
+                            "Gap": "DNF",
+                            "Average_speed": "139.241",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "39",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:24.274",
+                        "other_info": {
+                            "Elapsed_times": "1:04:46.861",
+                            "Gap": "25.915",
+                            "Average_speed": "92.721",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "30",
+                            "Car_number": "24"
+                        }
                     },
                     "Qualifying Group A": {
                         "position": "10",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:22.387",
+                        "other_info": {
+                            "Gap": "1.104",
+                            "Average_speed": "145.814",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
                     },
-                    "Sprint Race": {
-                        "position": "18",
+                    "Free Practice": {
+                        "position": "22",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:47.442",
+                        "other_info": {
+                            "Gap": "8.205",
+                            "Average_speed": "111.811",
+                            "Laps": "5",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Barcelona": {
-                    "Qualifying Session": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
-                    },
                     "Sprint Race": {
                         "position": "10",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:31.525",
+                        "other_info": {
+                            "Elapsed_times": "40:14.094",
+                            "Gap": "26.814",
+                            "Average_speed": "180.374",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "26",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:24.988",
+                        "other_info": {
+                            "Gap": "0.222",
+                            "Average_speed": "197.265",
+                            "Laps": "10",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:27.742",
+                        "other_info": {
+                            "Gap": "0.820",
+                            "Average_speed": "191.073",
+                            "Laps": "19",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Spielberg": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:19.349",
+                        "other_info": {
+                            "Elapsed_times": "54:11.884",
+                            "Gap": "12.562",
+                            "Average_speed": "191.070",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "40",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:19.746",
+                        "other_info": {
+                            "Elapsed_times": "37:36.846",
+                            "Gap": "13.887",
+                            "Average_speed": "192.658",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "28",
+                            "Car_number": "24"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "2",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:15.495",
+                        "other_info": {
+                            "Gap": "0.008",
+                            "Average_speed": "205.905",
+                            "Laps": "16",
+                            "Car_number": "24"
+                        }
                     },
                     "Free Practice": {
                         "position": "8",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "8",
-                        "points": 1,
-                        "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "6",
-                        "points": 8,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:16.973",
+                        "other_info": {
+                            "Gap": "0.532",
+                            "Average_speed": "201.951",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Silverstone": {
+                    "Sprint Race": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "2:02.501",
+                        "other_info": {
+                            "Elapsed_times": "1:03:08.816",
+                            "Gap": "33.960",
+                            "Average_speed": "117.418",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "16",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:40.531",
+                        "other_info": {
+                            "Gap": "1.163",
+                            "Average_speed": "210.955",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
                     },
                     "Free Practice": {
                         "position": "1",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:58.064",
+                        "other_info": {
+                            "Gap": "-",
+                            "Average_speed": "179.627",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Budapest": {
+                    "Feature Race": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:34.604",
+                        "other_info": {
+                            "Elapsed_times": "1:03:31.346",
+                            "Gap": "44.655",
+                            "Average_speed": "148.932",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "36",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:33.096",
+                        "other_info": {
+                            "Elapsed_times": "45:28.757",
+                            "Gap": "59.822",
+                            "Average_speed": "161.780",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "28",
+                            "Car_number": "24"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "11",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.620",
+                        "other_info": {
+                            "Gap": "0.592",
+                            "Average_speed": "174.041",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
                     },
                     "Free Practice": {
                         "position": "19",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:34.219",
+                        "other_info": {
+                            "Gap": "1.551",
+                            "Average_speed": "167.392",
+                            "Laps": "20",
+                            "Car_number": "24"
+                        }
                     }
                 },
                 "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "2:00.359",
+                        "other_info": {
+                            "Elapsed_times": "57:40.941",
+                            "Gap": "32.446",
+                            "Average_speed": "182.006",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "25",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "2:23.166",
+                        "other_info": {
+                            "Elapsed_times": "14:34.802",
+                            "Gap": "19.254",
+                            "Average_speed": "143.604",
+                            "Lap_of_fastest_lap": "2",
+                            "Laps": "5",
+                            "Car_number": "24"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "20",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:59.072",
+                        "other_info": {
+                            "Gap": "2.113",
+                            "Average_speed": "211.757",
+                            "Laps": "10",
+                            "Car_number": "24"
+                        }
                     },
                     "Free Practice": {
                         "position": "18",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "19",
+                        "fastest_lap": "2:00.429",
+                        "other_info": {
+                            "Gap": "1.699",
+                            "Average_speed": "209.371",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "5",
                         "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:32.930",
+                        "other_info": {
+                            "Elapsed_times": "50:44.895",
+                            "Gap": "14.558",
+                            "Average_speed": "205.107",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "30",
+                            "Car_number": "24"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "10",
-                        "points": 1,
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
                         "team": "AIX Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:33.718",
+                        "other_info": {
+                            "Elapsed_times": "35:44.479",
+                            "Gap": "7.254",
+                            "Average_speed": "203.703",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.628",
+                        "other_info": {
+                            "Gap": "0.468",
+                            "Average_speed": "225.145",
+                            "Laps": "8",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.953",
+                        "other_info": {
+                            "Gap": "0.568",
+                            "Average_speed": "224.358",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:57.078",
+                        "other_info": {
+                            "Elapsed_times": "1:10:09.417",
+                            "Gap": "1.002",
+                            "Average_speed": "87.187",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "17",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:56.821",
+                        "other_info": {
+                            "Elapsed_times": "44:00.116",
+                            "Gap": "-",
+                            "Average_speed": "171.754",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "21",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:55.331",
+                        "other_info": {
+                            "Gap": "0.474",
+                            "Average_speed": "187.380",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "2:00.836",
+                        "other_info": {
+                            "Gap": "2.592",
+                            "Average_speed": "178.844",
+                            "Laps": "11",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Lusail": {
+                    "Feature Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:38.246",
+                        "other_info": {
+                            "Elapsed_times": "56:31.556",
+                            "Gap": "46.123",
+                            "Average_speed": "172.272",
+                            "Lap_of_fastest_lap": "30",
+                            "Laps": "30",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:39.525",
+                        "other_info": {
+                            "Elapsed_times": "40:53.186",
+                            "Gap": "1.905",
+                            "Average_speed": "182.503",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "23",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:36.845",
+                        "other_info": {
+                            "Gap": "1.730",
+                            "Average_speed": "201.439",
+                            "Laps": "14",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:39.365",
+                        "other_info": {
+                            "Gap": "1.341",
+                            "Average_speed": "196.330",
+                            "Laps": "16",
+                            "Car_number": "24"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:40.372",
+                        "other_info": {
+                            "Elapsed_times": "56:23.715",
+                            "Gap": "-",
+                            "Average_speed": "185.290",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "33",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:36.142",
+                        "other_info": {
+                            "Gap": "0.397",
+                            "Average_speed": "197.745",
+                            "Laps": "12",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:38.244",
+                        "other_info": {
+                            "Gap": "0.427",
+                            "Average_speed": "193.514",
+                            "Laps": "16",
+                            "Car_number": "24"
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.785",
+                        "other_info": {
+                            "Elapsed_times": "41:30.202",
+                            "Gap": "-",
+                            "Average_speed": "175.495",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:29.938",
+                        "other_info": {
+                            "Gap": "0.652",
+                            "Average_speed": "211.265",
+                            "Laps": "15",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.827",
+                        "other_info": {
+                            "Gap": "0.240",
+                            "Average_speed": "204.690",
+                            "Laps": "12",
+                            "Car_number": "20"
+                        }
                     }
                 }
             }

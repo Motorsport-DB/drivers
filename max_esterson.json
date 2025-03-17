@@ -1,233 +1,133 @@
 {
     "firstName": "Max",
-    "lastName": "ESTERSON",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "",
-    "country": null,
+    "lastName": "Esterson",
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 3": {
-                "Sakhir": {
-                    "Qualifying": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "6",
-                        "points": 5,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
+        "2024": {
+            "Formula 2": {
+                "Lusail": {
                     "Feature Race": {
-                        "position": "24",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    }
-                },
-                "Melbourne": {
-                    "Qualifying": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "26",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    }
-                },
-                "Imola": {
-                    "Qualifying": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
                         "position": "18",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    }
-                },
-                "Monaco": {
-                    "Practice": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Qualifying Group A": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:39.648",
+                        "other_info": {
+                            "Elapsed_times": "57:00.466",
+                            "Gap": "75.033",
+                            "Average_speed": "170.816",
+                            "Lap_of_fastest_lap": "24",
+                            "Laps": "30",
+                            "Car_number": "22"
+                        }
                     },
                     "Sprint Race": {
                         "position": "14",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:39.727",
+                        "other_info": {
+                            "Elapsed_times": "40:56.041",
+                            "Gap": "4.760",
+                            "Average_speed": "182.290",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "23",
+                            "Car_number": "22"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    }
-                },
-                "Barcelona": {
-                    "Qualifying": {
-                        "position": "25",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
+                    "Qualifying Session": {
                         "position": "13",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:36.725",
+                        "other_info": {
+                            "Gap": "1.610",
+                            "Average_speed": "201.689",
+                            "Laps": "13",
+                            "Car_number": "22"
+                        }
                     },
-                    "Sprint Race": {
-                        "position": "22",
+                    "Free Practice": {
+                        "position": "18",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "23",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:40.459",
+                        "other_info": {
+                            "Gap": "2.435",
+                            "Average_speed": "194.192",
+                            "Laps": "16",
+                            "Car_number": "22"
+                        }
                     }
                 },
-                "Spielberg": {
-                    "Qualifying": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "25",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
+                "Yas Island": {
                     "Feature Race": {
                         "position": "17",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    }
-                },
-                "Silverstone": {
-                    "Qualifying": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    }
-                },
-                "Budapest": {
-                    "Qualifying": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "25",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:40.173",
+                        "other_info": {
+                            "Elapsed_times": "57:07.239",
+                            "Gap": "43.524",
+                            "Average_speed": "182.936",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "33",
+                            "Car_number": "22"
+                        }
                     },
                     "Sprint Race": {
-                        "position": "16",
+                        "position": "14",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:40.871",
+                        "other_info": {
+                            "Elapsed_times": "39:16.795",
+                            "Gap": "40.756",
+                            "Average_speed": "185.358",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "23",
+                            "Car_number": "22"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "15",
+                    "Qualifying Session": {
+                        "position": "19",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "Trident",
+                        "fastest_lap": "1:37.429",
+                        "other_info": {
+                            "Gap": "1.684",
+                            "Average_speed": "195.132",
+                            "Laps": "11",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:39.602",
+                        "other_info": {
+                            "Gap": "1.785",
+                            "Average_speed": "190.875",
+                            "Laps": "14",
+                            "Car_number": "22"
+                        }
                     }
-                },
-                "Spa-Francorchamps": {
-                    "Qualifying": {
-                        "position": "6",
+                }
+            }
+        },
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Free Practice": {
+                        "position": "8",
                         "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "7",
-                        "points": 6,
-                        "team": "Jenzer Motorsport",
-                        "other_info": {}
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:33.377",
+                        "other_info": {
+                            "Gap": "0.790",
+                            "Average_speed": "203.484",
+                            "Laps": "10",
+                            "Car_number": "23"
+                        }
                     }
                 }
             }

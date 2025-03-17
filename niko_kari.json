@@ -1,197 +1,73 @@
 {
     "firstName": "Niko",
-    "lastName": "KARI",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "assets/images/drivers/Niko_KARI.jpg",
-    "country": null,
+    "lastName": "Kari",
     "seasons": {
-        "2020-2020": {
-            "European Le Mans Series (ELMS)": {
-                "Official Tests - Le Castellet": {
-                    "Session 1": {
-                        "position": "9",
+        "2018": {
+            "Formula 2": {
+                "Sochi": {
+                    "Qualifying Session": {
+                        "position": "16",
                         "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:48.206",
+                        "other_info": {
+                            "Gap": "1.730",
+                            "Average_speed": "194.562",
+                            "Laps": "10",
+                            "Car_number": "10"
+                        }
                     },
-                    "Session 2": {
-                        "position": "5",
+                    "Free Practice": {
+                        "position": "13",
                         "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Session 3": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Session 4": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:49.352",
+                        "other_info": {
+                            "Gap": "1.121",
+                            "Average_speed": "192.523",
+                            "Laps": "18",
+                            "Car_number": "10"
+                        }
                     }
                 },
-                "4 Hours of Le Castellet": {
-                    "Free Practice 1": {
-                        "position": "12",
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "15",
                         "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:57.489",
+                        "other_info": {
+                            "Elapsed_times": "1:04:44.053",
+                            "Gap": "70.190",
+                            "Average_speed": "149.180",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "29",
+                            "Car_number": "10"
+                        }
                     },
-                    "Bronze Driver Collective Test": {
-                        "position": "6",
+                    "Qualifying Session": {
+                        "position": "11",
                         "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:50.375",
+                        "other_info": {
+                            "Gap": "1.124",
+                            "Average_speed": "181.149",
+                            "Laps": "10",
+                            "Car_number": "10"
+                        }
                     },
-                    "Free Practice 2": {
-                        "position": "2",
+                    "Free Practice": {
+                        "position": "18",
                         "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Qualifying - LMP3": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Race": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    }
-                },
-                "4 Hours of Spa-Francorchamps": {
-                    "Free Practice 1": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Bronze driver collective test": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Free Practice 2": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Qualifications - LMP3": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    }
-                },
-                "Le Castellet 240": {
-                    "Free Practice 1": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Bronze driver collective test": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Free Practice 2": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Qualifications - LMP3": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Race": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    }
-                },
-                "4 Hours of Monza": {
-                    "Free Practice 1": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Bronze driver collective test": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Free Practice 2": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Qualifications - LMP3": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Race": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    }
-                },
-                "4 Hours of Portim\u00e3o": {
-                    "Free Practice 1": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Bronze driver collective test": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Free Practice 2": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Qualifications - LMP3": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
-                    },
-                    "Race": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Eurointernational",
-                        "other_info": {}
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:53.605",
+                        "other_info": {
+                            "Gap": "1.885",
+                            "Average_speed": "175.999",
+                            "Laps": "18",
+                            "Car_number": "10"
+                        }
                     }
                 }
             }

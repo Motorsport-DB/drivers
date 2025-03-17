@@ -1,239 +1,105 @@
 {
     "firstName": "Leonardo",
-    "lastName": "FORNAROLI",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "",
-    "country": null,
+    "lastName": "Fornaroli",
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 3": {
-                "Sakhir": {
-                    "Qualifying": {
-                        "position": "6",
+        "2024": {
+            "Formula 2": {
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "13",
                         "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
+                        "team": "Rodin Motorsport",
+                        "fastest_lap": "1:41.184",
+                        "other_info": {
+                            "Elapsed_times": "56:54.105",
+                            "Gap": "30.390",
+                            "Average_speed": "183.640",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "33",
+                            "Car_number": "5"
+                        }
                     },
                     "Sprint Race": {
-                        "position": "3",
-                        "points": 8,
-                        "team": "Trident",
-                        "other_info": {}
+                        "position": "10",
+                        "points": 0,
+                        "team": "Rodin Motorsport",
+                        "fastest_lap": "1:40.823",
+                        "other_info": {
+                            "Elapsed_times": "39:09.346",
+                            "Gap": "33.307",
+                            "Average_speed": "185.946",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "23",
+                            "Car_number": "5"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "7",
-                        "points": 7,
-                        "team": "Trident",
-                        "other_info": {}
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Rodin Motorsport",
+                        "fastest_lap": "1:36.450",
+                        "other_info": {
+                            "Gap": "0.705",
+                            "Average_speed": "197.113",
+                            "Laps": "12",
+                            "Car_number": "5"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Rodin Motorsport",
+                        "fastest_lap": "1:39.262",
+                        "other_info": {
+                            "Gap": "1.445",
+                            "Average_speed": "191.529",
+                            "Laps": "20",
+                            "Car_number": "5"
+                        }
                     }
-                },
+                }
+            }
+        },
+        "2025": {
+            "Formula 2": {
                 "Melbourne": {
-                    "Qualifying": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
                     "Sprint Race": {
-                        "position": "9",
-                        "points": 2,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "2",
-                        "points": 20,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Imola": {
-                    "Qualifying": {
                         "position": "2",
                         "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:32.925",
+                        "other_info": {
+                            "Elapsed_times": "41:32.400",
+                            "Gap": "2.198",
+                            "Average_speed": "175.340",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "23",
+                            "Car_number": "1"
+                        }
                     },
-                    "Practice": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Monaco": {
-                    "Practice": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Qualifying Group A": {
-                        "position": "3",
-                        "points": 10,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "9",
-                        "points": 2,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "5",
-                        "points": 10,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Barcelona": {
-                    "Qualifying": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
+                    "Qualifying Session": {
                         "position": "10",
                         "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:29.948",
+                        "other_info": {
+                            "Gap": "0.662",
+                            "Average_speed": "211.242",
+                            "Laps": "15",
+                            "Car_number": "1"
+                        }
                     },
-                    "Sprint Race": {
-                        "position": "7",
-                        "points": 5,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Spielberg": {
-                    "Qualifying": {
-                        "position": "24",
+                    "Free Practice": {
+                        "position": "16",
                         "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "9",
-                        "points": 2,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Silverstone": {
-                    "Qualifying": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "23",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "10",
-                        "points": 1,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "7",
-                        "points": 6,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Budapest": {
-                    "Qualifying": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "7",
-                        "points": 4,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Spa-Francorchamps": {
-                    "Qualifying": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "9",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "9",
-                        "points": 2,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 15,
-                        "team": "Trident",
-                        "other_info": {}
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:34.859",
+                        "other_info": {
+                            "Gap": "2.272",
+                            "Average_speed": "200.305",
+                            "Laps": "10",
+                            "Car_number": "1"
+                        }
                     }
                 }
             }

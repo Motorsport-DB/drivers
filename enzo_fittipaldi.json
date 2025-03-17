@@ -1,253 +1,2147 @@
 {
     "firstName": "Enzo",
-    "lastName": "FITTIPALDI",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "assets/images/drivers/Enzo_FITTIPALDI.jpg",
-    "country": null,
+    "lastName": "Fittipaldi",
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 2": {
+        "2021": {
+            "Formula 2": {
+                "Monza": {
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:35.289",
+                        "other_info": {
+                            "Elapsed_times": "56:48.181",
+                            "Gap": "8.690",
+                            "Average_speed": "183.244",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "30",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race 2": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:36.481",
+                        "other_info": {
+                            "Elapsed_times": "35:10.915",
+                            "Gap": "33.214",
+                            "Average_speed": "206.942",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "21",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:32.965",
+                        "other_info": {
+                            "Gap": "0.766",
+                            "Average_speed": "224.329",
+                            "Laps": "13",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:34.660",
+                        "other_info": {
+                            "Gap": "1.618",
+                            "Average_speed": "220.312",
+                            "Laps": "21",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Sochi": {
+                    "Feature Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:51.937",
+                        "other_info": {
+                            "Elapsed_times": "54:04.884",
+                            "Gap": "44.482",
+                            "Average_speed": "181.443",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "28",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race 1": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:51.727",
+                        "other_info": {
+                            "Elapsed_times": "37:48.867",
+                            "Gap": "71.672",
+                            "Average_speed": "166.706",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "18",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:49.465",
+                        "other_info": {
+                            "Gap": "2.000",
+                            "Average_speed": "192.324",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:50.803",
+                        "other_info": {
+                            "Gap": "1.380",
+                            "Average_speed": "190.002",
+                            "Laps": "16",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Jeddah": {
+                    "Sprint Race 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:44.211",
+                        "other_info": {
+                            "Elapsed_times": "45:35.482",
+                            "Gap": "3.879",
+                            "Average_speed": "162.175",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "20",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race 1": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:44.912",
+                        "other_info": {
+                            "Elapsed_times": "41:55.067",
+                            "Gap": "10.965",
+                            "Average_speed": "176.388",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "20",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:42.870",
+                        "other_info": {
+                            "Gap": "1.992",
+                            "Average_speed": "216.062",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:44.472",
+                        "other_info": {
+                            "Gap": "1.849",
+                            "Average_speed": "212.749",
+                            "Laps": "17",
+                            "Car_number": "14"
+                        }
+                    }
+                }
+            }
+        },
+        "2022": {
+            "Formula 2": {
                 "Sakhir": {
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:48.069",
+                        "other_info": {
+                            "Elapsed_times": "1:02:04.528",
+                            "Gap": "10.074",
+                            "Average_speed": "161.924",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "31",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:47.187",
+                        "other_info": {
+                            "Elapsed_times": "43:57.885",
+                            "Gap": "22.902",
+                            "Average_speed": "169.540",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "23",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:41.529",
+                        "other_info": {
+                            "Gap": "0.987",
+                            "Average_speed": "191.897",
+                            "Laps": "12",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:46.842",
+                        "other_info": {
+                            "Gap": "2.358",
+                            "Average_speed": "182.355",
+                            "Laps": "17",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Jeddah": {
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:43.667",
+                        "other_info": {
+                            "Elapsed_times": "48:14.132",
+                            "Gap": "32.647",
+                            "Average_speed": "207.044",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "27",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:45.287",
+                        "other_info": {
+                            "Elapsed_times": "48:12.928",
+                            "Gap": "17.441",
+                            "Average_speed": "153.349",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "20",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:42.520",
+                        "other_info": {
+                            "Gap": "2.098",
+                            "Average_speed": "216.800",
+                            "Laps": "11",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:45.147",
+                        "other_info": {
+                            "Gap": "1.047",
+                            "Average_speed": "211.384",
+                            "Laps": "9",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Imola": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:30.151",
+                        "other_info": {
+                            "Elapsed_times": "1:01:56.999",
+                            "Gap": "0.388",
+                            "Average_speed": "166.195",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "35",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:29.597",
+                        "other_info": {
+                            "Elapsed_times": "41:11.604",
+                            "Gap": "21.059",
+                            "Average_speed": "178.436",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "25",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:41.235",
+                        "other_info": {
+                            "Gap": "1.014",
+                            "Average_speed": "174.568",
+                            "Laps": "13",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "-",
+                        "other_info": {
+                            "Gap": "-",
+                            "Average_speed": "-",
+                            "Laps": "3",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:35.013",
+                        "other_info": {
+                            "Elapsed_times": "1:02:46.304",
+                            "Gap": "31.430",
+                            "Average_speed": "165.216",
+                            "Lap_of_fastest_lap": "31",
+                            "Laps": "37",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:36.158",
+                        "other_info": {
+                            "Elapsed_times": "44:29.891",
+                            "Gap": "17.256",
+                            "Average_speed": "163.724",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "26",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:29.205",
+                        "other_info": {
+                            "Gap": "0.593",
+                            "Average_speed": "188.666",
+                            "Laps": "11",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:31.779",
+                        "other_info": {
+                            "Gap": "0.893",
+                            "Average_speed": "183.375",
+                            "Laps": "13",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Monte Carlo": {
+                    "Feature Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:23.525",
+                        "other_info": {
+                            "Elapsed_times": "1:02:49.209",
+                            "Gap": "13.534",
+                            "Average_speed": "133.862",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "42",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:24.087",
+                        "other_info": {
+                            "Elapsed_times": "44:41.655",
+                            "Gap": "13.164",
+                            "Average_speed": "134.393",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "30",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:21.719",
+                        "other_info": {
+                            "Gap": "0.184",
+                            "Average_speed": "147.006",
+                            "Laps": "10",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:22.860",
+                        "other_info": {
+                            "Gap": "1.271",
+                            "Average_speed": "144.981",
+                            "Laps": "27",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:57.620",
+                        "other_info": {
+                            "Elapsed_times": "1:03:32.304",
+                            "Gap": "2.970",
+                            "Average_speed": "147.287",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "26",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:54.738",
+                        "other_info": {
+                            "Gap": "0.976",
+                            "Average_speed": "188.349",
+                            "Laps": "12",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:57.481",
+                        "other_info": {
+                            "Gap": "1.557",
+                            "Average_speed": "183.951",
+                            "Laps": "14",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:43.961",
+                        "other_info": {
+                            "Elapsed_times": "54:19.703",
+                            "Gap": "29.117",
+                            "Average_speed": "188.525",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "29",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:01.157",
+                        "other_info": {
+                            "Elapsed_times": "40:59.210",
+                            "Gap": "16.722",
+                            "Average_speed": "172.278",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "20",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:39.077",
+                        "other_info": {
+                            "Gap": "0.645",
+                            "Average_speed": "214.051",
+                            "Laps": "14",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:42.032",
+                        "other_info": {
+                            "Gap": "1.130",
+                            "Average_speed": "207.852",
+                            "Laps": "13",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:17.585",
+                        "other_info": {
+                            "Elapsed_times": "55:45.014",
+                            "Gap": "14.615",
+                            "Average_speed": "185.750",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "40",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:17.617",
+                        "other_info": {
+                            "Elapsed_times": "36:56.394",
+                            "Gap": "17.538",
+                            "Average_speed": "196.174",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "28",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:14.740",
+                        "other_info": {
+                            "Gap": "0.617",
+                            "Average_speed": "207.985",
+                            "Laps": "17",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:16.506",
+                        "other_info": {
+                            "Gap": "1.468",
+                            "Average_speed": "203.184",
+                            "Laps": "14",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:33.071",
+                        "other_info": {
+                            "Elapsed_times": "59:00.322",
+                            "Gap": "3.641",
+                            "Average_speed": "164.788",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "37",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:32.934",
+                        "other_info": {
+                            "Elapsed_times": "45:48.967",
+                            "Gap": "6.325",
+                            "Average_speed": "160.591",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "28",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:28.686",
+                        "other_info": {
+                            "Gap": "0.756",
+                            "Average_speed": "177.836",
+                            "Laps": "13",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:30.259",
+                        "other_info": {
+                            "Gap": "0.697",
+                            "Average_speed": "174.737",
+                            "Laps": "20",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:01.948",
+                        "other_info": {
+                            "Elapsed_times": "52:41.614",
+                            "Gap": "2.481",
+                            "Average_speed": "199.553",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "25",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:03.188",
+                        "other_info": {
+                            "Elapsed_times": "40:38.144",
+                            "Gap": "15.801",
+                            "Average_speed": "185.966",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "18",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:58.615",
+                        "other_info": {
+                            "Gap": "0.383",
+                            "Average_speed": "212.573",
+                            "Laps": "11",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:04.776",
+                        "other_info": {
+                            "Gap": "3.400",
+                            "Average_speed": "202.077",
+                            "Laps": "9",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Feature Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:25.200",
+                        "other_info": {
+                            "Elapsed_times": "1:25:30.471",
+                            "Gap": "7.987",
+                            "Average_speed": "113.520",
+                            "Lap_of_fastest_lap": "37",
+                            "Laps": "38",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:26.382",
+                        "other_info": {
+                            "Elapsed_times": "43:49.965",
+                            "Gap": "7.416",
+                            "Average_speed": "168.983",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "29",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:21.733",
+                        "other_info": {
+                            "Gap": "1.020",
+                            "Average_speed": "187.591",
+                            "Laps": "12",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:24.608",
+                        "other_info": {
+                            "Gap": "1.641",
+                            "Average_speed": "181.216",
+                            "Laps": "17",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:34.244",
+                        "other_info": {
+                            "Elapsed_times": "1:06:45.684",
+                            "Gap": "6.491",
+                            "Average_speed": "155.911",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "30",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:34.052",
+                        "other_info": {
+                            "Elapsed_times": "35:52.250",
+                            "Gap": "22.604",
+                            "Average_speed": "202.968",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "21",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:32.455",
+                        "other_info": {
+                            "Gap": "0.814",
+                            "Average_speed": "225.567",
+                            "Laps": "13",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:33.850",
+                        "other_info": {
+                            "Gap": "1.513",
+                            "Average_speed": "222.214",
+                            "Laps": "17",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:40.376",
+                        "other_info": {
+                            "Elapsed_times": "57:30.524",
+                            "Gap": "27.616",
+                            "Average_speed": "181.702",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "33",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:36.680",
+                        "other_info": {
+                            "Gap": "0.390",
+                            "Average_speed": "196.644",
+                            "Laps": "11",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:39.393",
+                        "other_info": {
+                            "Gap": "1.225",
+                            "Average_speed": "191.277",
+                            "Laps": "17",
+                            "Car_number": "22"
+                        }
+                    }
+                },
+                "Le Castellet": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:48.392",
+                        "other_info": {
+                            "Elapsed_times": "58:32.254",
+                            "Gap": "37.686",
+                            "Average_speed": "179.704",
+                            "Lap_of_fastest_lap": "28",
+                            "Laps": "30",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:45.035",
+                        "other_info": {
+                            "Gap": "1.164",
+                            "Average_speed": "200.230",
+                            "Laps": "6",
+                            "Car_number": "22"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:47.162",
+                        "other_info": {
+                            "Gap": "0.661",
+                            "Average_speed": "196.256",
+                            "Laps": "21",
+                            "Car_number": "22"
+                        }
+                    }
+                }
+            }
+        },
+        "2023": {
+            "Formula 2": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:48.986",
+                        "other_info": {
+                            "Elapsed_times": "1:02:02.322",
+                            "Gap": "51.396",
+                            "Average_speed": "167.254",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "32",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:48.661",
+                        "other_info": {
+                            "Elapsed_times": "42:33.662",
+                            "Gap": "43.065",
+                            "Average_speed": "175.132",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "23",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:42.049",
+                        "other_info": {
+                            "Gap": "1.146",
+                            "Average_speed": "190.920",
+                            "Laps": "13",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:46.144",
+                        "other_info": {
+                            "Gap": "0.880",
+                            "Average_speed": "183.554",
+                            "Laps": "5",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Jeddah": {
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:44.349",
+                        "other_info": {
+                            "Elapsed_times": "50:59.807",
+                            "Gap": "14.220",
+                            "Average_speed": "203.097",
+                            "Lap_of_fastest_lap": "28",
+                            "Laps": "28",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:45.255",
+                        "other_info": {
+                            "Elapsed_times": "42:29.872",
+                            "Gap": "8.358",
+                            "Average_speed": "173.980",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "20",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:42.686",
+                        "other_info": {
+                            "Gap": "1.360",
+                            "Average_speed": "216.450",
+                            "Laps": "11",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:44.478",
+                        "other_info": {
+                            "Gap": "0.977",
+                            "Average_speed": "212.737",
+                            "Laps": "15",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Melbourne": {
+                    "Qualifying Session": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:47.267",
+                        "other_info": {
+                            "Gap": "2.149",
+                            "Average_speed": "177.135",
+                            "Laps": "13",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:29.465",
+                        "other_info": {
+                            "Gap": "0.476",
+                            "Average_speed": "212.382",
+                            "Laps": "17",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:54.331",
+                        "other_info": {
+                            "Elapsed_times": "57:25.478",
+                            "Gap": "2.315",
+                            "Average_speed": "181.785",
+                            "Lap_of_fastest_lap": "23",
+                            "Laps": "29",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:56.389",
+                        "other_info": {
+                            "Elapsed_times": "51:35.153",
+                            "Gap": "7.879",
+                            "Average_speed": "146.504",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "21",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:52.664",
+                        "other_info": {
+                            "Gap": "0.012",
+                            "Average_speed": "191.816",
+                            "Laps": "13",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:54.840",
+                        "other_info": {
+                            "Gap": "0.777",
+                            "Average_speed": "188.181",
+                            "Laps": "17",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Monte Carlo": {
+                    "Sprint Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:24.655",
+                        "other_info": {
+                            "Elapsed_times": "46:57.834",
+                            "Gap": "18.801",
+                            "Average_speed": "127.898",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "30",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:21.824",
+                        "other_info": {
+                            "Gap": "0.593",
+                            "Average_speed": "146.817",
+                            "Laps": "9",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:22.591",
+                        "other_info": {
+                            "Gap": "0.510",
+                            "Average_speed": "145.454",
+                            "Laps": "21",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:30.318",
+                        "other_info": {
+                            "Elapsed_times": "56:59.573",
+                            "Gap": "2.844",
+                            "Average_speed": "181.267",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "37",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:31.138",
+                        "other_info": {
+                            "Elapsed_times": "47:35.183",
+                            "Gap": "12.387",
+                            "Average_speed": "152.509",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "26",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:23.623",
+                        "other_info": {
+                            "Gap": "0.077",
+                            "Average_speed": "200.485",
+                            "Laps": "10",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:27.194",
+                        "other_info": {
+                            "Gap": "0.472",
+                            "Average_speed": "192.274",
+                            "Laps": "8",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:17.655",
+                        "other_info": {
+                            "Elapsed_times": "56:34.197",
+                            "Gap": "3.147",
+                            "Average_speed": "183.059",
+                            "Lap_of_fastest_lap": "38",
+                            "Laps": "40",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:14.953",
+                        "other_info": {
+                            "Gap": "0.310",
+                            "Average_speed": "207.393",
+                            "Laps": "16",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:15.216",
+                        "other_info": {
+                            "Gap": "-",
+                            "Average_speed": "206.668",
+                            "Laps": "15",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:43.318",
+                        "other_info": {
+                            "Elapsed_times": "59:13.352",
+                            "Gap": "18.963",
+                            "Average_speed": "172.945",
+                            "Lap_of_fastest_lap": "29",
+                            "Laps": "29",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "2:01.623",
+                        "other_info": {
+                            "Elapsed_times": "40:42.015",
+                            "Gap": "25.610",
+                            "Average_speed": "164.807",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "19",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:39.991",
+                        "other_info": {
+                            "Gap": "0.159",
+                            "Average_speed": "212.095",
+                            "Laps": "10",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:41.849",
+                        "other_info": {
+                            "Gap": "0.256",
+                            "Average_speed": "208.225",
+                            "Laps": "15",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Feature Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:32.195",
+                        "other_info": {
+                            "Elapsed_times": "58:23.371",
+                            "Gap": "30.937",
+                            "Average_speed": "166.526",
+                            "Lap_of_fastest_lap": "32",
+                            "Laps": "37",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:34.841",
+                        "other_info": {
+                            "Elapsed_times": "45:09.204",
+                            "Gap": "26.060",
+                            "Average_speed": "162.948",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "28",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:28.267",
+                        "other_info": {
+                            "Gap": "0.591",
+                            "Average_speed": "178.680",
+                            "Laps": "13",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:29.493",
+                        "other_info": {
+                            "Gap": "0.611",
+                            "Average_speed": "176.232",
+                            "Laps": "19",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "2:01.622",
+                        "other_info": {
+                            "Elapsed_times": "59:10.884",
+                            "Gap": "9.118",
+                            "Average_speed": "177.396",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "25",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "2:03.608",
+                        "other_info": {
+                            "Elapsed_times": "37:30.579",
+                            "Gap": "-",
+                            "Average_speed": "190.261",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "17",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "2:09.818",
+                        "other_info": {
+                            "Gap": "4.082",
+                            "Average_speed": "194.228",
+                            "Laps": "3",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "2:17.852",
+                        "other_info": {
+                            "Gap": "1.001",
+                            "Average_speed": "182.909",
+                            "Laps": "8",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:24.818",
+                        "other_info": {
+                            "Elapsed_times": "1:01:53.771",
+                            "Gap": "17.646",
+                            "Average_speed": "156.824",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "38",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "-",
+                        "other_info": {
+                            "Elapsed_times": "5:32.294",
+                            "Gap": "33.292",
+                            "Average_speed": "91.621",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "2",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:22.002",
+                        "other_info": {
+                            "Gap": "0.792",
+                            "Average_speed": "186.975",
+                            "Laps": "12",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:24.240",
+                        "other_info": {
+                            "Gap": "1.525",
+                            "Average_speed": "182.008",
+                            "Laps": "17",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:35.298",
+                        "other_info": {
+                            "Elapsed_times": "1:03:51.424",
+                            "Gap": "0.906",
+                            "Average_speed": "163.002",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "30",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:34.986",
+                        "other_info": {
+                            "Elapsed_times": "40:31.825",
+                            "Gap": "13.819",
+                            "Average_speed": "179.633",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "21",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:32.809",
+                        "other_info": {
+                            "Gap": "0.481",
+                            "Average_speed": "224.706",
+                            "Laps": "9",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:33.968",
+                        "other_info": {
+                            "Gap": "0.803",
+                            "Average_speed": "221.935",
+                            "Laps": "16",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:39.937",
+                        "other_info": {
+                            "Elapsed_times": "56:53.557",
+                            "Gap": "49.678",
+                            "Average_speed": "183.670",
+                            "Lap_of_fastest_lap": "24",
+                            "Laps": "33",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:39.212",
+                        "other_info": {
+                            "Elapsed_times": "42:28.517",
+                            "Gap": "3.893",
+                            "Average_speed": "171.414",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "23",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:36.282",
+                        "other_info": {
+                            "Gap": "0.715",
+                            "Average_speed": "197.457",
+                            "Laps": "13",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:38.113",
+                        "other_info": {
+                            "Gap": "0.724",
+                            "Average_speed": "193.772",
+                            "Laps": "15",
+                            "Car_number": "4"
+                        }
+                    }
+                }
+            }
+        },
+        "2024": {
+            "Formula 2": {
+                "Sakhir": {
+                    "Sprint Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:45.833",
+                        "other_info": {
+                            "Elapsed_times": "43:09.909",
+                            "Gap": "56.183",
+                            "Average_speed": "172.680",
+                            "Lap_of_fastest_lap": "23",
+                            "Laps": "23",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "7",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:42.070",
+                        "other_info": {
+                            "Gap": "0.374",
+                            "Average_speed": "190.880",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "9",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:45.945",
+                        "other_info": {
+                            "Gap": "0.846",
+                            "Average_speed": "183.899",
+                            "Laps": "14",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Jeddah": {
+                    "Feature Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:44.449",
+                        "other_info": {
+                            "Elapsed_times": "56:57.579",
+                            "Gap": "-",
+                            "Average_speed": "181.836",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "28",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:44.894",
+                        "other_info": {
+                            "Elapsed_times": "41:43.457",
+                            "Gap": "4.712",
+                            "Average_speed": "177.206",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "20",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "5",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:42.420",
+                        "other_info": {
+                            "Gap": "0.203",
+                            "Average_speed": "217.012",
+                            "Laps": "13",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "11",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 6,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "1",
-                        "points": 26,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:44.525",
+                        "other_info": {
+                            "Gap": "0.732",
+                            "Average_speed": "212.641",
+                            "Laps": "15",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Melbourne": {
+                    "Feature Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:32.168",
+                        "other_info": {
+                            "Elapsed_times": "57:51.285",
+                            "Gap": "69.169",
+                            "Average_speed": "180.632",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "33",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:32.038",
+                        "other_info": {
+                            "Elapsed_times": "44:11.201",
+                            "Gap": "18.691",
+                            "Average_speed": "164.837",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "18",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:31.578",
+                        "other_info": {
+                            "Gap": "2.884",
+                            "Average_speed": "207.482",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "19",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
+                        "fastest_lap": "1:31.412",
+                        "other_info": {
+                            "Gap": "1.758",
+                            "Average_speed": "207.858",
+                            "Laps": "15",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Imola": {
                     "Feature Race": {
                         "position": "17",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    }
-                },
-                "Imola": {
+                        "fastest_lap": "1:30.520",
+                        "other_info": {
+                            "Elapsed_times": "54:44.564",
+                            "Gap": "43.055",
+                            "Average_speed": "188.076",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "35",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "11",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:27.739",
+                        "other_info": {
+                            "Gap": "0.683",
+                            "Average_speed": "201.420",
+                            "Laps": "13",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "20",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.020",
+                        "other_info": {
+                            "Gap": "1.168",
+                            "Average_speed": "196.316",
+                            "Laps": "16",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Monte Carlo": {
-                    "Free Practice": {
-                        "position": "21",
+                    "Feature Race": {
+                        "position": "12",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Qualifying Group A": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:23.453",
+                        "other_info": {
+                            "Elapsed_times": "1:00:53.114",
+                            "Gap": "27.418",
+                            "Average_speed": "138.116",
+                            "Lap_of_fastest_lap": "18",
+                            "Laps": "42",
+                            "Car_number": "14"
+                        }
                     },
                     "Sprint Race": {
                         "position": "9",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:24.186",
+                        "other_info": {
+                            "Elapsed_times": "1:04:37.836",
+                            "Gap": "16.890",
+                            "Average_speed": "92.937",
+                            "Lap_of_fastest_lap": "30",
+                            "Laps": "30",
+                            "Car_number": "14"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "12",
+                    "Qualifying Group A": {
+                        "position": "6",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:21.723",
+                        "other_info": {
+                            "Gap": "0.440",
+                            "Average_speed": "146.999",
+                            "Laps": "11",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:46.991",
+                        "other_info": {
+                            "Gap": "7.754",
+                            "Average_speed": "112.282",
+                            "Laps": "16",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Barcelona": {
-                    "Qualifying Session": {
-                        "position": "16",
+                    "Feature Race": {
+                        "position": "11",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.027",
+                        "other_info": {
+                            "Elapsed_times": "1:00:15.955",
+                            "Gap": "29.155",
+                            "Average_speed": "171.423",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "37",
+                            "Car_number": "14"
+                        }
                     },
                     "Sprint Race": {
                         "position": "16",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:31.696",
+                        "other_info": {
+                            "Elapsed_times": "40:19.045",
+                            "Gap": "31.765",
+                            "Average_speed": "180.005",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "26",
+                            "Car_number": "14"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "11",
+                    "Qualifying Session": {
+                        "position": "16",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:25.342",
+                        "other_info": {
+                            "Gap": "0.576",
+                            "Average_speed": "196.447",
+                            "Laps": "9",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:27.058",
+                        "other_info": {
+                            "Gap": "0.136",
+                            "Average_speed": "192.575",
+                            "Laps": "13",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Spielberg": {
+                    "Feature Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:18.824",
+                        "other_info": {
+                            "Elapsed_times": "54:10.721",
+                            "Gap": "11.399",
+                            "Average_speed": "191.138",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "40",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:19.711",
+                        "other_info": {
+                            "Elapsed_times": "37:46.588",
+                            "Gap": "23.629",
+                            "Average_speed": "191.830",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "28",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "15",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:16.047",
+                        "other_info": {
+                            "Gap": "0.560",
+                            "Average_speed": "204.410",
+                            "Laps": "16",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "7",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "4",
-                        "points": 12,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:16.972",
+                        "other_info": {
+                            "Gap": "0.531",
+                            "Average_speed": "201.953",
+                            "Laps": "23",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Silverstone": {
-                    "Qualifying Session": {
-                        "position": "20",
+                    "Feature Race": {
+                        "position": "8",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Free Practice": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:43.480",
+                        "other_info": {
+                            "Elapsed_times": "55:06.341",
+                            "Gap": "17.990",
+                            "Average_speed": "185.866",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "29",
+                            "Car_number": "14"
+                        }
                     },
                     "Sprint Race": {
                         "position": "13",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "2:03.293",
+                        "other_info": {
+                            "Elapsed_times": "1:03:04.605",
+                            "Gap": "29.749",
+                            "Average_speed": "117.549",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "21",
+                            "Car_number": "14"
+                        }
                     },
-                    "Feature Race": {
-                        "position": "8",
-                        "points": 4,
+                    "Qualifying Session": {
+                        "position": "20",
+                        "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:40.705",
+                        "other_info": {
+                            "Gap": "1.337",
+                            "Average_speed": "210.591",
+                            "Laps": "13",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "2:03.145",
+                        "other_info": {
+                            "Gap": "5.081",
+                            "Average_speed": "172.216",
+                            "Laps": "6",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Budapest": {
+                    "Feature Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:33.517",
+                        "other_info": {
+                            "Elapsed_times": "1:03:05.207",
+                            "Gap": "18.516",
+                            "Average_speed": "149.961",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "36",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:34.441",
+                        "other_info": {
+                            "Elapsed_times": "45:39.680",
+                            "Gap": "1 LAP",
+                            "Average_speed": "155.379",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "27",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "2",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:30.096",
+                        "other_info": {
+                            "Gap": "0.068",
+                            "Average_speed": "175.053",
+                            "Laps": "10",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "3",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "5",
-                        "points": 10,
-                        "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:32.928",
+                        "other_info": {
+                            "Gap": "0.260",
+                            "Average_speed": "169.718",
+                            "Laps": "13",
+                            "Car_number": "14"
+                        }
                     }
                 },
                 "Spa-Francorchamps": {
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "2:22.495",
+                        "other_info": {
+                            "Elapsed_times": "14:31.247",
+                            "Gap": "15.699",
+                            "Average_speed": "144.190",
+                            "Lap_of_fastest_lap": "2",
+                            "Laps": "5",
+                            "Car_number": "14"
+                        }
+                    },
                     "Qualifying Session": {
                         "position": "13",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:57.821",
+                        "other_info": {
+                            "Gap": "0.862",
+                            "Average_speed": "214.005",
+                            "Laps": "11",
+                            "Car_number": "14"
+                        }
                     },
                     "Free Practice": {
                         "position": "13",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "2:00.012",
+                        "other_info": {
+                            "Gap": "1.282",
+                            "Average_speed": "210.098",
+                            "Laps": "11",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:33.569",
+                        "other_info": {
+                            "Elapsed_times": "50:47.709",
+                            "Gap": "17.372",
+                            "Average_speed": "204.918",
+                            "Lap_of_fastest_lap": "25",
+                            "Laps": "30",
+                            "Car_number": "14"
+                        }
                     },
                     "Sprint Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:33.951",
+                        "other_info": {
+                            "Elapsed_times": "35:50.812",
+                            "Gap": "13.587",
+                            "Average_speed": "203.103",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "21",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:32.620",
+                        "other_info": {
+                            "Gap": "0.460",
+                            "Average_speed": "225.165",
+                            "Laps": "9",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
                         "position": "14",
                         "points": 0,
                         "team": "Van Amersfoort Racing",
-                        "other_info": {}
+                        "fastest_lap": "1:33.367",
+                        "other_info": {
+                            "Gap": "0.982",
+                            "Average_speed": "223.363",
+                            "Laps": "17",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Baku": {
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:57.577",
+                        "other_info": {
+                            "Elapsed_times": "1:10:11.068",
+                            "Gap": "2.653",
+                            "Average_speed": "87.153",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "17",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:57.047",
+                        "other_info": {
+                            "Elapsed_times": "44:17.181",
+                            "Gap": "17.065",
+                            "Average_speed": "170.651",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "21",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:56.686",
+                        "other_info": {
+                            "Gap": "1.829",
+                            "Average_speed": "185.204",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:58.244",
+                        "other_info": {
+                            "Gap": "-",
+                            "Average_speed": "182.764",
+                            "Laps": "10",
+                            "Car_number": "14"
+                        }
                     }
                 }
             }

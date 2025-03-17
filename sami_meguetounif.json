@@ -1,221 +1,33 @@
 {
-    "firstName": "Sami",
-    "lastName": "MEGUETOUNIF",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "",
-    "country": null,
+    "firstName": "{todo}",
+    "lastName": "Meguetounif",
     "seasons": {
-        "2024-2024": {
-            "FIA Formula 3": {
-                "Sakhir": {
-                    "Qualifying": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "10",
-                        "points": 1,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "4",
-                        "points": 12,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
+        "2025": {
+            "Formula 2": {
                 "Melbourne": {
-                    "Qualifying": {
-                        "position": "26",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Imola": {
-                    "Qualifying": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "1",
-                        "points": 25,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Monaco": {
-                    "Practice": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Barcelona": {
-                    "Qualifying": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
+                    "Qualifying Session": {
                         "position": "15",
                         "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Spielberg": {
-                    "Qualifying": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:30.239",
+                        "other_info": {
+                            "Gap": "0.953",
+                            "Average_speed": "210.560",
+                            "Laps": "14",
+                            "Car_number": "22"
+                        }
                     },
-                    "Practice": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "10",
-                        "points": 1,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Silverstone": {
-                    "Qualifying": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "8",
-                        "points": 3,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
+                    "Free Practice": {
                         "position": "12",
                         "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Budapest": {
-                    "Qualifying": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "10",
-                        "points": 1,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "25",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    }
-                },
-                "Spa-Francorchamps": {
-                    "Qualifying": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Practice": {
-                        "position": "30",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Sprint Race": {
-                        "position": "27",
-                        "points": 0,
-                        "team": "Trident",
-                        "other_info": {}
-                    },
-                    "Feature Race": {
-                        "position": "5",
-                        "points": 10,
-                        "team": "Trident",
-                        "other_info": {}
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:33.779",
+                        "other_info": {
+                            "Gap": "1.192",
+                            "Average_speed": "202.612",
+                            "Laps": "10",
+                            "Car_number": "22"
+                        }
                     }
                 }
             }
