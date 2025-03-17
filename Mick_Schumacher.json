@@ -2,6 +2,496 @@
     "firstName": "Mick",
     "lastName": "Schumacher",
     "seasons": {
+        "2020": {
+            "Formula 2": {
+                "Barcelona": {
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:34.303",
+                        "other_info": {
+                            "Elapsed_times": "42:06.625",
+                            "Gap": "10.956",
+                            "Average_speed": "172.267",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "26",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:34.649",
+                        "other_info": {
+                            "Elapsed_times": "1:02:23.254",
+                            "Gap": "8.471",
+                            "Average_speed": "156.568",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "35",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:28.889",
+                        "other_info": {
+                            "Gap": "0.508",
+                            "Average_speed": "188.527",
+                            "Laps": "12",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:29.669",
+                        "other_info": {
+                            "Gap": "0.009",
+                            "Average_speed": "186.887",
+                            "Laps": "16",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Sprint Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:17.614",
+                        "other_info": {
+                            "Elapsed_times": "42:15.267",
+                            "Gap": "9.741",
+                            "Average_speed": "171.500",
+                            "Lap_of_fastest_lap": "26",
+                            "Laps": "28",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:17.239",
+                        "other_info": {
+                            "Elapsed_times": "54:41.099",
+                            "Gap": "20.049",
+                            "Average_speed": "189.368",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "40",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:14.952",
+                        "other_info": {
+                            "Gap": "0.536",
+                            "Average_speed": "207.396",
+                            "Laps": "15",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:16.597",
+                        "other_info": {
+                            "Gap": "1.348",
+                            "Average_speed": "202.942",
+                            "Laps": "10",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Sprint Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:42.703",
+                        "other_info": {
+                            "Elapsed_times": "40:16.249",
+                            "Gap": "26.230",
+                            "Average_speed": "184.118",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "21",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:43.768",
+                        "other_info": {
+                            "Elapsed_times": "51:42.695",
+                            "Gap": "24.742",
+                            "Average_speed": "198.065",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "29",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:39.761",
+                        "other_info": {
+                            "Gap": "0.234",
+                            "Average_speed": "212.584",
+                            "Laps": "11",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:41.671",
+                        "other_info": {
+                            "Gap": "1.108",
+                            "Average_speed": "208.590",
+                            "Laps": "20",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.836",
+                        "other_info": {
+                            "Elapsed_times": "45:16.487",
+                            "Gap": "11.762",
+                            "Average_speed": "162.511",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "28",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.192",
+                        "other_info": {
+                            "Elapsed_times": "1:01:59.262",
+                            "Gap": "23.051",
+                            "Average_speed": "156.860",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "37",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:51.584",
+                        "other_info": {
+                            "Gap": "0.817",
+                            "Average_speed": "141.342",
+                            "Laps": "9",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "-",
+                        "other_info": {
+                            "Gap": "-",
+                            "Average_speed": "-",
+                            "Laps": "3",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:02.655",
+                        "other_info": {
+                            "Elapsed_times": "42:53.416",
+                            "Gap": "9.025",
+                            "Average_speed": "176.191",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "18",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:02.660",
+                        "other_info": {
+                            "Elapsed_times": "53:48.177",
+                            "Gap": "5.639",
+                            "Average_speed": "195.129",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "25",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:58.076",
+                        "other_info": {
+                            "Gap": "0.483",
+                            "Average_speed": "213.543",
+                            "Laps": "10",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:58.848",
+                        "other_info": {
+                            "Gap": "0.615",
+                            "Average_speed": "212.156",
+                            "Laps": "10",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:34.533",
+                        "other_info": {
+                            "Elapsed_times": "34:14.550",
+                            "Gap": "6.615",
+                            "Average_speed": "212.619",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "21",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:34.729",
+                        "other_info": {
+                            "Elapsed_times": "48:24.641",
+                            "Gap": "-",
+                            "Average_speed": "215.011",
+                            "Lap_of_fastest_lap": "30",
+                            "Laps": "30",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.277",
+                        "other_info": {
+                            "Gap": "0.348",
+                            "Average_speed": "226.002",
+                            "Laps": "10",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.637",
+                        "other_info": {
+                            "Gap": "0.468",
+                            "Average_speed": "225.123",
+                            "Laps": "15",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Mugello": {
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:35.671",
+                        "other_info": {
+                            "Elapsed_times": "38:09.998",
+                            "Gap": "18.018",
+                            "Average_speed": "189.710",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "23",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:34.895",
+                        "other_info": {
+                            "Elapsed_times": "59:28.243",
+                            "Gap": "5.374",
+                            "Average_speed": "174.667",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "33",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:30.924",
+                        "other_info": {
+                            "Gap": "0.791",
+                            "Average_speed": "207.667",
+                            "Laps": "10",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.331",
+                        "other_info": {
+                            "Gap": "0.857",
+                            "Average_speed": "204.503",
+                            "Laps": "18",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Sochi": {
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:52.625",
+                        "other_info": {
+                            "Elapsed_times": "10:06.000",
+                            "Gap": "4.816",
+                            "Average_speed": "172.520",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "5",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:52.304",
+                        "other_info": {
+                            "Elapsed_times": "55:02.871",
+                            "Gap": "-",
+                            "Average_speed": "178.257",
+                            "Lap_of_fastest_lap": "28",
+                            "Laps": "28",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:48.883",
+                        "other_info": {
+                            "Gap": "0.195",
+                            "Average_speed": "193.352",
+                            "Laps": "12",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:50.331",
+                        "other_info": {
+                            "Gap": "0.700",
+                            "Average_speed": "190.814",
+                            "Laps": "14",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Sakhir": {
+                    "Sprint Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:47.179",
+                        "other_info": {
+                            "Elapsed_times": "43:36.733",
+                            "Gap": "20.741",
+                            "Average_speed": "170.910",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "23",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:47.001",
+                        "other_info": {
+                            "Elapsed_times": "58:44.274",
+                            "Gap": "20.270",
+                            "Average_speed": "176.653",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "32",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:42.283",
+                        "other_info": {
+                            "Gap": "0.804",
+                            "Average_speed": "190.483",
+                            "Laps": "9",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:43.172",
+                        "other_info": {
+                            "Gap": "0.512",
+                            "Average_speed": "188.841",
+                            "Laps": "13",
+                            "Car_number": "20"
+                        }
+                    }
+                }
+            }
+        },
         "2019": {
             "Formula 2": {
                 "Baku": {
@@ -537,496 +1027,6 @@
                             "Average_speed": "143.263",
                             "Laps": "28",
                             "Car_number": "9"
-                        }
-                    }
-                }
-            }
-        },
-        "2020": {
-            "Formula 2": {
-                "Barcelona": {
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:34.303",
-                        "other_info": {
-                            "Elapsed_times": "42:06.625",
-                            "Gap": "10.956",
-                            "Average_speed": "172.267",
-                            "Lap_of_fastest_lap": "4",
-                            "Laps": "26",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:34.649",
-                        "other_info": {
-                            "Elapsed_times": "1:02:23.254",
-                            "Gap": "8.471",
-                            "Average_speed": "156.568",
-                            "Lap_of_fastest_lap": "6",
-                            "Laps": "35",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:28.889",
-                        "other_info": {
-                            "Gap": "0.508",
-                            "Average_speed": "188.527",
-                            "Laps": "12",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:29.669",
-                        "other_info": {
-                            "Gap": "0.009",
-                            "Average_speed": "186.887",
-                            "Laps": "16",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Spielberg": {
-                    "Sprint Race": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:17.614",
-                        "other_info": {
-                            "Elapsed_times": "42:15.267",
-                            "Gap": "9.741",
-                            "Average_speed": "171.500",
-                            "Lap_of_fastest_lap": "26",
-                            "Laps": "28",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:17.239",
-                        "other_info": {
-                            "Elapsed_times": "54:41.099",
-                            "Gap": "20.049",
-                            "Average_speed": "189.368",
-                            "Lap_of_fastest_lap": "27",
-                            "Laps": "40",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:14.952",
-                        "other_info": {
-                            "Gap": "0.536",
-                            "Average_speed": "207.396",
-                            "Laps": "15",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:16.597",
-                        "other_info": {
-                            "Gap": "1.348",
-                            "Average_speed": "202.942",
-                            "Laps": "10",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Silverstone": {
-                    "Sprint Race": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:42.703",
-                        "other_info": {
-                            "Elapsed_times": "40:16.249",
-                            "Gap": "26.230",
-                            "Average_speed": "184.118",
-                            "Lap_of_fastest_lap": "4",
-                            "Laps": "21",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "9",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:43.768",
-                        "other_info": {
-                            "Elapsed_times": "51:42.695",
-                            "Gap": "24.742",
-                            "Average_speed": "198.065",
-                            "Lap_of_fastest_lap": "10",
-                            "Laps": "29",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:39.761",
-                        "other_info": {
-                            "Gap": "0.234",
-                            "Average_speed": "212.584",
-                            "Laps": "11",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:41.671",
-                        "other_info": {
-                            "Gap": "1.108",
-                            "Average_speed": "208.590",
-                            "Laps": "20",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Budapest": {
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:32.836",
-                        "other_info": {
-                            "Elapsed_times": "45:16.487",
-                            "Gap": "11.762",
-                            "Average_speed": "162.511",
-                            "Lap_of_fastest_lap": "22",
-                            "Laps": "28",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:32.192",
-                        "other_info": {
-                            "Elapsed_times": "1:01:59.262",
-                            "Gap": "23.051",
-                            "Average_speed": "156.860",
-                            "Lap_of_fastest_lap": "8",
-                            "Laps": "37",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:51.584",
-                        "other_info": {
-                            "Gap": "0.817",
-                            "Average_speed": "141.342",
-                            "Laps": "9",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "-",
-                        "other_info": {
-                            "Gap": "-",
-                            "Average_speed": "-",
-                            "Laps": "3",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Spa-Francorchamps": {
-                    "Sprint Race": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "2:02.655",
-                        "other_info": {
-                            "Elapsed_times": "42:53.416",
-                            "Gap": "9.025",
-                            "Average_speed": "176.191",
-                            "Lap_of_fastest_lap": "12",
-                            "Laps": "18",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "2:02.660",
-                        "other_info": {
-                            "Elapsed_times": "53:48.177",
-                            "Gap": "5.639",
-                            "Average_speed": "195.129",
-                            "Lap_of_fastest_lap": "13",
-                            "Laps": "25",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:58.076",
-                        "other_info": {
-                            "Gap": "0.483",
-                            "Average_speed": "213.543",
-                            "Laps": "10",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:58.848",
-                        "other_info": {
-                            "Gap": "0.615",
-                            "Average_speed": "212.156",
-                            "Laps": "10",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Monza": {
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:34.533",
-                        "other_info": {
-                            "Elapsed_times": "34:14.550",
-                            "Gap": "6.615",
-                            "Average_speed": "212.619",
-                            "Lap_of_fastest_lap": "5",
-                            "Laps": "21",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:34.729",
-                        "other_info": {
-                            "Elapsed_times": "48:24.641",
-                            "Gap": "-",
-                            "Average_speed": "215.011",
-                            "Lap_of_fastest_lap": "30",
-                            "Laps": "30",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:32.277",
-                        "other_info": {
-                            "Gap": "0.348",
-                            "Average_speed": "226.002",
-                            "Laps": "10",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:32.637",
-                        "other_info": {
-                            "Gap": "0.468",
-                            "Average_speed": "225.123",
-                            "Laps": "15",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Mugello": {
-                    "Sprint Race": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:35.671",
-                        "other_info": {
-                            "Elapsed_times": "38:09.998",
-                            "Gap": "18.018",
-                            "Average_speed": "189.710",
-                            "Lap_of_fastest_lap": "3",
-                            "Laps": "23",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:34.895",
-                        "other_info": {
-                            "Elapsed_times": "59:28.243",
-                            "Gap": "5.374",
-                            "Average_speed": "174.667",
-                            "Lap_of_fastest_lap": "21",
-                            "Laps": "33",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:30.924",
-                        "other_info": {
-                            "Gap": "0.791",
-                            "Average_speed": "207.667",
-                            "Laps": "10",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:32.331",
-                        "other_info": {
-                            "Gap": "0.857",
-                            "Average_speed": "204.503",
-                            "Laps": "18",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Sochi": {
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:52.625",
-                        "other_info": {
-                            "Elapsed_times": "10:06.000",
-                            "Gap": "4.816",
-                            "Average_speed": "172.520",
-                            "Lap_of_fastest_lap": "5",
-                            "Laps": "5",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:52.304",
-                        "other_info": {
-                            "Elapsed_times": "55:02.871",
-                            "Gap": "-",
-                            "Average_speed": "178.257",
-                            "Lap_of_fastest_lap": "28",
-                            "Laps": "28",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:48.883",
-                        "other_info": {
-                            "Gap": "0.195",
-                            "Average_speed": "193.352",
-                            "Laps": "12",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:50.331",
-                        "other_info": {
-                            "Gap": "0.700",
-                            "Average_speed": "190.814",
-                            "Laps": "14",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Sakhir": {
-                    "Sprint Race": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:47.179",
-                        "other_info": {
-                            "Elapsed_times": "43:36.733",
-                            "Gap": "20.741",
-                            "Average_speed": "170.910",
-                            "Lap_of_fastest_lap": "10",
-                            "Laps": "23",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:47.001",
-                        "other_info": {
-                            "Elapsed_times": "58:44.274",
-                            "Gap": "20.270",
-                            "Average_speed": "176.653",
-                            "Lap_of_fastest_lap": "21",
-                            "Laps": "32",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:42.283",
-                        "other_info": {
-                            "Gap": "0.804",
-                            "Average_speed": "190.483",
-                            "Laps": "9",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:43.172",
-                        "other_info": {
-                            "Gap": "0.512",
-                            "Average_speed": "188.841",
-                            "Laps": "13",
-                            "Car_number": "20"
                         }
                     }
                 }

@@ -2,6 +2,64 @@
     "firstName": "Lirim",
     "lastName": "Zendeli",
     "seasons": {
+        "2022": {
+            "Formula 2": {
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:03.759",
+                        "other_info": {
+                            "Elapsed_times": "46:32.752",
+                            "Gap": "DNF",
+                            "Average_speed": "198.467",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "22",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:03.461",
+                        "other_info": {
+                            "Elapsed_times": "40:45.550",
+                            "Gap": "23.207",
+                            "Average_speed": "185.403",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "18",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:59.704",
+                        "other_info": {
+                            "Gap": "1.472",
+                            "Average_speed": "210.639",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:01.844",
+                        "other_info": {
+                            "Gap": "0.468",
+                            "Average_speed": "206.940",
+                            "Laps": "11",
+                            "Car_number": "14"
+                        }
+                    }
+                }
+            }
+        },
         "2021": {
             "Formula 2": {
                 "Sakhir": {
@@ -353,64 +411,6 @@
                             "Average_speed": "190.681",
                             "Laps": "16",
                             "Car_number": "12"
-                        }
-                    }
-                }
-            }
-        },
-        "2022": {
-            "Formula 2": {
-                "Spa-Francorchamps": {
-                    "Feature Race": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:03.759",
-                        "other_info": {
-                            "Elapsed_times": "46:32.752",
-                            "Gap": "DNF",
-                            "Average_speed": "198.467",
-                            "Lap_of_fastest_lap": "16",
-                            "Laps": "22",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Sprint Race": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:03.461",
-                        "other_info": {
-                            "Elapsed_times": "40:45.550",
-                            "Gap": "23.207",
-                            "Average_speed": "185.403",
-                            "Lap_of_fastest_lap": "4",
-                            "Laps": "18",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:59.704",
-                        "other_info": {
-                            "Gap": "1.472",
-                            "Average_speed": "210.639",
-                            "Laps": "12",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:01.844",
-                        "other_info": {
-                            "Gap": "0.468",
-                            "Average_speed": "206.940",
-                            "Laps": "11",
-                            "Car_number": "14"
                         }
                     }
                 }

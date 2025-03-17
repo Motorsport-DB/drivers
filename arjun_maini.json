@@ -2,6 +2,144 @@
     "firstName": "Arjun",
     "lastName": "Maini",
     "seasons": {
+        "2019": {
+            "Formula 2": {
+                "Spielberg": {
+                    "Sprint Race": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:19.097",
+                        "other_info": {
+                            "Elapsed_times": "39:08.547",
+                            "Gap": "22.856",
+                            "Average_speed": "185.136",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "28",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:15.363",
+                        "other_info": {
+                            "Gap": "1.220",
+                            "Average_speed": "206.265",
+                            "Laps": "14",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:15.949",
+                        "other_info": {
+                            "Gap": "1.167",
+                            "Average_speed": "204.674",
+                            "Laps": "28",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:40.715",
+                        "other_info": {
+                            "Elapsed_times": "37:28.403",
+                            "Gap": "40.581",
+                            "Average_speed": "197.863",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "21",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:41.874",
+                        "other_info": {
+                            "Elapsed_times": "51:13.186",
+                            "Gap": "47.072",
+                            "Average_speed": "200.293",
+                            "Lap_of_fastest_lap": "27",
+                            "Laps": "29",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.512",
+                        "other_info": {
+                            "Gap": "1.330",
+                            "Average_speed": "213.116",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.899",
+                        "other_info": {
+                            "Gap": "0.733",
+                            "Average_speed": "212.290",
+                            "Laps": "20",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Sprint Race": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:33.734",
+                        "other_info": {
+                            "Elapsed_times": "44:39.934",
+                            "Gap": "40.093",
+                            "Average_speed": "164.728",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "28",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:52.718",
+                        "other_info": {
+                            "Gap": "2.909",
+                            "Average_speed": "139.920",
+                            "Laps": "12",
+                            "Car_number": "14"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:30.350",
+                        "other_info": {
+                            "Gap": "1.114",
+                            "Average_speed": "174.561",
+                            "Laps": "18",
+                            "Car_number": "14"
+                        }
+                    }
+                }
+            }
+        },
         "2018": {
             "Formula 2": {
                 "Sakhir": {
@@ -579,144 +717,6 @@
                             "Average_speed": "176.188",
                             "Laps": "17",
                             "Car_number": "16"
-                        }
-                    }
-                }
-            }
-        },
-        "2019": {
-            "Formula 2": {
-                "Spielberg": {
-                    "Sprint Race": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:19.097",
-                        "other_info": {
-                            "Elapsed_times": "39:08.547",
-                            "Gap": "22.856",
-                            "Average_speed": "185.136",
-                            "Lap_of_fastest_lap": "9",
-                            "Laps": "28",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:15.363",
-                        "other_info": {
-                            "Gap": "1.220",
-                            "Average_speed": "206.265",
-                            "Laps": "14",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:15.949",
-                        "other_info": {
-                            "Gap": "1.167",
-                            "Average_speed": "204.674",
-                            "Laps": "28",
-                            "Car_number": "14"
-                        }
-                    }
-                },
-                "Silverstone": {
-                    "Sprint Race": {
-                        "position": "13",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:40.715",
-                        "other_info": {
-                            "Elapsed_times": "37:28.403",
-                            "Gap": "40.581",
-                            "Average_speed": "197.863",
-                            "Lap_of_fastest_lap": "21",
-                            "Laps": "21",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Feature Race": {
-                        "position": "13",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:41.874",
-                        "other_info": {
-                            "Elapsed_times": "51:13.186",
-                            "Gap": "47.072",
-                            "Average_speed": "200.293",
-                            "Lap_of_fastest_lap": "27",
-                            "Laps": "29",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:39.512",
-                        "other_info": {
-                            "Gap": "1.330",
-                            "Average_speed": "213.116",
-                            "Laps": "12",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "7",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:39.899",
-                        "other_info": {
-                            "Gap": "0.733",
-                            "Average_speed": "212.290",
-                            "Laps": "20",
-                            "Car_number": "14"
-                        }
-                    }
-                },
-                "Budapest": {
-                    "Sprint Race": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:33.734",
-                        "other_info": {
-                            "Elapsed_times": "44:39.934",
-                            "Gap": "40.093",
-                            "Average_speed": "164.728",
-                            "Lap_of_fastest_lap": "13",
-                            "Laps": "28",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:52.718",
-                        "other_info": {
-                            "Gap": "2.909",
-                            "Average_speed": "139.920",
-                            "Laps": "12",
-                            "Car_number": "14"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:30.350",
-                        "other_info": {
-                            "Gap": "1.114",
-                            "Average_speed": "174.561",
-                            "Laps": "18",
-                            "Car_number": "14"
                         }
                     }
                 }

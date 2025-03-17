@@ -2,6 +2,50 @@
     "firstName": "Rafael",
     "lastName": "Villagómez",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:33.524",
+                        "other_info": {
+                            "Elapsed_times": "41:43.605",
+                            "Gap": "13.403",
+                            "Average_speed": "174.555",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "25"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:30.656",
+                        "other_info": {
+                            "Gap": "1.370",
+                            "Average_speed": "209.592",
+                            "Laps": "16",
+                            "Car_number": "25"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Van Amersfoort Racing",
+                        "fastest_lap": "1:36.030",
+                        "other_info": {
+                            "Gap": "3.443",
+                            "Average_speed": "197.863",
+                            "Laps": "10",
+                            "Car_number": "25"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 2": {
                 "Sakhir": {
@@ -663,50 +707,6 @@
                             "Average_speed": "192.199",
                             "Laps": "17",
                             "Car_number": "15"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Sprint Race": {
-                        "position": "13",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "fastest_lap": "1:33.524",
-                        "other_info": {
-                            "Elapsed_times": "41:43.605",
-                            "Gap": "13.403",
-                            "Average_speed": "174.555",
-                            "Lap_of_fastest_lap": "22",
-                            "Laps": "23",
-                            "Car_number": "25"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "fastest_lap": "1:30.656",
-                        "other_info": {
-                            "Gap": "1.370",
-                            "Average_speed": "209.592",
-                            "Laps": "16",
-                            "Car_number": "25"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Van Amersfoort Racing",
-                        "fastest_lap": "1:36.030",
-                        "other_info": {
-                            "Gap": "3.443",
-                            "Average_speed": "197.863",
-                            "Laps": "10",
-                            "Car_number": "25"
                         }
                     }
                 }

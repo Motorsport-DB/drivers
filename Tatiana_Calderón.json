@@ -2,6 +2,170 @@
     "firstName": "Tatiana",
     "lastName": "Calderón",
     "seasons": {
+        "2022": {
+            "Formula 2": {
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:03.306",
+                        "other_info": {
+                            "Elapsed_times": "53:13.517",
+                            "Gap": "57.384",
+                            "Average_speed": "197.247",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "25",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:04.136",
+                        "other_info": {
+                            "Elapsed_times": "40:41.387",
+                            "Gap": "19.044",
+                            "Average_speed": "185.719",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "18",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:00.531",
+                        "other_info": {
+                            "Gap": "2.299",
+                            "Average_speed": "209.194",
+                            "Laps": "11",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "2:02.535",
+                        "other_info": {
+                            "Gap": "1.159",
+                            "Average_speed": "205.773",
+                            "Laps": "13",
+                            "Car_number": "23"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Qualifying Session": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:23.113",
+                        "other_info": {
+                            "Gap": "2.400",
+                            "Average_speed": "184.476",
+                            "Laps": "12",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:25.824",
+                        "other_info": {
+                            "Gap": "2.857",
+                            "Average_speed": "178.649",
+                            "Laps": "17",
+                            "Car_number": "23"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Qualifying Session": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:33.625",
+                        "other_info": {
+                            "Gap": "1.984",
+                            "Average_speed": "222.748",
+                            "Laps": "13",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:35.093",
+                        "other_info": {
+                            "Gap": "2.756",
+                            "Average_speed": "219.309",
+                            "Laps": "16",
+                            "Car_number": "23"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:40.396",
+                        "other_info": {
+                            "Elapsed_times": "57:48.024",
+                            "Gap": "45.116",
+                            "Average_speed": "180.785",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "33",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:41.720",
+                        "other_info": {
+                            "Elapsed_times": "1:13:08.758",
+                            "Gap": "74.890",
+                            "Average_speed": "99.539",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "23",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:37.828",
+                        "other_info": {
+                            "Gap": "1.538",
+                            "Average_speed": "194.336",
+                            "Laps": "11",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Charouz Racing System",
+                        "fastest_lap": "1:40.276",
+                        "other_info": {
+                            "Gap": "2.108",
+                            "Average_speed": "189.592",
+                            "Laps": "17",
+                            "Car_number": "23"
+                        }
+                    }
+                }
+            }
+        },
         "2019": {
             "Formula 2": {
                 "Baku": {
@@ -539,170 +703,6 @@
                             "Average_speed": "139.607",
                             "Laps": "24",
                             "Car_number": "18"
-                        }
-                    }
-                }
-            }
-        },
-        "2022": {
-            "Formula 2": {
-                "Spa-Francorchamps": {
-                    "Feature Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "2:03.306",
-                        "other_info": {
-                            "Elapsed_times": "53:13.517",
-                            "Gap": "57.384",
-                            "Average_speed": "197.247",
-                            "Lap_of_fastest_lap": "11",
-                            "Laps": "25",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Sprint Race": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "2:04.136",
-                        "other_info": {
-                            "Elapsed_times": "40:41.387",
-                            "Gap": "19.044",
-                            "Average_speed": "185.719",
-                            "Lap_of_fastest_lap": "4",
-                            "Laps": "18",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "2:00.531",
-                        "other_info": {
-                            "Gap": "2.299",
-                            "Average_speed": "209.194",
-                            "Laps": "11",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "2:02.535",
-                        "other_info": {
-                            "Gap": "1.159",
-                            "Average_speed": "205.773",
-                            "Laps": "13",
-                            "Car_number": "23"
-                        }
-                    }
-                },
-                "Zandvoort": {
-                    "Qualifying Session": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:23.113",
-                        "other_info": {
-                            "Gap": "2.400",
-                            "Average_speed": "184.476",
-                            "Laps": "12",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:25.824",
-                        "other_info": {
-                            "Gap": "2.857",
-                            "Average_speed": "178.649",
-                            "Laps": "17",
-                            "Car_number": "23"
-                        }
-                    }
-                },
-                "Monza": {
-                    "Qualifying Session": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:33.625",
-                        "other_info": {
-                            "Gap": "1.984",
-                            "Average_speed": "222.748",
-                            "Laps": "13",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:35.093",
-                        "other_info": {
-                            "Gap": "2.756",
-                            "Average_speed": "219.309",
-                            "Laps": "16",
-                            "Car_number": "23"
-                        }
-                    }
-                },
-                "Yas Island": {
-                    "Feature Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:40.396",
-                        "other_info": {
-                            "Elapsed_times": "57:48.024",
-                            "Gap": "45.116",
-                            "Average_speed": "180.785",
-                            "Lap_of_fastest_lap": "21",
-                            "Laps": "33",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Sprint Race": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:41.720",
-                        "other_info": {
-                            "Elapsed_times": "1:13:08.758",
-                            "Gap": "74.890",
-                            "Average_speed": "99.539",
-                            "Lap_of_fastest_lap": "8",
-                            "Laps": "23",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:37.828",
-                        "other_info": {
-                            "Gap": "1.538",
-                            "Average_speed": "194.336",
-                            "Laps": "11",
-                            "Car_number": "23"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Charouz Racing System",
-                        "fastest_lap": "1:40.276",
-                        "other_info": {
-                            "Gap": "2.108",
-                            "Average_speed": "189.592",
-                            "Laps": "17",
-                            "Car_number": "23"
                         }
                     }
                 }

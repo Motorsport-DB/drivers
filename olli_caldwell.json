@@ -2,146 +2,6 @@
     "firstName": "Olli",
     "lastName": "Caldwell",
     "seasons": {
-        "2021": {
-            "Formula 2": {
-                "Jeddah": {
-                    "Feature Race": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:46.438",
-                        "other_info": {
-                            "Elapsed_times": "47:23.075",
-                            "Gap": "13.736",
-                            "Average_speed": "38.772",
-                            "Lap_of_fastest_lap": "5",
-                            "Laps": "5",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Sprint Race 2": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:45.339",
-                        "other_info": {
-                            "Elapsed_times": "45:37.751",
-                            "Gap": "6.148",
-                            "Average_speed": "162.041",
-                            "Lap_of_fastest_lap": "12",
-                            "Laps": "20",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Sprint Race 1": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:45.785",
-                        "other_info": {
-                            "Elapsed_times": "42:08.754",
-                            "Gap": "24.652",
-                            "Average_speed": "175.433",
-                            "Lap_of_fastest_lap": "12",
-                            "Laps": "20",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:42.919",
-                        "other_info": {
-                            "Gap": "2.041",
-                            "Average_speed": "215.960",
-                            "Laps": "12",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:43.985",
-                        "other_info": {
-                            "Gap": "1.362",
-                            "Average_speed": "213.746",
-                            "Laps": "17",
-                            "Car_number": "20"
-                        }
-                    }
-                },
-                "Yas Island": {
-                    "Feature Race": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:39.336",
-                        "other_info": {
-                            "Elapsed_times": "58:58.246",
-                            "Gap": "43.846",
-                            "Average_speed": "177.197",
-                            "Lap_of_fastest_lap": "33",
-                            "Laps": "33",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Sprint Race 2": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:39.974",
-                        "other_info": {
-                            "Elapsed_times": "43:59.332",
-                            "Gap": "32.236",
-                            "Average_speed": "165.516",
-                            "Lap_of_fastest_lap": "22",
-                            "Laps": "23",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Sprint Race 1": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:39.070",
-                        "other_info": {
-                            "Elapsed_times": "40:17.166",
-                            "Gap": "103.561",
-                            "Average_speed": "180.729",
-                            "Lap_of_fastest_lap": "22",
-                            "Laps": "23",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:36.570",
-                        "other_info": {
-                            "Gap": "1.493",
-                            "Average_speed": "196.868",
-                            "Laps": "12",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:38.538",
-                        "other_info": {
-                            "Gap": "1.738",
-                            "Average_speed": "192.936",
-                            "Laps": "22",
-                            "Car_number": "20"
-                        }
-                    }
-                }
-            }
-        },
         "2022": {
             "Formula 2": {
                 "Sakhir": {
@@ -787,6 +647,146 @@
                             "Average_speed": "195.802",
                             "Laps": "20",
                             "Car_number": "14"
+                        }
+                    }
+                }
+            }
+        },
+        "2021": {
+            "Formula 2": {
+                "Jeddah": {
+                    "Feature Race": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:46.438",
+                        "other_info": {
+                            "Elapsed_times": "47:23.075",
+                            "Gap": "13.736",
+                            "Average_speed": "38.772",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "5",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Sprint Race 2": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:45.339",
+                        "other_info": {
+                            "Elapsed_times": "45:37.751",
+                            "Gap": "6.148",
+                            "Average_speed": "162.041",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "20",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Sprint Race 1": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:45.785",
+                        "other_info": {
+                            "Elapsed_times": "42:08.754",
+                            "Gap": "24.652",
+                            "Average_speed": "175.433",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "20",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:42.919",
+                        "other_info": {
+                            "Gap": "2.041",
+                            "Average_speed": "215.960",
+                            "Laps": "12",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:43.985",
+                        "other_info": {
+                            "Gap": "1.362",
+                            "Average_speed": "213.746",
+                            "Laps": "17",
+                            "Car_number": "20"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Feature Race": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.336",
+                        "other_info": {
+                            "Elapsed_times": "58:58.246",
+                            "Gap": "43.846",
+                            "Average_speed": "177.197",
+                            "Lap_of_fastest_lap": "33",
+                            "Laps": "33",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Sprint Race 2": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.974",
+                        "other_info": {
+                            "Elapsed_times": "43:59.332",
+                            "Gap": "32.236",
+                            "Average_speed": "165.516",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Sprint Race 1": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.070",
+                        "other_info": {
+                            "Elapsed_times": "40:17.166",
+                            "Gap": "103.561",
+                            "Average_speed": "180.729",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:36.570",
+                        "other_info": {
+                            "Gap": "1.493",
+                            "Average_speed": "196.868",
+                            "Laps": "12",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:38.538",
+                        "other_info": {
+                            "Gap": "1.738",
+                            "Average_speed": "192.936",
+                            "Laps": "22",
+                            "Car_number": "20"
                         }
                     }
                 }

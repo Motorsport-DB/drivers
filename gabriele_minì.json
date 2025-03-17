@@ -2,50 +2,6 @@
     "firstName": "Gabriele",
     "lastName": "Minì",
     "seasons": {
-        "2024": {
-            "Formula 2": {
-                "Baku": {
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:57.422",
-                        "other_info": {
-                            "Elapsed_times": "44:04.695",
-                            "Gap": "4.579",
-                            "Average_speed": "171.457",
-                            "Lap_of_fastest_lap": "20",
-                            "Laps": "21",
-                            "Car_number": "3"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:55.442",
-                        "other_info": {
-                            "Gap": "0.585",
-                            "Average_speed": "187.200",
-                            "Laps": "10",
-                            "Car_number": "3"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "PREMA Racing",
-                        "fastest_lap": "1:59.632",
-                        "other_info": {
-                            "Gap": "1.388",
-                            "Average_speed": "180.643",
-                            "Laps": "10",
-                            "Car_number": "3"
-                        }
-                    }
-                }
-            }
-        },
         "2025": {
             "Formula 2": {
                 "Melbourne": {
@@ -85,6 +41,50 @@
                             "Average_speed": "200.514",
                             "Laps": "10",
                             "Car_number": "10"
+                        }
+                    }
+                }
+            }
+        },
+        "2024": {
+            "Formula 2": {
+                "Baku": {
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:57.422",
+                        "other_info": {
+                            "Elapsed_times": "44:04.695",
+                            "Gap": "4.579",
+                            "Average_speed": "171.457",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "21",
+                            "Car_number": "3"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:55.442",
+                        "other_info": {
+                            "Gap": "0.585",
+                            "Average_speed": "187.200",
+                            "Laps": "10",
+                            "Car_number": "3"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:59.632",
+                        "other_info": {
+                            "Gap": "1.388",
+                            "Average_speed": "180.643",
+                            "Laps": "10",
+                            "Car_number": "3"
                         }
                     }
                 }

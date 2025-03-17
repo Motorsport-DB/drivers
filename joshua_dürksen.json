@@ -2,6 +2,50 @@
     "firstName": "Joshua",
     "lastName": "Dürksen",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.785",
+                        "other_info": {
+                            "Elapsed_times": "41:30.202",
+                            "Gap": "-",
+                            "Average_speed": "175.495",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:29.938",
+                        "other_info": {
+                            "Gap": "0.652",
+                            "Average_speed": "211.265",
+                            "Laps": "15",
+                            "Car_number": "20"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "AIX Racing",
+                        "fastest_lap": "1:32.827",
+                        "other_info": {
+                            "Gap": "0.240",
+                            "Average_speed": "204.690",
+                            "Laps": "12",
+                            "Car_number": "20"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 2": {
                 "Sakhir": {
@@ -687,50 +731,6 @@
                             "Average_speed": "193.514",
                             "Laps": "16",
                             "Car_number": "24"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Sprint Race": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "fastest_lap": "1:32.785",
-                        "other_info": {
-                            "Elapsed_times": "41:30.202",
-                            "Gap": "-",
-                            "Average_speed": "175.495",
-                            "Lap_of_fastest_lap": "22",
-                            "Laps": "23",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "9",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "fastest_lap": "1:29.938",
-                        "other_info": {
-                            "Gap": "0.652",
-                            "Average_speed": "211.265",
-                            "Laps": "15",
-                            "Car_number": "20"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "AIX Racing",
-                        "fastest_lap": "1:32.827",
-                        "other_info": {
-                            "Gap": "0.240",
-                            "Average_speed": "204.690",
-                            "Laps": "12",
-                            "Car_number": "20"
                         }
                     }
                 }

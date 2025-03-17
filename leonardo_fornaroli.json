@@ -2,6 +2,50 @@
     "firstName": "Leonardo",
     "lastName": "Fornaroli",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:32.925",
+                        "other_info": {
+                            "Elapsed_times": "41:32.400",
+                            "Gap": "2.198",
+                            "Average_speed": "175.340",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "23",
+                            "Car_number": "1"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:29.948",
+                        "other_info": {
+                            "Gap": "0.662",
+                            "Average_speed": "211.242",
+                            "Laps": "15",
+                            "Car_number": "1"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Invicta Racing",
+                        "fastest_lap": "1:34.859",
+                        "other_info": {
+                            "Gap": "2.272",
+                            "Average_speed": "200.305",
+                            "Laps": "10",
+                            "Car_number": "1"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 2": {
                 "Yas Island": {
@@ -55,50 +99,6 @@
                             "Average_speed": "191.529",
                             "Laps": "20",
                             "Car_number": "5"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Sprint Race": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "fastest_lap": "1:32.925",
-                        "other_info": {
-                            "Elapsed_times": "41:32.400",
-                            "Gap": "2.198",
-                            "Average_speed": "175.340",
-                            "Lap_of_fastest_lap": "21",
-                            "Laps": "23",
-                            "Car_number": "1"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "10",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "fastest_lap": "1:29.948",
-                        "other_info": {
-                            "Gap": "0.662",
-                            "Average_speed": "211.242",
-                            "Laps": "15",
-                            "Car_number": "1"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Invicta Racing",
-                        "fastest_lap": "1:34.859",
-                        "other_info": {
-                            "Gap": "2.272",
-                            "Average_speed": "200.305",
-                            "Laps": "10",
-                            "Car_number": "1"
                         }
                     }
                 }

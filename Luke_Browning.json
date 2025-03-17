@@ -2,6 +2,50 @@
     "firstName": "Luke",
     "lastName": "Browning",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Hitech TGR",
+                        "fastest_lap": "1:32.931",
+                        "other_info": {
+                            "Elapsed_times": "41:33.081",
+                            "Gap": "2.879",
+                            "Average_speed": "175.292",
+                            "Lap_of_fastest_lap": "22",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Hitech TGR",
+                        "fastest_lap": "1:29.867",
+                        "other_info": {
+                            "Gap": "0.581",
+                            "Average_speed": "211.432",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Hitech TGR",
+                        "fastest_lap": "1:32.966",
+                        "other_info": {
+                            "Gap": "0.379",
+                            "Average_speed": "204.384",
+                            "Laps": "10",
+                            "Car_number": "7"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 1": {
                 "ETIHAD AIRWAYS ABU DHABI GRAND PRIX": {
@@ -177,50 +221,6 @@
                             "Average_speed": "191.865",
                             "Laps": "18",
                             "Car_number": "2"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Sprint Race": {
-                        "position": "3",
-                        "points": 0,
-                        "team": "Hitech TGR",
-                        "fastest_lap": "1:32.931",
-                        "other_info": {
-                            "Elapsed_times": "41:33.081",
-                            "Gap": "2.879",
-                            "Average_speed": "175.292",
-                            "Lap_of_fastest_lap": "22",
-                            "Laps": "23",
-                            "Car_number": "7"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Hitech TGR",
-                        "fastest_lap": "1:29.867",
-                        "other_info": {
-                            "Gap": "0.581",
-                            "Average_speed": "211.432",
-                            "Laps": "14",
-                            "Car_number": "7"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Hitech TGR",
-                        "fastest_lap": "1:32.966",
-                        "other_info": {
-                            "Gap": "0.379",
-                            "Average_speed": "204.384",
-                            "Laps": "10",
-                            "Car_number": "7"
                         }
                     }
                 }

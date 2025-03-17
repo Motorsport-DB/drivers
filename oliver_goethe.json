@@ -2,6 +2,50 @@
     "firstName": "Oliver",
     "lastName": "Goethe",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:33.268",
+                        "other_info": {
+                            "Elapsed_times": "41:41.223",
+                            "Gap": "11.021",
+                            "Average_speed": "174.721",
+                            "Lap_of_fastest_lap": "21",
+                            "Laps": "23",
+                            "Car_number": "5"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:31.308",
+                        "other_info": {
+                            "Gap": "2.022",
+                            "Average_speed": "208.095",
+                            "Laps": "9",
+                            "Car_number": "5"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "MP Motorsport",
+                        "fastest_lap": "1:34.343",
+                        "other_info": {
+                            "Gap": "1.756",
+                            "Average_speed": "201.401",
+                            "Laps": "7",
+                            "Car_number": "5"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 2": {
                 "Monza": {
@@ -175,50 +219,6 @@
                             "Average_speed": "192.756",
                             "Laps": "17",
                             "Car_number": "12"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Sprint Race": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "MP Motorsport",
-                        "fastest_lap": "1:33.268",
-                        "other_info": {
-                            "Elapsed_times": "41:41.223",
-                            "Gap": "11.021",
-                            "Average_speed": "174.721",
-                            "Lap_of_fastest_lap": "21",
-                            "Laps": "23",
-                            "Car_number": "5"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "MP Motorsport",
-                        "fastest_lap": "1:31.308",
-                        "other_info": {
-                            "Gap": "2.022",
-                            "Average_speed": "208.095",
-                            "Laps": "9",
-                            "Car_number": "5"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "13",
-                        "points": 0,
-                        "team": "MP Motorsport",
-                        "fastest_lap": "1:34.343",
-                        "other_info": {
-                            "Gap": "1.756",
-                            "Average_speed": "201.401",
-                            "Laps": "7",
-                            "Car_number": "5"
                         }
                     }
                 }

@@ -2,6 +2,24 @@
     "firstName": "Max",
     "lastName": "Esterson",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Free Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:33.377",
+                        "other_info": {
+                            "Gap": "0.790",
+                            "Average_speed": "203.484",
+                            "Laps": "10",
+                            "Car_number": "23"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 2": {
                 "Lusail": {
@@ -109,24 +127,6 @@
                             "Average_speed": "190.875",
                             "Laps": "14",
                             "Car_number": "22"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Free Practice": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:33.377",
-                        "other_info": {
-                            "Gap": "0.790",
-                            "Average_speed": "203.484",
-                            "Laps": "10",
-                            "Car_number": "23"
                         }
                     }
                 }

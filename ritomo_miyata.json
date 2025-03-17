@@ -2,6 +2,50 @@
     "firstName": "Ritomo",
     "lastName": "Miyata",
     "seasons": {
+        "2025": {
+            "Formula 2": {
+                "Melbourne": {
+                    "Sprint Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:33.419",
+                        "other_info": {
+                            "Elapsed_times": "41:42.447",
+                            "Gap": "12.245",
+                            "Average_speed": "174.636",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "23",
+                            "Car_number": "15"
+                        }
+                    },
+                    "Qualifying Session": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:30.017",
+                        "other_info": {
+                            "Gap": "0.731",
+                            "Average_speed": "211.080",
+                            "Laps": "15",
+                            "Car_number": "15"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:33.540",
+                        "other_info": {
+                            "Gap": "0.953",
+                            "Average_speed": "203.130",
+                            "Laps": "11",
+                            "Car_number": "15"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 2": {
                 "Sakhir": {
@@ -717,50 +761,6 @@
                             "Average_speed": "193.382",
                             "Laps": "15",
                             "Car_number": "6"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 2": {
-                "Melbourne": {
-                    "Sprint Race": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "ART Grand Prix",
-                        "fastest_lap": "1:33.419",
-                        "other_info": {
-                            "Elapsed_times": "41:42.447",
-                            "Gap": "12.245",
-                            "Average_speed": "174.636",
-                            "Lap_of_fastest_lap": "20",
-                            "Laps": "23",
-                            "Car_number": "15"
-                        }
-                    },
-                    "Qualifying Session": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "ART Grand Prix",
-                        "fastest_lap": "1:30.017",
-                        "other_info": {
-                            "Gap": "0.731",
-                            "Average_speed": "211.080",
-                            "Laps": "15",
-                            "Car_number": "15"
-                        }
-                    },
-                    "Free Practice": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "ART Grand Prix",
-                        "fastest_lap": "1:33.540",
-                        "other_info": {
-                            "Gap": "0.953",
-                            "Average_speed": "203.130",
-                            "Laps": "11",
-                            "Car_number": "15"
                         }
                     }
                 }
