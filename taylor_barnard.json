@@ -1,6 +1,6 @@
 {
     "firstName": "Taylor",
-    "lastName": "BARNARD",
+    "lastName": "Barnard",
     "Nickname": null,
     "dateOfBirth": null,
     "picture": "",
@@ -491,6 +491,84 @@
                             "Average_speed": "209.725",
                             "Laps": "7",
                             "Car_number": "25"
+                        }
+                    }
+                }
+            }
+        },
+        "2023": {
+            "Formula 3": {
+                "Monaco": {
+                    "Feature Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Jenzer Motorsport",
+                        "fastest_lap": "1:26.394",
+                        "other_info": {
+                            "Elapsed_times": "42:11.415",
+                            "Gap": "25.764",
+                            "Average_speed": "128.132",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "27",
+                            "Car_number": "27"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Jenzer Motorsport",
+                        "fastest_lap": "2:21.982",
+                        "other_info": {
+                            "Elapsed_times": "39:50.104",
+                            "Gap": "-",
+                            "Average_speed": "158.055",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "15",
+                            "Car_number": "27"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Jenzer Motorsport",
+                        "fastest_lap": "1:40.438",
+                        "other_info": {
+                            "Elapsed_times": "47:06.003",
+                            "Gap": "0.825",
+                            "Average_speed": "154.578",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "21",
+                            "Car_number": "27"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Jenzer Motorsport",
+                        "fastest_lap": "1:40.582",
+                        "other_info": {
+                            "Elapsed_times": "34:09.310",
+                            "Gap": "2.322",
+                            "Average_speed": "182.634",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "18",
+                            "Car_number": "27"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Jenzer Motorsport",
+                        "fastest_lap": "1:39.573",
+                        "other_info": {
+                            "Gap": "0.664",
+                            "Average_speed": "209.442",
+                            "Laps": "3",
+                            "Car_number": "27"
                         }
                     }
                 }

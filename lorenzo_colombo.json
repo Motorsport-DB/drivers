@@ -1,9 +1,448 @@
 {
     "firstName": "Lorenzo",
-    "lastName": "COLOMBO",
+    "lastName": "Colombo",
     "Nickname": null,
     "dateOfBirth": null,
     "picture": "",
     "country": null,
-    "seasons": {}
+    "seasons": {
+        "2021": {
+            "Formula 3": {
+                "Barcelona": {
+                    "Race 3": {
+                        "position": "29",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:37.229",
+                        "other_info": {
+                            "Elapsed_times": "36:29.069",
+                            "Gap": "1 LAP",
+                            "Average_speed": "161.244",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "21",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:38.528",
+                        "other_info": {
+                            "Elapsed_times": "40:59.524",
+                            "Gap": "16.901",
+                            "Average_speed": "150.356",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "22",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:37.801",
+                        "other_info": {
+                            "Elapsed_times": "36:37.694",
+                            "Gap": "14.171",
+                            "Average_speed": "160.612",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "21",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "24",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:34.024",
+                        "other_info": {
+                            "Gap": "1.120",
+                            "Average_speed": "178.996",
+                            "Laps": "10",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:34.620",
+                        "other_info": {
+                            "Gap": "1.024",
+                            "Average_speed": "177.869",
+                            "Laps": "13",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Le Castellet": {
+                    "Race 3": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:07.540",
+                        "other_info": {
+                            "Elapsed_times": "44:07.182",
+                            "Gap": "47.672",
+                            "Average_speed": "158.982",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "20",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:53.356",
+                        "other_info": {
+                            "Elapsed_times": "38:22.496",
+                            "Gap": "30.605",
+                            "Average_speed": "183.179",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "20",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:53.215",
+                        "other_info": {
+                            "Elapsed_times": "38:36.308",
+                            "Gap": "9.727",
+                            "Average_speed": "181.691",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "20",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:51.809",
+                        "other_info": {
+                            "Gap": "0.927",
+                            "Average_speed": "188.099",
+                            "Laps": "14",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:52.672",
+                        "other_info": {
+                            "Gap": "1.194",
+                            "Average_speed": "186.658",
+                            "Laps": "18",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Race 3": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:22.506",
+                        "other_info": {
+                            "Elapsed_times": "36:29.256",
+                            "Gap": "11.319",
+                            "Average_speed": "170.204",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "24",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:22.703",
+                        "other_info": {
+                            "Elapsed_times": "35:47.729",
+                            "Gap": "21.231",
+                            "Average_speed": "173.495",
+                            "Lap_of_fastest_lap": "19",
+                            "Laps": "24",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "25",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:22.661",
+                        "other_info": {
+                            "Elapsed_times": "34:45.885",
+                            "Gap": "66.745",
+                            "Average_speed": "178.639",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "24",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:20.634",
+                        "other_info": {
+                            "Gap": "0.908",
+                            "Average_speed": "192.782",
+                            "Laps": "15",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:20.291",
+                        "other_info": {
+                            "Gap": "0.321",
+                            "Average_speed": "193.605",
+                            "Laps": "25",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Race 3": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:48.401",
+                        "other_info": {
+                            "Elapsed_times": "40:21.009",
+                            "Gap": "5.979",
+                            "Average_speed": "130.229",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "20",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:35.852",
+                        "other_info": {
+                            "Elapsed_times": "35:33.738",
+                            "Gap": "7.013",
+                            "Average_speed": "162.546",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "22",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:35.330",
+                        "other_info": {
+                            "Elapsed_times": "37:14.098",
+                            "Gap": "-",
+                            "Average_speed": "155.592",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "22",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:33.805",
+                        "other_info": {
+                            "Gap": "0.641",
+                            "Average_speed": "168.131",
+                            "Laps": "10",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:33.721",
+                        "other_info": {
+                            "Gap": "0.609",
+                            "Average_speed": "168.282",
+                            "Laps": "19",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Race 3": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:26.221",
+                        "other_info": {
+                            "Elapsed_times": "34:30.507",
+                            "Gap": "38.091",
+                            "Average_speed": "170.274",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "14",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:26.478",
+                        "other_info": {
+                            "Elapsed_times": "45:21.022",
+                            "Gap": "9.690",
+                            "Average_speed": "148.100",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "16",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:22.799",
+                        "other_info": {
+                            "Elapsed_times": "38:46.686",
+                            "Gap": "-",
+                            "Average_speed": "162.363",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "15",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:24.062",
+                        "other_info": {
+                            "Gap": "2.109",
+                            "Average_speed": "175.024",
+                            "Laps": "10",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:06.100",
+                        "other_info": {
+                            "Gap": "0.770",
+                            "Average_speed": "199.955",
+                            "Laps": "13",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Race 3": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:27.575",
+                        "other_info": {
+                            "Elapsed_times": "36:18.338",
+                            "Gap": "30.437",
+                            "Average_speed": "168.825",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "24",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:27.351",
+                        "other_info": {
+                            "Elapsed_times": "39:11.206",
+                            "Gap": "9.172",
+                            "Average_speed": "156.412",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "24",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:25.612",
+                        "other_info": {
+                            "Gap": "1.032",
+                            "Average_speed": "179.091",
+                            "Laps": "10",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:26.470",
+                        "other_info": {
+                            "Gap": "0.935",
+                            "Average_speed": "177.314",
+                            "Laps": "11",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Sochi": {
+                    "Race 1": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:56.883",
+                        "other_info": {
+                            "Elapsed_times": "39:35.412",
+                            "Gap": "11.632",
+                            "Average_speed": "176.954",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "20",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:54.759",
+                        "other_info": {
+                            "Gap": "0.245",
+                            "Average_speed": "183.452",
+                            "Laps": "12",
+                            "Car_number": "21"
+                        }
+                    },
+                    "Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:55.245",
+                        "other_info": {
+                            "Gap": "1.158",
+                            "Average_speed": "182.678",
+                            "Laps": "18",
+                            "Car_number": "21"
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
