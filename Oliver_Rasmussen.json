@@ -2,6 +2,26 @@
     "firstName": "Oliver",
     "lastName": "Rasmussen",
     "seasons": {
+        "2022": {
+            "Formula 3": {
+                "Barcelona": {
+                    "Feature Race": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:38.153",
+                        "other_info": {
+                            "Elapsed_times": "44:02.420",
+                            "Gap": "18.747",
+                            "Average_speed": "152.688",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "24",
+                            "Car_number": "1"
+                        }
+                    }
+                }
+            }
+        },
         "2021": {
             "Formula 3": {
                 "Barcelona": {
@@ -435,26 +455,6 @@
                             "Average_speed": "183.854",
                             "Laps": "19",
                             "Car_number": "15"
-                        }
-                    }
-                }
-            }
-        },
-        "2022": {
-            "Formula 3": {
-                "Barcelona": {
-                    "Feature Race": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:38.153",
-                        "other_info": {
-                            "Elapsed_times": "44:02.420",
-                            "Gap": "18.747",
-                            "Average_speed": "152.688",
-                            "Lap_of_fastest_lap": "17",
-                            "Laps": "24",
-                            "Car_number": "1"
                         }
                     }
                 }

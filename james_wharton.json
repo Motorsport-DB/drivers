@@ -6,6 +6,50 @@
     "picture": "",
     "country": null,
     "seasons": {
+        "2025": {
+            "Formula 3": {
+                "Melbourne": {
+                    "Feature Race": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:52.405",
+                        "other_info": {
+                            "Elapsed_times": "35:04.263",
+                            "Gap": "20.297",
+                            "Average_speed": "144.474",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "16",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:36.988",
+                        "other_info": {
+                            "Gap": "1.989",
+                            "Average_speed": "195.908",
+                            "Laps": "10",
+                            "Car_number": "9"
+                        }
+                    },
+                    "Practice": {
+                        "position": "29",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:37.438",
+                        "other_info": {
+                            "Gap": "2.786",
+                            "Average_speed": "195.004",
+                            "Laps": "13",
+                            "Car_number": "9"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 3": {
                 "Silverstone": {
@@ -59,50 +103,6 @@
                             "Average_speed": "175.840",
                             "Laps": "17",
                             "Car_number": "15"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 3": {
-                "Melbourne": {
-                    "Feature Race": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "ART Grand Prix",
-                        "fastest_lap": "1:52.405",
-                        "other_info": {
-                            "Elapsed_times": "35:04.263",
-                            "Gap": "20.297",
-                            "Average_speed": "144.474",
-                            "Lap_of_fastest_lap": "9",
-                            "Laps": "16",
-                            "Car_number": "9"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "ART Grand Prix",
-                        "fastest_lap": "1:36.988",
-                        "other_info": {
-                            "Gap": "1.989",
-                            "Average_speed": "195.908",
-                            "Laps": "10",
-                            "Car_number": "9"
-                        }
-                    },
-                    "Practice": {
-                        "position": "29",
-                        "points": 0,
-                        "team": "ART Grand Prix",
-                        "fastest_lap": "1:37.438",
-                        "other_info": {
-                            "Gap": "2.786",
-                            "Average_speed": "195.004",
-                            "Laps": "13",
-                            "Car_number": "9"
                         }
                     }
                 }

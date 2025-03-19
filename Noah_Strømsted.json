@@ -2,6 +2,50 @@
     "firstName": "Noah",
     "lastName": "Strømsted",
     "seasons": {
+        "2025": {
+            "Formula 3": {
+                "Melbourne": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:50.389",
+                        "other_info": {
+                            "Elapsed_times": "34:44.483",
+                            "Gap": "0.517",
+                            "Average_speed": "145.845",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "16",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:35.128",
+                        "other_info": {
+                            "Gap": "0.129",
+                            "Average_speed": "199.739",
+                            "Laps": "10",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:35.194",
+                        "other_info": {
+                            "Gap": "0.542",
+                            "Average_speed": "199.600",
+                            "Laps": "14",
+                            "Car_number": "4"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 3": {
                 "Monza": {
@@ -55,50 +99,6 @@
                             "Average_speed": "209.676",
                             "Laps": "17",
                             "Car_number": "10"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 3": {
-                "Melbourne": {
-                    "Feature Race": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:50.389",
-                        "other_info": {
-                            "Elapsed_times": "34:44.483",
-                            "Gap": "0.517",
-                            "Average_speed": "145.845",
-                            "Lap_of_fastest_lap": "8",
-                            "Laps": "16",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "2",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:35.128",
-                        "other_info": {
-                            "Gap": "0.129",
-                            "Average_speed": "199.739",
-                            "Laps": "10",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Practice": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:35.194",
-                        "other_info": {
-                            "Gap": "0.542",
-                            "Average_speed": "199.600",
-                            "Laps": "14",
-                            "Car_number": "4"
                         }
                     }
                 }

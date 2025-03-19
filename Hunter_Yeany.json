@@ -2,6 +2,42 @@
     "firstName": "Hunter",
     "lastName": "Yeany",
     "seasons": {
+        "2022": {
+            "Formula 3": {
+                "Silverstone": {
+                    "Feature Race": {
+                        "position": "19",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:47.798",
+                        "other_info": {
+                            "Elapsed_times": "45:43.654",
+                            "Gap": "20.445",
+                            "Average_speed": "169.877",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "22",
+                            "Car_number": "21"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:39.813",
+                        "other_info": {
+                            "Elapsed_times": "28:21.586",
+                            "Gap": "21.298",
+                            "Average_speed": "183.187",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "15",
+                            "Car_number": "21"
+                        }
+                    }
+                }
+            }
+        },
         "2021": {
             "Formula 3": {
                 "Spa-Francorchamps": {
@@ -109,42 +145,6 @@
                             "Average_speed": "174.853",
                             "Laps": "14",
                             "Car_number": "30"
-                        }
-                    }
-                }
-            }
-        },
-        "2022": {
-            "Formula 3": {
-                "Silverstone": {
-                    "Feature Race": {
-                        "position": "19",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:47.798",
-                        "other_info": {
-                            "Elapsed_times": "45:43.654",
-                            "Gap": "20.445",
-                            "Average_speed": "169.877",
-                            "Lap_of_fastest_lap": "6",
-                            "Laps": "22",
-                            "Car_number": "21"
-                        }
-                    }
-                },
-                "Monza": {
-                    "Feature Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:39.813",
-                        "other_info": {
-                            "Elapsed_times": "28:21.586",
-                            "Gap": "21.298",
-                            "Average_speed": "183.187",
-                            "Lap_of_fastest_lap": "12",
-                            "Laps": "15",
-                            "Car_number": "21"
                         }
                     }
                 }

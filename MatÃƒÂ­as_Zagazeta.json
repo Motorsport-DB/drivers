@@ -2,6 +2,64 @@
     "firstName": "MatÃƒÂ­as",
     "lastName": "Zagazeta",
     "seasons": {
+        "2025": {
+            "Formula 3": {
+                "Melbourne": {
+                    "Feature Race": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:52.274",
+                        "other_info": {
+                            "Elapsed_times": "35:05.265",
+                            "Gap": "21.299",
+                            "Average_speed": "144.405",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "16",
+                            "Car_number": "30"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:38.163",
+                        "other_info": {
+                            "Elapsed_times": "42:21.632",
+                            "Gap": "1.038",
+                            "Average_speed": "149.516",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "20",
+                            "Car_number": "30"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:36.232",
+                        "other_info": {
+                            "Gap": "1.233",
+                            "Average_speed": "197.447",
+                            "Laps": "11",
+                            "Car_number": "30"
+                        }
+                    },
+                    "Practice": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "DAMS Lucas Oil",
+                        "fastest_lap": "1:36.151",
+                        "other_info": {
+                            "Gap": "1.499",
+                            "Average_speed": "197.614",
+                            "Laps": "15",
+                            "Car_number": "30"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 3": {
                 "Sakhir": {
@@ -433,64 +491,6 @@
                             "Average_speed": "210.461",
                             "Laps": "13",
                             "Car_number": "19"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 3": {
-                "Melbourne": {
-                    "Feature Race": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "fastest_lap": "1:52.274",
-                        "other_info": {
-                            "Elapsed_times": "35:05.265",
-                            "Gap": "21.299",
-                            "Average_speed": "144.405",
-                            "Lap_of_fastest_lap": "9",
-                            "Laps": "16",
-                            "Car_number": "30"
-                        }
-                    },
-                    "Sprint Race": {
-                        "position": "5",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "fastest_lap": "1:38.163",
-                        "other_info": {
-                            "Elapsed_times": "42:21.632",
-                            "Gap": "1.038",
-                            "Average_speed": "149.516",
-                            "Lap_of_fastest_lap": "10",
-                            "Laps": "20",
-                            "Car_number": "30"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "11",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "fastest_lap": "1:36.232",
-                        "other_info": {
-                            "Gap": "1.233",
-                            "Average_speed": "197.447",
-                            "Laps": "11",
-                            "Car_number": "30"
-                        }
-                    },
-                    "Practice": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "DAMS Lucas Oil",
-                        "fastest_lap": "1:36.151",
-                        "other_info": {
-                            "Gap": "1.499",
-                            "Average_speed": "197.614",
-                            "Laps": "15",
-                            "Car_number": "30"
                         }
                     }
                 }

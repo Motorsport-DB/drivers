@@ -2,6 +2,64 @@
     "firstName": "Leonardo",
     "lastName": "Pulcini",
     "seasons": {
+        "2020": {
+            "Formula 3": {
+                "Barcelona": {
+                    "Race 2": {
+                        "position": "24",
+                        "points": 0,
+                        "team": "Carlin Buzz Racing",
+                        "fastest_lap": "1:37.601",
+                        "other_info": {
+                            "Elapsed_times": "40:26.036",
+                            "Gap": "33.108",
+                            "Average_speed": "151.779",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "22",
+                            "Car_number": "27"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Carlin Buzz Racing",
+                        "fastest_lap": "1:36.618",
+                        "other_info": {
+                            "Elapsed_times": "39:11.038",
+                            "Gap": "17.892",
+                            "Average_speed": "156.621",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "22",
+                            "Car_number": "27"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Carlin Buzz Racing",
+                        "fastest_lap": "1:33.588",
+                        "other_info": {
+                            "Gap": "0.614",
+                            "Average_speed": "179.061",
+                            "Laps": "11",
+                            "Car_number": "27"
+                        }
+                    },
+                    "Practice": {
+                        "position": "25",
+                        "points": 0,
+                        "team": "Carlin Buzz Racing",
+                        "fastest_lap": "1:35.176",
+                        "other_info": {
+                            "Gap": "1.439",
+                            "Average_speed": "176.073",
+                            "Laps": "12",
+                            "Car_number": "27"
+                        }
+                    }
+                }
+            }
+        },
         "2019": {
             "Formula 3": {
                 "Barcelona": {
@@ -419,64 +477,6 @@
                             "Average_speed": "183.329",
                             "Laps": "16",
                             "Car_number": "20"
-                        }
-                    }
-                }
-            }
-        },
-        "2020": {
-            "Formula 3": {
-                "Barcelona": {
-                    "Race 2": {
-                        "position": "24",
-                        "points": 0,
-                        "team": "Carlin Buzz Racing",
-                        "fastest_lap": "1:37.601",
-                        "other_info": {
-                            "Elapsed_times": "40:26.036",
-                            "Gap": "33.108",
-                            "Average_speed": "151.779",
-                            "Lap_of_fastest_lap": "8",
-                            "Laps": "22",
-                            "Car_number": "27"
-                        }
-                    },
-                    "Race 1": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Carlin Buzz Racing",
-                        "fastest_lap": "1:36.618",
-                        "other_info": {
-                            "Elapsed_times": "39:11.038",
-                            "Gap": "17.892",
-                            "Average_speed": "156.621",
-                            "Lap_of_fastest_lap": "17",
-                            "Laps": "22",
-                            "Car_number": "27"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Carlin Buzz Racing",
-                        "fastest_lap": "1:33.588",
-                        "other_info": {
-                            "Gap": "0.614",
-                            "Average_speed": "179.061",
-                            "Laps": "11",
-                            "Car_number": "27"
-                        }
-                    },
-                    "Practice": {
-                        "position": "25",
-                        "points": 0,
-                        "team": "Carlin Buzz Racing",
-                        "fastest_lap": "1:35.176",
-                        "other_info": {
-                            "Gap": "1.439",
-                            "Average_speed": "176.073",
-                            "Laps": "12",
-                            "Car_number": "27"
                         }
                     }
                 }

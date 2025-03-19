@@ -2,6 +2,64 @@
     "firstName": "Andreas",
     "lastName": "Estner",
     "seasons": {
+        "2020": {
+            "Formula 3": {
+                "Spa-Francorchamps": {
+                    "Race 2": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:10.219",
+                        "other_info": {
+                            "Elapsed_times": "38:43.880",
+                            "Gap": "51.647",
+                            "Average_speed": "184.260",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "17",
+                            "Car_number": "31"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "27",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:09.171",
+                        "other_info": {
+                            "Elapsed_times": "39:01.140",
+                            "Gap": "1 LAP",
+                            "Average_speed": "172.131",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "16",
+                            "Car_number": "31"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:07.510",
+                        "other_info": {
+                            "Gap": "2.117",
+                            "Average_speed": "197.744",
+                            "Laps": "6",
+                            "Car_number": "31"
+                        }
+                    },
+                    "Practice": {
+                        "position": "25",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "2:07.592",
+                        "other_info": {
+                            "Gap": "1.823",
+                            "Average_speed": "197.617",
+                            "Laps": "16",
+                            "Car_number": "31"
+                        }
+                    }
+                }
+            }
+        },
         "2019": {
             "Formula 3": {
                 "Barcelona": {
@@ -433,64 +491,6 @@
                             "Average_speed": "181.213",
                             "Laps": "19",
                             "Car_number": "16"
-                        }
-                    }
-                }
-            }
-        },
-        "2020": {
-            "Formula 3": {
-                "Spa-Francorchamps": {
-                    "Race 2": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:10.219",
-                        "other_info": {
-                            "Elapsed_times": "38:43.880",
-                            "Gap": "51.647",
-                            "Average_speed": "184.260",
-                            "Lap_of_fastest_lap": "9",
-                            "Laps": "17",
-                            "Car_number": "31"
-                        }
-                    },
-                    "Race 1": {
-                        "position": "27",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:09.171",
-                        "other_info": {
-                            "Elapsed_times": "39:01.140",
-                            "Gap": "1 LAP",
-                            "Average_speed": "172.131",
-                            "Lap_of_fastest_lap": "7",
-                            "Laps": "16",
-                            "Car_number": "31"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:07.510",
-                        "other_info": {
-                            "Gap": "2.117",
-                            "Average_speed": "197.744",
-                            "Laps": "6",
-                            "Car_number": "31"
-                        }
-                    },
-                    "Practice": {
-                        "position": "25",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "2:07.592",
-                        "other_info": {
-                            "Gap": "1.823",
-                            "Average_speed": "197.617",
-                            "Laps": "16",
-                            "Car_number": "31"
                         }
                     }
                 }

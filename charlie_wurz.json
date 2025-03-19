@@ -6,6 +6,50 @@
     "picture": "assets/images/drivers/Charlie_WURZ.jpg",
     "country": null,
     "seasons": {
+        "2025": {
+            "Formula 3": {
+                "Melbourne": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:50.846",
+                        "other_info": {
+                            "Elapsed_times": "34:47.219",
+                            "Gap": "3.253",
+                            "Average_speed": "145.654",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "16",
+                            "Car_number": "6"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:35.839",
+                        "other_info": {
+                            "Gap": "0.840",
+                            "Average_speed": "198.257",
+                            "Laps": "10",
+                            "Car_number": "6"
+                        }
+                    },
+                    "Practice": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:36.006",
+                        "other_info": {
+                            "Gap": "1.354",
+                            "Average_speed": "197.912",
+                            "Laps": "12",
+                            "Car_number": "6"
+                        }
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula 3": {
                 "Sakhir": {
@@ -489,50 +533,6 @@
                             "Average_speed": "208.669",
                             "Laps": "13",
                             "Car_number": "17"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "Formula 3": {
-                "Melbourne": {
-                    "Feature Race": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:50.846",
-                        "other_info": {
-                            "Elapsed_times": "34:47.219",
-                            "Gap": "3.253",
-                            "Average_speed": "145.654",
-                            "Lap_of_fastest_lap": "9",
-                            "Laps": "16",
-                            "Car_number": "6"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:35.839",
-                        "other_info": {
-                            "Gap": "0.840",
-                            "Average_speed": "198.257",
-                            "Laps": "10",
-                            "Car_number": "6"
-                        }
-                    },
-                    "Practice": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "TRIDENT",
-                        "fastest_lap": "1:36.006",
-                        "other_info": {
-                            "Gap": "1.354",
-                            "Average_speed": "197.912",
-                            "Laps": "12",
-                            "Car_number": "6"
                         }
                     }
                 }

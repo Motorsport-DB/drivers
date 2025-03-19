@@ -2,104 +2,6 @@
     "firstName": "Pierre-Louis",
     "lastName": "Chovet",
     "seasons": {
-        "2020": {
-            "Formula 3": {
-                "Spa-Francorchamps": {
-                    "Race 1": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "2:09.238",
-                        "other_info": {
-                            "Elapsed_times": "38:44.171",
-                            "Gap": "39.200",
-                            "Average_speed": "184.237",
-                            "Lap_of_fastest_lap": "6",
-                            "Laps": "17",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "27",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "2:08.981",
-                        "other_info": {
-                            "Gap": "3.588",
-                            "Average_speed": "195.489",
-                            "Laps": "8",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Practice": {
-                        "position": "24",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "2:07.571",
-                        "other_info": {
-                            "Gap": "1.802",
-                            "Average_speed": "197.649",
-                            "Laps": "17",
-                            "Car_number": "4"
-                        }
-                    }
-                },
-                "Monza": {
-                    "Race 2": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "1:40.862",
-                        "other_info": {
-                            "Elapsed_times": "38:00.693",
-                            "Gap": "8.660",
-                            "Average_speed": "200.681",
-                            "Lap_of_fastest_lap": "20",
-                            "Laps": "22",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Race 1": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "1:41.254",
-                        "other_info": {
-                            "Elapsed_times": "38:44.114",
-                            "Gap": "21.922",
-                            "Average_speed": "196.932",
-                            "Lap_of_fastest_lap": "11",
-                            "Laps": "22",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Qualifying": {
-                        "position": "27",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "1:39.173",
-                        "other_info": {
-                            "Gap": "1.872",
-                            "Average_speed": "210.287",
-                            "Laps": "14",
-                            "Car_number": "4"
-                        }
-                    },
-                    "Practice": {
-                        "position": "18",
-                        "points": 0,
-                        "team": "Hitech Grand Prix",
-                        "fastest_lap": "1:38.943",
-                        "other_info": {
-                            "Gap": "0.847",
-                            "Average_speed": "210.775",
-                            "Laps": "22",
-                            "Car_number": "4"
-                        }
-                    }
-                }
-            }
-        },
         "2021": {
             "Formula 3": {
                 "Barcelona": {
@@ -235,6 +137,104 @@
                             "Average_speed": "186.379",
                             "Laps": "19",
                             "Car_number": "20"
+                        }
+                    }
+                }
+            }
+        },
+        "2020": {
+            "Formula 3": {
+                "Spa-Francorchamps": {
+                    "Race 1": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "2:09.238",
+                        "other_info": {
+                            "Elapsed_times": "38:44.171",
+                            "Gap": "39.200",
+                            "Average_speed": "184.237",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "17",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "27",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "2:08.981",
+                        "other_info": {
+                            "Gap": "3.588",
+                            "Average_speed": "195.489",
+                            "Laps": "8",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Practice": {
+                        "position": "24",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "2:07.571",
+                        "other_info": {
+                            "Gap": "1.802",
+                            "Average_speed": "197.649",
+                            "Laps": "17",
+                            "Car_number": "4"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Race 2": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "1:40.862",
+                        "other_info": {
+                            "Elapsed_times": "38:00.693",
+                            "Gap": "8.660",
+                            "Average_speed": "200.681",
+                            "Lap_of_fastest_lap": "20",
+                            "Laps": "22",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "1:41.254",
+                        "other_info": {
+                            "Elapsed_times": "38:44.114",
+                            "Gap": "21.922",
+                            "Average_speed": "196.932",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "22",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "27",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "1:39.173",
+                        "other_info": {
+                            "Gap": "1.872",
+                            "Average_speed": "210.287",
+                            "Laps": "14",
+                            "Car_number": "4"
+                        }
+                    },
+                    "Practice": {
+                        "position": "18",
+                        "points": 0,
+                        "team": "Hitech Grand Prix",
+                        "fastest_lap": "1:38.943",
+                        "other_info": {
+                            "Gap": "0.847",
+                            "Average_speed": "210.775",
+                            "Laps": "22",
+                            "Car_number": "4"
                         }
                     }
                 }

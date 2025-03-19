@@ -2,62 +2,6 @@
     "firstName": "SebastiÃ¡n",
     "lastName": "Montoya",
     "seasons": {
-        "2022": {
-            "Formula 3": {
-                "Zandvoort": {
-                    "Feature Race": {
-                        "position": "8",
-                        "points": 0,
-                        "team": "Campos Racing",
-                        "fastest_lap": "1:27.368",
-                        "other_info": {
-                            "Elapsed_times": "44:09.790",
-                            "Gap": "5.275",
-                            "Average_speed": "150.360",
-                            "Lap_of_fastest_lap": "3",
-                            "Laps": "26",
-                            "Car_number": "21"
-                        }
-                    }
-                }
-            }
-        },
-        "2023": {
-            "Formula 3": {
-                "Spa-Francorchamps": {
-                    "Feature Race": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "Hitech Pulse-Eight",
-                        "fastest_lap": "2:24.527",
-                        "other_info": {
-                            "Elapsed_times": "40:10.276",
-                            "Gap": "20.172",
-                            "Average_speed": "156.732",
-                            "Lap_of_fastest_lap": "12",
-                            "Laps": "15",
-                            "Car_number": "14"
-                        }
-                    }
-                },
-                "Monza": {
-                    "Sprint Race": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Hitech Pulse-Eight",
-                        "fastest_lap": "1:40.707",
-                        "other_info": {
-                            "Elapsed_times": "34:19.754",
-                            "Gap": "12.766",
-                            "Average_speed": "181.708",
-                            "Lap_of_fastest_lap": "12",
-                            "Laps": "18",
-                            "Car_number": "14"
-                        }
-                    }
-                }
-            }
-        },
         "2024": {
             "Formula 3": {
                 "Sakhir": {
@@ -529,6 +473,62 @@
                             "Average_speed": "209.423",
                             "Laps": "12",
                             "Car_number": "11"
+                        }
+                    }
+                }
+            }
+        },
+        "2023": {
+            "Formula 3": {
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "2:24.527",
+                        "other_info": {
+                            "Elapsed_times": "40:10.276",
+                            "Gap": "20.172",
+                            "Average_speed": "156.732",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "15",
+                            "Car_number": "14"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Sprint Race": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "Hitech Pulse-Eight",
+                        "fastest_lap": "1:40.707",
+                        "other_info": {
+                            "Elapsed_times": "34:19.754",
+                            "Gap": "12.766",
+                            "Average_speed": "181.708",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "18",
+                            "Car_number": "14"
+                        }
+                    }
+                }
+            }
+        },
+        "2022": {
+            "Formula 3": {
+                "Zandvoort": {
+                    "Feature Race": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Campos Racing",
+                        "fastest_lap": "1:27.368",
+                        "other_info": {
+                            "Elapsed_times": "44:09.790",
+                            "Gap": "5.275",
+                            "Average_speed": "150.360",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "26",
+                            "Car_number": "21"
                         }
                     }
                 }
