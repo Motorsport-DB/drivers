@@ -1,9 +1,1236 @@
 {
     "firstName": "Bianca",
-    "lastName": "BUSTAMANTE",
+    "lastName": "Bustamante",
     "Nickname": null,
     "dateOfBirth": null,
     "picture": "assets/images/drivers/Bianca_BUSTAMANTE.jpg",
     "country": null,
-    "seasons": {}
+    "seasons": {
+        "2024": {
+            "F1_Academy": {
+                "Jeddah": {
+                    "Race 2": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:05.979",
+                        "other_info": {
+                            "Elapsed_times": "32:18.631",
+                            "Gap": "15.36",
+                            "Average_speed": "148.580",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:06.085",
+                        "other_info": {
+                            "Elapsed_times": "27:04.918",
+                            "Gap": "13.956",
+                            "Average_speed": "163.587",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:05.619",
+                        "other_info": {
+                            "Elapsed_times": "22:53.039",
+                            "Gap": "1.920",
+                            "Average_speed": "-",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:04.937",
+                        "other_info": {
+                            "Elapsed_times": "22:53.039",
+                            "Gap": "1.465",
+                            "Average_speed": "-",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:06.528",
+                        "other_info": {
+                            "Elapsed_times": "22:53.039",
+                            "Gap": "1.639",
+                            "Average_speed": "175.663",
+                            "Lap_of_fastest_lap": "14:46:02",
+                            "Laps": "15",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Miami": {
+                    "Race 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:59.718",
+                        "other_info": {
+                            "Elapsed_times": "26:04.457",
+                            "Gap": "3.801",
+                            "Average_speed": "161.533",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:59.322",
+                        "other_info": {
+                            "Elapsed_times": "26:21.787",
+                            "Gap": "23.128",
+                            "Average_speed": "159.764",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:59.122",
+                        "other_info": {
+                            "Elapsed_times": "26:39.111",
+                            "Gap": "0.408",
+                            "Average_speed": "163.556",
+                            "Lap_of_fastest_lap": "10:47:55",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:59.115",
+                        "other_info": {
+                            "Elapsed_times": "26:39.111",
+                            "Gap": "0.608",
+                            "Average_speed": "163.566",
+                            "Lap_of_fastest_lap": "10:54:11",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:59.792",
+                        "other_info": {
+                            "Elapsed_times": "26:39.111",
+                            "Gap": "0.555",
+                            "Average_speed": "162.641",
+                            "Lap_of_fastest_lap": "15:58:04",
+                            "Laps": "17",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:00.268",
+                        "other_info": {
+                            "Elapsed_times": "26:39.111",
+                            "Gap": "0.319",
+                            "Average_speed": "161.998",
+                            "Lap_of_fastest_lap": "10:34:39",
+                            "Laps": "19",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Race 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:43.208",
+                        "other_info": {
+                            "Elapsed_times": "28:06.317",
+                            "Gap": "15.460",
+                            "Average_speed": "158.801",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "16",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:43.086",
+                        "other_info": {
+                            "Elapsed_times": "30:18.554",
+                            "Gap": "5.861",
+                            "Average_speed": "147.254",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "16",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:42.315",
+                        "other_info": {
+                            "Elapsed_times": "30:36.433",
+                            "Gap": "0.771",
+                            "Average_speed": "163.858",
+                            "Lap_of_fastest_lap": "18:55:33",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:41.921",
+                        "other_info": {
+                            "Elapsed_times": "30:36.433",
+                            "Gap": "0.525",
+                            "Average_speed": "164.492",
+                            "Lap_of_fastest_lap": "18:53:51",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:42.474",
+                        "other_info": {
+                            "Elapsed_times": "30:36.433",
+                            "Gap": "0.000",
+                            "Average_speed": "163.604",
+                            "Lap_of_fastest_lap": "09:21:14",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Race 2": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:37.435",
+                        "other_info": {
+                            "Elapsed_times": "28:04.645",
+                            "Gap": "25.017",
+                            "Average_speed": "154.591",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "17",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:38.107",
+                        "other_info": {
+                            "Elapsed_times": "21:34.555",
+                            "Gap": "23.759",
+                            "Average_speed": "153.799",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:49.291",
+                        "other_info": {
+                            "Elapsed_times": "21:40.757",
+                            "Gap": "2.305",
+                            "Average_speed": "140.289",
+                            "Lap_of_fastest_lap": "10:24:36",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:49.222",
+                        "other_info": {
+                            "Elapsed_times": "21:40.757",
+                            "Gap": "2.476",
+                            "Average_speed": "140.378",
+                            "Lap_of_fastest_lap": "10:28:19",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:39.362",
+                        "other_info": {
+                            "Elapsed_times": "21:40.757",
+                            "Gap": "2.995",
+                            "Average_speed": "154.308",
+                            "Lap_of_fastest_lap": "17:38:09",
+                            "Laps": "5",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:38.377",
+                        "other_info": {
+                            "Elapsed_times": "21:40.757",
+                            "Gap": "0.311",
+                            "Average_speed": "155.853",
+                            "Lap_of_fastest_lap": "10:41:06",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Singapore": {
+                    "Race 2": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:06.844",
+                        "other_info": {
+                            "Elapsed_times": "26:53.889",
+                            "Gap": "24.944",
+                            "Average_speed": "131.926",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:04.796",
+                        "other_info": {
+                            "Elapsed_times": "23:51.580",
+                            "Gap": "57.095",
+                            "Average_speed": "136.304",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:04.788",
+                        "other_info": {
+                            "Elapsed_times": "23:51.580",
+                            "Gap": "1.041",
+                            "Average_speed": "142.513",
+                            "Lap_of_fastest_lap": "19:22:50",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:04.432",
+                        "other_info": {
+                            "Elapsed_times": "23:51.580",
+                            "Gap": "0.801",
+                            "Average_speed": "142.921",
+                            "Lap_of_fastest_lap": "19:31:15",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "12",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "2:05.976",
+                        "other_info": {
+                            "Elapsed_times": "23:51.580",
+                            "Gap": "1.983",
+                            "Average_speed": "141.169",
+                            "Lap_of_fastest_lap": "15:43:52",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Lusail": {
+                    "Race 1": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.334",
+                        "other_info": {
+                            "Elapsed_times": "27:51.581",
+                            "Gap": "53.739",
+                            "Average_speed": "162.802",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.368",
+                        "other_info": {
+                            "Elapsed_times": "27:51.581",
+                            "Gap": "1.059",
+                            "Average_speed": "167.644",
+                            "Lap_of_fastest_lap": "15:50:50",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.351",
+                        "other_info": {
+                            "Elapsed_times": "27:51.581",
+                            "Gap": "1.084",
+                            "Average_speed": "167.668",
+                            "Lap_of_fastest_lap": "15:56:47",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.008",
+                        "other_info": {
+                            "Elapsed_times": "27:51.581",
+                            "Gap": "1.214",
+                            "Average_speed": "168.164",
+                            "Lap_of_fastest_lap": "18:34:11",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:57.103",
+                        "other_info": {
+                            "Elapsed_times": "27:51.581",
+                            "Gap": "0.449",
+                            "Average_speed": "166.591",
+                            "Lap_of_fastest_lap": "13:38:12",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Race 3": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:58.368",
+                        "other_info": {
+                            "Elapsed_times": "29:00.322",
+                            "Gap": "17.035",
+                            "Average_speed": "152.700",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.999",
+                        "other_info": {
+                            "Elapsed_times": "28:37.573",
+                            "Gap": "2.766",
+                            "Average_speed": "154.723",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:57.256",
+                        "other_info": {
+                            "Elapsed_times": "27:32.413",
+                            "Gap": "13.120",
+                            "Average_speed": "160.824",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 3": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.694",
+                        "other_info": {
+                            "Elapsed_times": "28:00.826",
+                            "Gap": "0.427",
+                            "Average_speed": "162.918",
+                            "Lap_of_fastest_lap": "19:06:01",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.428",
+                        "other_info": {
+                            "Elapsed_times": "28:00.826",
+                            "Gap": "0.308",
+                            "Average_speed": "163.290",
+                            "Lap_of_fastest_lap": "18:56:04",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.389",
+                        "other_info": {
+                            "Elapsed_times": "28:00.826",
+                            "Gap": "0.308",
+                            "Average_speed": "163.345",
+                            "Lap_of_fastest_lap": "19:04:04",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART Grand Prix",
+                        "fastest_lap": "1:56.821",
+                        "other_info": {
+                            "Elapsed_times": "28:00.826",
+                            "Gap": "0.646",
+                            "Average_speed": "162.741",
+                            "Lap_of_fastest_lap": "10:31:19",
+                            "Laps": "16",
+                            "Car_number": "16"
+                        }
+                    }
+                }
+            }
+        },
+        "2023": {
+            "F1_Academy": {
+                "Spielberg": {
+                    "Race 2": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.836",
+                        "other_info": {
+                            "Elapsed_times": "18:49.633",
+                            "Gap": "11.94",
+                            "Average_speed": "165.13",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.006",
+                        "other_info": {
+                            "Elapsed_times": "30:33.815",
+                            "Gap": "8.083",
+                            "Average_speed": "152.58",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "18",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:44.663",
+                        "other_info": {
+                            "Elapsed_times": "31:39.635",
+                            "Gap": "0.959",
+                            "Average_speed": "148.52",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "8",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:43.350",
+                        "other_info": {
+                            "Elapsed_times": "31:39.635",
+                            "Gap": "0.387",
+                            "Average_speed": "150.41",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "9",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.353",
+                        "other_info": {
+                            "Elapsed_times": "31:39.635",
+                            "Gap": "0.991",
+                            "Average_speed": "168.32",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "10",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:32.263",
+                        "other_info": {
+                            "Elapsed_times": "31:39.635",
+                            "Gap": "0.948",
+                            "Average_speed": "168.48",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "9",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Valencia": {
+                    "Race 3": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:35.907",
+                        "other_info": {
+                            "Elapsed_times": "28:15.740",
+                            "Gap": "10.44",
+                            "Average_speed": "-",
+                            "Lap_of_fastest_lap": "16",
+                            "Laps": "17",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:35.718",
+                        "other_info": {
+                            "Elapsed_times": "18:49.969",
+                            "Gap": "-",
+                            "Average_speed": "151.1",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:35.424",
+                        "other_info": {
+                            "Elapsed_times": "27:18.972",
+                            "Gap": "16.52",
+                            "Average_speed": "149.5",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "17",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:36.636",
+                        "other_info": {
+                            "Elapsed_times": "27:46.925",
+                            "Gap": "1.416",
+                            "Average_speed": "149.2",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "8",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:35.314",
+                        "other_info": {
+                            "Elapsed_times": "27:46.925",
+                            "Gap": "0.765",
+                            "Average_speed": "151.3",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:34.917",
+                        "other_info": {
+                            "Elapsed_times": "27:46.925",
+                            "Gap": "0.501",
+                            "Average_speed": "151.9",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "8",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Race 3": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:43.468",
+                        "other_info": {
+                            "Elapsed_times": "27:58.372",
+                            "Gap": "23.80",
+                            "Average_speed": "162.0",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "16",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:42.799",
+                        "other_info": {
+                            "Elapsed_times": "15:48.835",
+                            "Gap": "1 Lap",
+                            "Average_speed": "163.1",
+                            "Lap_of_fastest_lap": "2",
+                            "Laps": "9",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:42.538",
+                        "other_info": {
+                            "Elapsed_times": "27:43.452",
+                            "Gap": "5.009",
+                            "Average_speed": "163.5",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "16",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:41.503",
+                        "other_info": {
+                            "Elapsed_times": "28:07.858",
+                            "Gap": "0.633",
+                            "Average_speed": "165.2",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "7",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:41.605",
+                        "other_info": {
+                            "Elapsed_times": "28:07.858",
+                            "Gap": "0.261",
+                            "Average_speed": "165.0",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "7",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:42.976",
+                        "other_info": {
+                            "Elapsed_times": "28:07.858",
+                            "Gap": "0.201",
+                            "Average_speed": "162.8",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:42.806",
+                        "other_info": {
+                            "Elapsed_times": "28:07.858",
+                            "Gap": "0.311",
+                            "Average_speed": "163.1",
+                            "Lap_of_fastest_lap": "10",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Race 3": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:37.412",
+                        "other_info": {
+                            "Elapsed_times": "30:06.392",
+                            "Gap": "4.793",
+                            "Average_speed": "144.2",
+                            "Lap_of_fastest_lap": "17",
+                            "Laps": "17",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:37.996",
+                        "other_info": {
+                            "Elapsed_times": "20:05.032",
+                            "Gap": "3.197",
+                            "Average_speed": "139.6",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:37.768",
+                        "other_info": {
+                            "Elapsed_times": "29:09.408",
+                            "Gap": "27.53",
+                            "Average_speed": "155.0",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "17",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:37.269",
+                        "other_info": {
+                            "Elapsed_times": "29:17.053",
+                            "Gap": "1.343",
+                            "Average_speed": "157.6",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "6",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:37.643",
+                        "other_info": {
+                            "Elapsed_times": "29:17.053",
+                            "Gap": "1.071",
+                            "Average_speed": "157.0",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "8",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:37.380",
+                        "other_info": {
+                            "Elapsed_times": "29:17.053",
+                            "Gap": "0.691",
+                            "Average_speed": "157.4",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "7",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:39.451",
+                        "other_info": {
+                            "Elapsed_times": "29:17.053",
+                            "Gap": "1.693",
+                            "Average_speed": "-",
+                            "Lap_of_fastest_lap": "13",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Monza": {
+                    "Race 3": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:53.992",
+                        "other_info": {
+                            "Elapsed_times": "30:24.300",
+                            "Gap": "-",
+                            "Average_speed": "182.9",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:54.388",
+                        "other_info": {
+                            "Elapsed_times": "19:18.912",
+                            "Gap": "0.145",
+                            "Average_speed": "182.3",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "10",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:53.094",
+                        "other_info": {
+                            "Elapsed_times": "33:31.418",
+                            "Gap": "0.168",
+                            "Average_speed": "184.4",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "7",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:55.344",
+                        "other_info": {
+                            "Elapsed_times": "33:31.418",
+                            "Gap": "1.193",
+                            "Average_speed": "180.8",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "6",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:54.554",
+                        "other_info": {
+                            "Elapsed_times": "33:31.418",
+                            "Gap": "1.183",
+                            "Average_speed": "182.1",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "5",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:55.246",
+                        "other_info": {
+                            "Elapsed_times": "33:31.418",
+                            "Gap": "0.618",
+                            "Average_speed": "181.0",
+                            "Lap_of_fastest_lap": "15",
+                            "Laps": "15",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Le Castellet": {
+                    "Race 3": {
+                        "position": "14",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:27.237",
+                        "other_info": {
+                            "Elapsed_times": "26:41.749",
+                            "Gap": "24.21",
+                            "Average_speed": "157.88",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "18",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:27.520",
+                        "other_info": {
+                            "Elapsed_times": "17:20.614",
+                            "Gap": "14.39",
+                            "Average_speed": "157.27",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:27.617",
+                        "other_info": {
+                            "Elapsed_times": "26:47.213",
+                            "Gap": "31.52",
+                            "Average_speed": "157.00",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "18",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:27.322",
+                        "other_info": {
+                            "Elapsed_times": "27:12.491",
+                            "Gap": "0.537",
+                            "Average_speed": "214.2",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "10",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:27.794",
+                        "other_info": {
+                            "Elapsed_times": "27:12.491",
+                            "Gap": "0.545",
+                            "Average_speed": "213.0",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "10",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:27.818",
+                        "other_info": {
+                            "Elapsed_times": "27:12.491",
+                            "Gap": "0.726",
+                            "Average_speed": "214.7",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "13",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "1:28.356",
+                        "other_info": {
+                            "Elapsed_times": "27:12.491",
+                            "Gap": "1.343",
+                            "Average_speed": "218.1",
+                            "Lap_of_fastest_lap": "-",
+                            "Laps": "11",
+                            "Car_number": "16"
+                        }
+                    }
+                },
+                "Austin": {
+                    "Race 3": {
+                        "position": "13",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:09.348",
+                        "other_info": {
+                            "Elapsed_times": "26:25.633",
+                            "Gap": "40.042",
+                            "Average_speed": "149.466",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 2": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:09.094",
+                        "other_info": {
+                            "Elapsed_times": "17:29.160",
+                            "Gap": "15.364",
+                            "Average_speed": "150.226",
+                            "Lap_of_fastest_lap": "4",
+                            "Laps": "8",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Race 1": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:08.268",
+                        "other_info": {
+                            "Elapsed_times": "29:23.425",
+                            "Gap": "6.409",
+                            "Average_speed": "134.396",
+                            "Lap_of_fastest_lap": "11",
+                            "Laps": "12",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 2": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:08.712",
+                        "other_info": {
+                            "Elapsed_times": "29:37.472",
+                            "Gap": "0.750",
+                            "Average_speed": "154.195",
+                            "Lap_of_fastest_lap": "18:09:33",
+                            "Laps": "7",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Qualifying 1": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:08.812",
+                        "other_info": {
+                            "Elapsed_times": "29:37.472",
+                            "Gap": "0.598",
+                            "Average_speed": "154.075",
+                            "Lap_of_fastest_lap": "17:44:22",
+                            "Laps": "7",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:09.515",
+                        "other_info": {
+                            "Elapsed_times": "29:37.472",
+                            "Gap": "1.042",
+                            "Average_speed": "153.239",
+                            "Lap_of_fastest_lap": "14:32:19",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    },
+                    "Free Practice 1": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "PREMA Racing",
+                        "fastest_lap": "2:08.583",
+                        "other_info": {
+                            "Elapsed_times": "29:37.472",
+                            "Gap": "0.583",
+                            "Average_speed": "154.350",
+                            "Lap_of_fastest_lap": "08:49:40",
+                            "Laps": "14",
+                            "Car_number": "16"
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
