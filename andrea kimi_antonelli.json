@@ -1,10 +1,9 @@
 {
-    "firstName": "Andrea kimi",
+    "firstName": "Andrea Kimi",
     "lastName": "Antonelli",
-    "Nickname": null,
-    "dateOfBirth": null,
-    "picture": "assets/images/drivers/Andrea Kimi_ANTONELLI.jpg",
-    "country": null,
+    "dateOfBirth": "2006-08-25",
+    "picture": "Andrea kimi_Antonelli.jpg",
+    "country": "Italy",
     "seasons": {
         "2025": {
             "Formula 1": {
@@ -82,6 +81,29 @@
                         "other_info": {
                             "Gap": "1:31.475",
                             "Laps": "1:31.999"
+                        }
+                    },
+                    "SPRINT": {
+                        "position": "7",
+                        "points": "2",
+                        "team": "Mercedes",
+                        "fastest_lap": "N/A",
+                        "other_info": {
+                            "Gap": "+23.038s",
+                            "Laps": "19"
+                        }
+                    },
+                    "QUALIFYING": {
+                        "position": "8",
+                        "points": 0,
+                        "team": "Mercedes",
+                        "fastest_lap": "1:31.103",
+                        "other_info": {
+                            "Laps": "22",
+                            "Car_number": "12",
+                            "Q1": "1:31.676",
+                            "Q2": "1:31.590",
+                            "Q3": "1:31.103"
                         }
                     }
                 }
