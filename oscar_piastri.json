@@ -121,6 +121,63 @@
                             "Laps": "56"
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "McLaren_Mercedes",
+                        "fastest_lap": "1:29.708",
+                        "other_info": {
+                            "Laps": "25",
+                            "Car_Number": "81"
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "McLaren_Mercedes",
+                        "fastest_lap": "1:28.114",
+                        "other_info": {
+                            "Laps": "13",
+                            "Car_Number": "81"
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "McLaren_Mercedes",
+                        "fastest_lap": "1:27.991",
+                        "other_info": {
+                            "Laps": "17",
+                            "Car_Number": "81"
+                        }
+                    },
+                    "QUALIFYING": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "McLaren_Mercedes",
+                        "fastest_lap": "1:27.027",
+                        "other_info": {
+                            "Laps": "18",
+                            "Car_number": "81",
+                            "Q1": "1:27.687",
+                            "Q2": "1:27.507",
+                            "Q3": "1:27.027"
+                        }
+                    },
+                    "RACE RESULT": {
+                        "position": "3",
+                        "points": "15",
+                        "team": "McLaren_Mercedes",
+                        "fastest_lap": "1:31.039",
+                        "other_info": {
+                            "Average_speed_of_fastest_lap": "229.629",
+                            "Lap_of_fastest_lap": "53",
+                            "Gap": "+2.129s",
+                            "Laps": "53"
+                        }
+                    }
                 }
             }
         },
@@ -1483,7 +1540,7 @@
                     "Feature Race": {
                         "position": "19",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:47.524",
                         "other_info": {
                             "Elapsed_times": "56:32.626",
@@ -1497,7 +1554,7 @@
                     "Sprint Race 2": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:46.202",
                         "other_info": {
                             "Elapsed_times": "46:19.610",
@@ -1511,7 +1568,7 @@
                     "Sprint Race 1": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:51.852",
                         "other_info": {
                             "Elapsed_times": "44:29.128",
@@ -1525,7 +1582,7 @@
                     "Qualifying Session": {
                         "position": "7",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:43.478",
                         "other_info": {
                             "Gap": "0.630",
@@ -1537,7 +1594,7 @@
                     "Free Practice": {
                         "position": "10",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:46.077",
                         "other_info": {
                             "Gap": "0.737",
@@ -1551,7 +1608,7 @@
                     "Feature Race": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:22.663",
                         "other_info": {
                             "Elapsed_times": "1:01:04.983",
@@ -1565,7 +1622,7 @@
                     "Sprint Race 2": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:36.160",
                         "other_info": {
                             "Elapsed_times": "47:54.591",
@@ -1579,7 +1636,7 @@
                     "Sprint Race 1": {
                         "position": "8",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:23.906",
                         "other_info": {
                             "Elapsed_times": "44:36.519",
@@ -1593,7 +1650,7 @@
                     "Qualifying Group A": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:21.443",
                         "other_info": {
                             "Gap": "0.458",
@@ -1605,7 +1662,7 @@
                     "Free Practice": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:22.980",
                         "other_info": {
                             "Gap": "0.939",
@@ -1619,7 +1676,7 @@
                     "Feature Race": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:55.990",
                         "other_info": {
                             "Elapsed_times": "57:14.786",
@@ -1633,7 +1690,7 @@
                     "Sprint Race 2": {
                         "position": "8",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:56.020",
                         "other_info": {
                             "Elapsed_times": "46:14.842",
@@ -1647,7 +1704,7 @@
                     "Qualifying Session": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:54.508",
                         "other_info": {
                             "Gap": "0.291",
@@ -1659,7 +1716,7 @@
                     "Free Practice": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:56.394",
                         "other_info": {
                             "Gap": "1.184",
@@ -1673,7 +1730,7 @@
                     "Feature Race": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:44.046",
                         "other_info": {
                             "Elapsed_times": "51:26.894",
@@ -1687,7 +1744,7 @@
                     "Sprint Race 2": {
                         "position": "4",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:42.846",
                         "other_info": {
                             "Elapsed_times": "42:46.535",
@@ -1701,7 +1758,7 @@
                     "Sprint Race 1": {
                         "position": "6",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:42.498",
                         "other_info": {
                             "Elapsed_times": "42:42.703",
@@ -1715,7 +1772,7 @@
                     "Qualifying Session": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:39.854",
                         "other_info": {
                             "Gap": "-",
@@ -1727,7 +1784,7 @@
                     "Free Practice": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:41.980",
                         "other_info": {
                             "Gap": "0.230",
@@ -1741,7 +1798,7 @@
                     "Feature Race": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:35.396",
                         "other_info": {
                             "Elapsed_times": "56:39.491",
@@ -1755,7 +1812,7 @@
                     "Sprint Race 2": {
                         "position": "7",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:35.239",
                         "other_info": {
                             "Elapsed_times": "34:49.436",
@@ -1769,7 +1826,7 @@
                     "Sprint Race 1": {
                         "position": "4",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:34.905",
                         "other_info": {
                             "Elapsed_times": "39:20.189",
@@ -1783,7 +1840,7 @@
                     "Qualifying Session": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:32.199",
                         "other_info": {
                             "Gap": "-",
@@ -1795,7 +1852,7 @@
                     "Free Practice": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:33.425",
                         "other_info": {
                             "Gap": "0.383",
@@ -1809,7 +1866,7 @@
                     "Feature Race": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:51.566",
                         "other_info": {
                             "Elapsed_times": "53:20.402",
@@ -1823,7 +1880,7 @@
                     "Sprint Race 1": {
                         "position": "9",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:51.462",
                         "other_info": {
                             "Elapsed_times": "36:52.116",
@@ -1837,7 +1894,7 @@
                     "Qualifying Session": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:47.465",
                         "other_info": {
                             "Gap": "-",
@@ -1849,7 +1906,7 @@
                     "Free Practice": {
                         "position": "10",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:49.991",
                         "other_info": {
                             "Gap": "0.568",
@@ -1863,7 +1920,7 @@
                     "Feature Race": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:45.326",
                         "other_info": {
                             "Elapsed_times": "47:09.339",
@@ -1877,7 +1934,7 @@
                     "Sprint Race 2": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:43.940",
                         "other_info": {
                             "Elapsed_times": "45:31.603",
@@ -1891,7 +1948,7 @@
                     "Sprint Race 1": {
                         "position": "8",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:44.907",
                         "other_info": {
                             "Elapsed_times": "41:52.715",
@@ -1905,7 +1962,7 @@
                     "Qualifying Session": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:40.878",
                         "other_info": {
                             "Gap": "-",
@@ -1917,7 +1974,7 @@
                     "Free Practice": {
                         "position": "10",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:43.456",
                         "other_info": {
                             "Gap": "0.833",
@@ -1931,7 +1988,7 @@
                     "Feature Race": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:38.993",
                         "other_info": {
                             "Elapsed_times": "58:14.400",
@@ -1945,7 +2002,7 @@
                     "Sprint Race 1": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:39.797",
                         "other_info": {
                             "Elapsed_times": "38:36.520",
@@ -1959,7 +2016,7 @@
                     "Qualifying Session": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:35.077",
                         "other_info": {
                             "Gap": "-",
@@ -1971,7 +2028,7 @@
                     "Free Practice": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:36.800",
                         "other_info": {
                             "Gap": "-",
@@ -1989,7 +2046,7 @@
                     "Race 2": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:36.081",
                         "other_info": {
                             "Elapsed_times": "39:52.928",
@@ -2003,7 +2060,7 @@
                     "Race 1": {
                         "position": "6",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:36.323",
                         "other_info": {
                             "Elapsed_times": "39:03.368",
@@ -2017,7 +2074,7 @@
                     "Qualifying": {
                         "position": "4",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:33.171",
                         "other_info": {
                             "Gap": "0.197",
@@ -2029,7 +2086,7 @@
                     "Practice": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:34.190",
                         "other_info": {
                             "Gap": "0.453",
@@ -2043,7 +2100,7 @@
                     "Race 2": {
                         "position": "8",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:21.513",
                         "other_info": {
                             "Elapsed_times": "37:05.149",
@@ -2057,7 +2114,7 @@
                     "Race 1": {
                         "position": "1",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:21.710",
                         "other_info": {
                             "Elapsed_times": "32:53.331",
@@ -2071,7 +2128,7 @@
                     "Qualifying": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:19.564",
                         "other_info": {
                             "Gap": "0.135",
@@ -2083,7 +2140,7 @@
                     "Practice": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:20.513",
                         "other_info": {
                             "Gap": "0.079",
@@ -2097,7 +2154,7 @@
                     "Race 2": {
                         "position": "6",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:47.052",
                         "other_info": {
                             "Elapsed_times": "40:41.588",
@@ -2111,7 +2168,7 @@
                     "Race 1": {
                         "position": "7",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:47.897",
                         "other_info": {
                             "Elapsed_times": "36:24.349",
@@ -2125,7 +2182,7 @@
                     "Qualifying": {
                         "position": "11",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:45.877",
                         "other_info": {
                             "Gap": "0.814",
@@ -2137,7 +2194,7 @@
                     "Practice": {
                         "position": "30",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "2:09.110",
                         "other_info": {
                             "Gap": "23.915",
@@ -2151,7 +2208,7 @@
                     "Race 2": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:50.721",
                         "other_info": {
                             "Elapsed_times": "43:55.250",
@@ -2165,7 +2222,7 @@
                     "Race 1": {
                         "position": "2",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:35.343",
                         "other_info": {
                             "Elapsed_times": "1:04:07.344",
@@ -2179,7 +2236,7 @@
                     "Qualifying": {
                         "position": "6",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:52.278",
                         "other_info": {
                             "Gap": "0.930",
@@ -2191,7 +2248,7 @@
                     "Practice": {
                         "position": "28",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:33.654",
                         "other_info": {
                             "Gap": "1.815",
@@ -2205,7 +2262,7 @@
                     "Race 2": {
                         "position": "6",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "2:07.852",
                         "other_info": {
                             "Elapsed_times": "38:08.390",
@@ -2219,7 +2276,7 @@
                     "Race 1": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "2:08.078",
                         "other_info": {
                             "Elapsed_times": "38:20.604",
@@ -2233,7 +2290,7 @@
                     "Qualifying": {
                         "position": "8",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "2:06.206",
                         "other_info": {
                             "Gap": "0.813",
@@ -2245,7 +2302,7 @@
                     "Practice": {
                         "position": "13",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "2:07.087",
                         "other_info": {
                             "Gap": "1.318",
@@ -2259,7 +2316,7 @@
                     "Race 1": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:39.881",
                         "other_info": {
                             "Elapsed_times": "38:27.662",
@@ -2273,7 +2330,7 @@
                     "Qualifying": {
                         "position": "12",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:38.198",
                         "other_info": {
                             "Gap": "0.897",
@@ -2285,7 +2342,7 @@
                     "Practice": {
                         "position": "21",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:39.055",
                         "other_info": {
                             "Gap": "0.959",
@@ -2299,7 +2356,7 @@
                     "Race 2": {
                         "position": "7",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:38.306",
                         "other_info": {
                             "Elapsed_times": "36:43.900",
@@ -2313,7 +2370,7 @@
                     "Race 1": {
                         "position": "11",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:38.474",
                         "other_info": {
                             "Elapsed_times": "34:56.356",
@@ -2327,7 +2384,7 @@
                     "Qualifying": {
                         "position": "11",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:35.699",
                         "other_info": {
                             "Gap": "0.371",
@@ -2339,7 +2396,7 @@
                     "Practice": {
                         "position": "13",
                         "points": 0,
-                        "team": "PREMA Racing",
+                        "team": "PREMA_Racing",
                         "fastest_lap": "1:37.167",
                         "other_info": {
                             "Gap": "0.744",

@@ -2,7 +2,6 @@
     "firstName": "Alexander",
     "lastName": "Albon",
     "dateOfBirth": "1996-03-23",
-    "picture": "Alexander_Albon.jpg",
     "country": "Thailand",
     "seasons": {
         "2025": {
@@ -118,6 +117,63 @@
                             "Lap_of_fastest_lap": "52",
                             "Gap": "+56.321s",
                             "Laps": "56"
+                        }
+                    }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Williams_Mercedes",
+                        "fastest_lap": "1:29.392",
+                        "other_info": {
+                            "Laps": "25",
+                            "Car_Number": "23"
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "Williams_Mercedes",
+                        "fastest_lap": "1:29.023",
+                        "other_info": {
+                            "Laps": "11",
+                            "Car_Number": "23"
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Williams_Mercedes",
+                        "fastest_lap": "1:28.554",
+                        "other_info": {
+                            "Laps": "19",
+                            "Car_Number": "23"
+                        }
+                    },
+                    "QUALIFYING": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Williams_Mercedes",
+                        "fastest_lap": "1:27.615",
+                        "other_info": {
+                            "Laps": "20",
+                            "Car_number": "23",
+                            "Q1": "1:28.218",
+                            "Q2": "1:27.783",
+                            "Q3": "1:27.615"
+                        }
+                    },
+                    "RACE RESULT": {
+                        "position": "9",
+                        "points": "2",
+                        "team": "Williams_Mercedes",
+                        "fastest_lap": "1:31.125",
+                        "other_info": {
+                            "Average_speed_of_fastest_lap": "229.412",
+                            "Lap_of_fastest_lap": "52",
+                            "Gap": "+40.367s",
+                            "Laps": "53"
                         }
                     }
                 }

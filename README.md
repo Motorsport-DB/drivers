@@ -47,14 +47,14 @@ Example JSON structure:
                             "fastest_speed": "177.969 km/h",
                             "laps": 15
                         },
-                        "team": "PREMA Racing"
+                        "team": "PREMA_Racing"
                     },
                     "Qualifying 1": {
                         "position": 1,
                         "fastest_lap": "2:03.472",
                         "other_info": {
                         },
-                        "team": "PREMA Racing"
+                        "team": "PREMA_Racing"
                     },
                     "Qualifying 2":
                         {
@@ -62,7 +62,7 @@ Example JSON structure:
                             "fastest_lap": "2:03.699",
                             "other_info": {
                             },
-                        "team": "PREMA Racing"
+                        "team": "PREMA_Racing"
                         },
                     "Race 1": {
                         "position": 1,
@@ -72,7 +72,7 @@ Example JSON structure:
                             "fastest_speed": "165.005 km/h",
                             "laps": 12
                         },
-                        "team": "PREMA Racing"
+                        "team": "PREMA_Racing"
                     },
                     "Race 2": {
                         "position": 9,
@@ -82,7 +82,7 @@ Example JSON structure:
                             "fastest_speed": "148.378 km/h",
                             "laps": 13
                         },
-                        "team": "PREMA Racing"
+                        "team": "PREMA_Racing"
                     }
                 }
             }
