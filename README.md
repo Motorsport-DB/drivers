@@ -28,7 +28,7 @@ Example JSON structure:
 {
     "firstName": "Doriane",
     "lastName": "Pin",
-    "Nickname": "the Pocket Rocket",
+    "nickname": "the Pocket Rocket",
     "dateOfBirth": "2004-01-06",
     "picture": "doriane_pin.jpg",
     "country": "France",
