@@ -48,7 +48,7 @@
                 },
                 "Sakhir": {
                     "Sprint Race": {
-                        "position": "4",
+                        "position": "3",
                         "points": 0,
                         "team": "Hitech_TGR",
                         "fastest_lap": "1:49.357",
@@ -82,6 +82,20 @@
                             "Gap": "1.438",
                             "Average_speed": "178.373",
                             "Laps": "11",
+                            "Car_number": "8"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Hitech_TGR",
+                        "fastest_lap": "1:49.390",
+                        "other_info": {
+                            "Elapsed_times": "1:00:04.260",
+                            "Gap": "24.137",
+                            "Average_speed": "172.733",
+                            "Lap_of_fastest_lap": "14",
+                            "Laps": "32",
                             "Car_number": "8"
                         }
                     }
@@ -213,7 +227,7 @@
                     }
                 }
             },
-            "Formula 3": {
+            "Formula_3": {
                 "Sakhir": {
                     "Feature Race": {
                         "position": "13",
@@ -757,7 +771,7 @@
             }
         },
         "2023": {
-            "Formula 3": {
+            "Formula_3": {
                 "Sakhir": {
                     "Feature Race": {
                         "position": "3",

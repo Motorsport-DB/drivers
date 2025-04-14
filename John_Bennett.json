@@ -1,6 +1,8 @@
 {
     "firstName": "John",
     "lastName": "Bennett",
+    "dateOfBirth": "2003-09-15",
+    "country": "British",
     "seasons": {
         "2025": {
             "Formula_2": {
@@ -46,7 +48,7 @@
                 },
                 "Sakhir": {
                     "Sprint Race": {
-                        "position": "18",
+                        "position": "17",
                         "points": 0,
                         "team": "Van_Amersfoort_Racing",
                         "fastest_lap": "1:50.348",
@@ -80,6 +82,20 @@
                             "Gap": "1.626",
                             "Average_speed": "178.066",
                             "Laps": "13",
+                            "Car_number": "24"
+                        }
+                    },
+                    "Feature Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Van_Amersfoort_Racing",
+                        "fastest_lap": "1:49.341",
+                        "other_info": {
+                            "Elapsed_times": "1:00:36.034",
+                            "Gap": "55.911",
+                            "Average_speed": "171.224",
+                            "Lap_of_fastest_lap": "12",
+                            "Laps": "32",
                             "Car_number": "24"
                         }
                     }

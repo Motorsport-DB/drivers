@@ -3,7 +3,7 @@
     "lastName": "Lacorte",
     "seasons": {
         "2025": {
-            "Formula 3": {
+            "Formula_3": {
                 "Melbourne": {
                     "Feature Race": {
                         "position": "24",
@@ -47,6 +47,48 @@
                     }
                 },
                 "Sakhir": {
+                    "Qualifying": {
+                        "position": "25",
+                        "points": 0,
+                        "team": "DAMS_Lucas_Oil",
+                        "fastest_lap": "1:50.480",
+                        "other_info": {
+                            "Gap": "1.266",
+                            "Average_speed": "176.350",
+                            "Laps": "12",
+                            "Car_number": "29"
+                        }
+                    },
+                    "Practice": {
+                        "position": "26",
+                        "points": 0,
+                        "team": "DAMS_Lucas_Oil",
+                        "fastest_lap": "1:52.205",
+                        "other_info": {
+                            "Gap": "1.221",
+                            "Average_speed": "173.639",
+                            "Laps": "7",
+                            "Car_number": "29"
+                        }
+                    }
+                }
+            },
+            "Formula 3": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "DAMS_Lucas_Oil",
+                        "fastest_lap": "1:54.234",
+                        "other_info": {
+                            "Elapsed_times": "42:46.187",
+                            "Gap": "41.181",
+                            "Average_speed": "166.684",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "22",
+                            "Car_number": "29"
+                        }
+                    },
                     "Qualifying": {
                         "position": "25",
                         "points": 0,

@@ -3,7 +3,7 @@
     "lastName": "Ugochukwu",
     "seasons": {
         "2025": {
-            "Formula 3": {
+            "Formula_3": {
                 "Melbourne": {
                     "Feature Race": {
                         "position": "10",
@@ -59,6 +59,48 @@
                     }
                 },
                 "Sakhir": {
+                    "Qualifying": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:50.385",
+                        "other_info": {
+                            "Gap": "1.171",
+                            "Average_speed": "176.502",
+                            "Laps": "12",
+                            "Car_number": "3"
+                        }
+                    },
+                    "Practice": {
+                        "position": "10",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:51.484",
+                        "other_info": {
+                            "Gap": "0.500",
+                            "Average_speed": "174.762",
+                            "Laps": "7",
+                            "Car_number": "3"
+                        }
+                    }
+                }
+            },
+            "Formula 3": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "27",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:53.631",
+                        "other_info": {
+                            "Elapsed_times": "43:15.124",
+                            "Gap": "70.118",
+                            "Average_speed": "164.826",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "22",
+                            "Car_number": "3"
+                        }
+                    },
                     "Qualifying": {
                         "position": "21",
                         "points": 0,

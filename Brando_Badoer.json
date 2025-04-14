@@ -5,7 +5,7 @@
     "country": "Italy",
     "seasons": {
         "2025": {
-            "Formula 3": {
+            "Formula_3": {
                 "Melbourne": {
                     "Feature Race": {
                         "position": "26",
@@ -61,6 +61,62 @@
                     }
                 },
                 "Sakhir": {
+                    "Sprint Race": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:54.806",
+                        "other_info": {
+                            "Elapsed_times": "40:04.550",
+                            "Gap": "13.287",
+                            "Average_speed": "153.581",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "19",
+                            "Car_number": "1"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:50.171",
+                        "other_info": {
+                            "Gap": "0.957",
+                            "Average_speed": "176.845",
+                            "Laps": "11",
+                            "Car_number": "1"
+                        }
+                    },
+                    "Practice": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:52.078",
+                        "other_info": {
+                            "Gap": "1.094",
+                            "Average_speed": "173.836",
+                            "Laps": "7",
+                            "Car_number": "1"
+                        }
+                    }
+                }
+            },
+            "Formula 3": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "PREMA_Racing",
+                        "fastest_lap": "1:53.679",
+                        "other_info": {
+                            "Elapsed_times": "42:47.003",
+                            "Gap": "41.997",
+                            "Average_speed": "166.631",
+                            "Lap_of_fastest_lap": "5",
+                            "Laps": "22",
+                            "Car_number": "1"
+                        }
+                    },
                     "Sprint Race": {
                         "position": "22",
                         "points": 0,

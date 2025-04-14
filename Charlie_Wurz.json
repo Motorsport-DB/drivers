@@ -5,12 +5,12 @@
     "country": "Monaco",
     "seasons": {
         "2025": {
-            "Formula 3": {
+            "Formula_3": {
                 "Melbourne": {
                     "Feature Race": {
                         "position": "6",
                         "points": 0,
-                        "team": "TRIDENT",
+                        "team": "Trident",
                         "fastest_lap": "1:50.846",
                         "other_info": {
                             "Elapsed_times": "34:47.219",
@@ -24,7 +24,7 @@
                     "Qualifying": {
                         "position": "6",
                         "points": 0,
-                        "team": "TRIDENT",
+                        "team": "Trident",
                         "fastest_lap": "1:35.839",
                         "other_info": {
                             "Gap": "0.840",
@@ -36,7 +36,7 @@
                     "Practice": {
                         "position": "17",
                         "points": 0,
-                        "team": "TRIDENT",
+                        "team": "Trident",
                         "fastest_lap": "1:36.006",
                         "other_info": {
                             "Gap": "1.354",
@@ -47,6 +47,62 @@
                     }
                 },
                 "Sakhir": {
+                    "Sprint Race": {
+                        "position": "9",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:54.777",
+                        "other_info": {
+                            "Elapsed_times": "39:56.927",
+                            "Gap": "5.664",
+                            "Average_speed": "154.070",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "19",
+                            "Car_number": "6"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "3",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:49.618",
+                        "other_info": {
+                            "Gap": "0.404",
+                            "Average_speed": "177.737",
+                            "Laps": "11",
+                            "Car_number": "6"
+                        }
+                    },
+                    "Practice": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:51.405",
+                        "other_info": {
+                            "Gap": "0.421",
+                            "Average_speed": "174.886",
+                            "Laps": "6",
+                            "Car_number": "6"
+                        }
+                    }
+                }
+            },
+            "Formula 3": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "11",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:53.264",
+                        "other_info": {
+                            "Elapsed_times": "42:24.316",
+                            "Gap": "19.310",
+                            "Average_speed": "168.117",
+                            "Lap_of_fastest_lap": "2",
+                            "Laps": "22",
+                            "Car_number": "6"
+                        }
+                    },
                     "Sprint Race": {
                         "position": "9",
                         "points": 0,
@@ -89,7 +145,7 @@
             }
         },
         "2024": {
-            "Formula 3": {
+            "Formula_3": {
                 "Sakhir": {
                     "Feature Race": {
                         "position": "16",

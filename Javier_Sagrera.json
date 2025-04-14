@@ -1,9 +1,11 @@
 {
     "firstName": "Javier",
     "lastName": "Sagrera",
+    "dateOfBirth":"2004-01-12",
+    "country": "Spain",
     "seasons": {
         "2025": {
-            "Formula 3": {
+            "Formula_3": {
                 "Melbourne": {
                     "Feature Race": {
                         "position": "15",
@@ -45,6 +47,62 @@
                     }
                 },
                 "Sakhir": {
+                    "Sprint Race": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "AIX_Racing",
+                        "fastest_lap": "1:55.330",
+                        "other_info": {
+                            "Elapsed_times": "40:08.495",
+                            "Gap": "17.232",
+                            "Average_speed": "153.330",
+                            "Lap_of_fastest_lap": "8",
+                            "Laps": "19",
+                            "Car_number": "26"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "15",
+                        "points": 0,
+                        "team": "AIX_Racing",
+                        "fastest_lap": "1:50.154",
+                        "other_info": {
+                            "Gap": "0.940",
+                            "Average_speed": "176.872",
+                            "Laps": "11",
+                            "Car_number": "26"
+                        }
+                    },
+                    "Practice": {
+                        "position": "30",
+                        "points": 0,
+                        "team": "AIX_Racing",
+                        "fastest_lap": "1:52.805",
+                        "other_info": {
+                            "Gap": "1.821",
+                            "Average_speed": "172.715",
+                            "Laps": "8",
+                            "Car_number": "26"
+                        }
+                    }
+                }
+            },
+            "Formula 3": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "24",
+                        "points": 0,
+                        "team": "AIX_Racing",
+                        "fastest_lap": "1:53.991",
+                        "other_info": {
+                            "Elapsed_times": "42:52.785",
+                            "Gap": "47.779",
+                            "Average_speed": "166.257",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "22",
+                            "Car_number": "26"
+                        }
+                    },
                     "Sprint Race": {
                         "position": "23",
                         "points": 0,

@@ -5,7 +5,7 @@
     "country": "British",
     "seasons": {
         "2025": {
-            "Formula 3": {
+            "Formula_3": {
                 "Melbourne": {
                     "Sprint Race": {
                         "position": "9",
@@ -86,10 +86,66 @@
                         }
                     }
                 }
+            },
+            "Formula 3": {
+                "Sakhir": {
+                    "Feature Race": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Rodin_Motorsport",
+                        "fastest_lap": "1:53.585",
+                        "other_info": {
+                            "Elapsed_times": "42:11.217",
+                            "Gap": "6.211",
+                            "Average_speed": "168.987",
+                            "Lap_of_fastest_lap": "6",
+                            "Laps": "22",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Rodin_Motorsport",
+                        "fastest_lap": "1:54.066",
+                        "other_info": {
+                            "Elapsed_times": "39:53.187",
+                            "Gap": "1.924",
+                            "Average_speed": "154.311",
+                            "Lap_of_fastest_lap": "3",
+                            "Laps": "19",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Qualifying": {
+                        "position": "2",
+                        "points": 0,
+                        "team": "Rodin_Motorsport",
+                        "fastest_lap": "1:49.370",
+                        "other_info": {
+                            "Gap": "0.156",
+                            "Average_speed": "178.140",
+                            "Laps": "11",
+                            "Car_number": "23"
+                        }
+                    },
+                    "Practice": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "Rodin_Motorsport",
+                        "fastest_lap": "1:51.820",
+                        "other_info": {
+                            "Gap": "0.836",
+                            "Average_speed": "174.237",
+                            "Laps": "6",
+                            "Car_number": "23"
+                        }
+                    }
+                }
             }
         },
         "2024": {
-            "Formula 3": {
+            "Formula_3": {
                 "Sakhir": {
                     "Feature Race": {
                         "position": "21",
