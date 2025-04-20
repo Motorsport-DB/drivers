@@ -6,63 +6,35 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "32",
-                        "points": 0,
-                        "team": "Team_WRT",
-                        "fastest_lap": "1:56.872",
-                        "other_info": {
-                            "Laps": "38"
-                        }
-                    },
-                    "Free Practice 2": {
-                        "position": "26",
-                        "points": 0,
-                        "team": "Team_WRT",
-                        "fastest_lap": "1:55.545",
-                        "other_info": {
-                            "Laps": "37"
-                        }
-                    },
-                    "Free Practice 3": {
-                        "position": "28",
-                        "points": 0,
-                        "team": "Team_WRT",
-                        "fastest_lap": "1:55.856",
-                        "other_info": {
-                            "Laps": "22"
-                        }
-                    },
+                "6 Hours of Imola": {
                     "LMGT3 Qualifying": {
-                        "position": "6",
+                        "position": "1",
                         "points": 0,
-                        "team": "Team_WRT",
-                        "fastest_lap": "1:55.949",
+                        "team": "TEAM_WRT",
+                        "fastest_lap": "1'42.731",
                         "other_info": {
-                            "Laps": "6"
+                            "Average_speed": "172.025 Km/h",
+                            "Laps": "6",
+                            "Car_number": "46",
+                            "Class": "LMGT3"
                         }
-                    },
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
                     "LMGT3 Hyperpole": {
-                        "position": "8",
+                        "position": "1",
                         "points": 0,
-                        "team": "Team_WRT",
-                        "fastest_lap": "1:54.989",
+                        "team": "TEAM_WRT",
+                        "fastest_lap": "1'42.355",
                         "other_info": {
-                            "Laps": "6"
-                        }
-                    },
-                    "Race": {
-                        "position": "28",
-                        "points": 0,
-                        "team": "Team_WRT",
-                        "fastest_lap": "1:55.672",
-                        "other_info": {
-                            "Laps": "284",
-                            "Elapsed_time": "10:02:16.019",
-                            "Gap": "34 Laps",
-                            "Best_lap_number": "155",
-                            "Best_speed": "186.6 km/h"
+                            "Average_speed": "172.657 Km/h",
+                            "Laps": "6",
+                            "Car_number": "46",
+                            "Class": "LMGT3"
                         }
                     }
                 }

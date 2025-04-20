@@ -6,54 +6,35 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Alpine_Endurance_Team",
-                        "fastest_lap": "1:43.135",
-                        "other_info": {
-                            "Laps": "33"
-                        }
-                    },
-                    "Free Practice 2": {
+                "6 Hours of Imola": {
+                    "Hypercar Qualifying": {
                         "position": "7",
                         "points": 0,
                         "team": "Alpine_Endurance_Team",
-                        "fastest_lap": "1:40.694",
+                        "fastest_lap": "1'30.663",
                         "other_info": {
-                            "Laps": "42"
+                            "Average_speed": "194.924 Km/h",
+                            "Laps": "7",
+                            "Car_number": "36",
+                            "Class": "HYPERCAR"
                         }
-                    },
-                    "Free Practice 3": {
-                        "position": "16",
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Hypercar Hyperpole": {
+                        "position": "6",
                         "points": 0,
                         "team": "Alpine_Endurance_Team",
-                        "fastest_lap": "1:42.219",
+                        "fastest_lap": "1'30.190",
                         "other_info": {
-                            "Laps": "26"
-                        }
-                    },
-                    "Hypercar Qualifying": {
-                        "position": "14",
-                        "points": 0,
-                        "team": "Alpine_Endurance_Team",
-                        "fastest_lap": "1:40.364",
-                        "other_info": {
-                            "Laps": "6"
-                        }
-                    },
-                    "Race": {
-                        "position": "13",
-                        "points": 0,
-                        "team": "Alpine_Endurance_Team",
-                        "fastest_lap": "1:42.973",
-                        "other_info": {
-                            "Laps": "317",
-                            "Elapsed_time": "10:02:36.976",
-                            "Gap": "1 Lap",
-                            "Best_lap_number": "190",
-                            "Best_speed": "189.4 km/h"
+                            "Average_speed": "195.946 Km/h",
+                            "Laps": "6",
+                            "Car_number": "36",
+                            "Class": "HYPERCAR"
                         }
                     }
                 }

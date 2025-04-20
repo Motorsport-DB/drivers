@@ -6,54 +6,35 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Proton_Competition",
-                        "fastest_lap": "1:43.495",
-                        "other_info": {
-                            "Laps": "34"
-                        }
-                    },
-                    "Free Practice 2": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Proton_Competition",
-                        "fastest_lap": "1:42.292",
-                        "other_info": {
-                            "Laps": "40"
-                        }
-                    },
+                "6 Hours of Imola": {
                     "Free Practice 3": {
-                        "position": "18",
+                        "position": "15",
                         "points": 0,
                         "team": "Proton_Competition",
-                        "fastest_lap": "1:42.704",
+                        "fastest_lap": "1'33.750",
                         "other_info": {
-                            "Laps": "27"
+                            "Average_speed": "188.505 Km/h",
+                            "Laps": "23",
+                            "Car_number": "99",
+                            "Class": "HYPERCAR"
                         }
-                    },
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
                     "Hypercar Qualifying": {
-                        "position": "15",
+                        "position": "14",
                         "points": 0,
                         "team": "Proton_Competition",
-                        "fastest_lap": "1:41.421",
+                        "fastest_lap": "1'31.382",
                         "other_info": {
-                            "Laps": "7"
-                        }
-                    },
-                    "Race": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Proton_Competition",
-                        "fastest_lap": "1:42.834",
-                        "other_info": {
-                            "Laps": "314",
-                            "Elapsed_time": "10:02:49.329",
-                            "Gap": "4 Laps",
-                            "Best_lap_number": "307",
-                            "Best_speed": "189.7 km/h"
+                            "Average_speed": "193.390 Km/h",
+                            "Laps": "6",
+                            "Car_number": "99",
+                            "Class": "HYPERCAR"
                         }
                     }
                 }

@@ -6,80 +6,17 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "Toyota_Gazoo_Racing",
-                        "fastest_lap": "1:42.466",
-                        "other_info": {
-                            "Laps": "35"
-                        }
-                    },
-                    "Free Practice 2": {
+                "6 Hours of Imola": {
+                    "Hypercar Qualifying": {
                         "position": "6",
                         "points": 0,
                         "team": "Toyota_Gazoo_Racing",
-                        "fastest_lap": "1:40.505",
+                        "fastest_lap": "1'30.534",
                         "other_info": {
-                            "Laps": "44"
-                        }
-                    },
-                    "Free Practice 3": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Toyota_Gazoo_Racing",
-                        "fastest_lap": "1:41.945",
-                        "other_info": {
-                            "Laps": "31"
-                        }
-                    },
-                    "Hypercar Qualifying": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Toyota_Gazoo_Racing",
-                        "fastest_lap": "1:46.289",
-                        "other_info": {
-                            "Laps": "6"
-                        }
-                    },
-                    "Race": {
-                        "position": "5",
-                        "points": 15,
-                        "team": "Toyota_Gazoo_Racing",
-                        "fastest_lap": "1:42.065",
-                        "other_info": {
-                            "Laps": "318",
-                            "Elapsed_time": "10:01:58.726",
-                            "Gap": "+19.628",
-                            "Best_lap_number": "172",
-                            "Best_speed": "191.1 km/h"
-                        }
-                    }
-                }
-            },
-            "Formula_1": {
-                "LENOVO JAPANESE GRAND PRIX": {
-                    "PRACTICE 1": {
-                        "position": "12",
-                        "points": 0,
-                        "team": "Alpine_Renault",
-                        "fastest_lap": "1:29.394",
-                        "other_info": {
-                            "Laps": "24",
-                            "Car_Number": "62"
-                        }
-                    }
-                },
-                "GULF AIR BAHRAIN GRAND PRIX": {
-                    "PRACTICE 1": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Haas_Ferrari",
-                        "fastest_lap": "1:35.261",
-                        "other_info": {
-                            "Laps": "20",
-                            "Car_Number": "50"
+                            "Average_speed": "195.201 Km/h",
+                            "Laps": "6",
+                            "Car_number": "8",
+                            "Class": "HYPERCAR"
                         }
                     }
                 }
@@ -96,6 +33,24 @@
                         "other_info": {
                             "Laps": "19",
                             "Car_Number": "28"
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Hypercar Hyperpole": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "Toyota_Gazoo_Racing",
+                        "fastest_lap": "1'30.042",
+                        "other_info": {
+                            "Average_speed": "196.268 Km/h",
+                            "Laps": "5",
+                            "Car_number": "8",
+                            "Class": "HYPERCAR"
                         }
                     }
                 }
