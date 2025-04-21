@@ -4,6 +4,34 @@
     "dateOfBirth": "1998-11-11",
     "country": "British",
     "seasons": {
+        "2021": {
+            "Formula_1": {
+                "HEINEKEN GRANDE PRÉMIO DE PORTUGAL": {
+                    "PRACTICE 1": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Alfa_Romeo_Racing_Ferrari",
+                        "fastest_lap": "1:21.806",
+                        "other_info": {
+                            "Laps": "21",
+                            "Car_Number": "98"
+                        }
+                    }
+                },
+                "BWT GROSSER PREIS VON ÖSTERREICH": {
+                    "PRACTICE 1": {
+                        "position": "16",
+                        "points": 0,
+                        "team": "Alfa_Romeo_Racing_Ferrari",
+                        "fastest_lap": "1:06.564",
+                        "other_info": {
+                            "Laps": "23",
+                            "Car_Number": "98"
+                        }
+                    }
+                }
+            }
+        },
         "2020": {
             "Formula_2": {
                 "Barcelona": {
@@ -1089,34 +1117,6 @@
                             "Average_speed": "207.279",
                             "Laps": "17",
                             "Car_number": "17"
-                        }
-                    }
-                }
-            }
-        },
-        "2021": {
-            "Formula_1": {
-                "HEINEKEN GRANDE PRÉMIO DE PORTUGAL": {
-                    "PRACTICE 1": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Alfa_Romeo_Racing_Ferrari",
-                        "fastest_lap": "1:21.806",
-                        "other_info": {
-                            "Laps": "21",
-                            "Car_Number": "98"
-                        }
-                    }
-                },
-                "BWT GROSSER PREIS VON ÖSTERREICH": {
-                    "PRACTICE 1": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Alfa_Romeo_Racing_Ferrari",
-                        "fastest_lap": "1:06.564",
-                        "other_info": {
-                            "Laps": "23",
-                            "Car_Number": "98"
                         }
                     }
                 }
