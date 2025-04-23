@@ -1,6 +1,6 @@
 {
     "firstName": "Nyck",
-    "lastName": "De vries",
+    "lastName": "de Vries",
     "dateOfBirth": "1995-02-06",
     "country": "Netherlands",
     "seasons": {
@@ -204,7 +204,7 @@
                     },
                     "SPRINT SHOOTOUT": {
                         "position": "20",
-                        "points": "",
+                        "points": 0,
                         "team": "AlphaTauri_Honda_RBPT",
                         "fastest_lap": "N/A",
                         "other_info": {
@@ -482,7 +482,7 @@
                     },
                     "SPRINT SHOOTOUT": {
                         "position": "14",
-                        "points": "",
+                        "points": 0,
                         "team": "AlphaTauri_Honda_RBPT",
                         "fastest_lap": "N/A",
                         "other_info": {
@@ -2427,6 +2427,24 @@
                             "Average_speed": "-",
                             "Laps": "16",
                             "Car_number": "3"
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "position": "7",
+                        "points": 0,
+                        "team": "Toyota_Gazoo_Racing",
+                        "fastest_lap": "",
+                        "other_info": {
+                            "Elapsed_times": "6:00'59.843",
+                            "Laps": "212",
+                            "Car_number": "7",
+                            "Class": "HYPERCAR"
                         }
                     }
                 }
