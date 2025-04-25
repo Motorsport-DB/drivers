@@ -7,10 +7,22 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
+                    "Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Ferrari_AF_Corse",
+                        "fastest_lap": "",
+                        "other_info": {
+                            "Elapsed_times": "6:00'28.365",
+                            "Laps": "212",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        }
+                    },
                     "Hypercar Hyperpole": {
                         "position": "1",
                         "points": 0,
-                        "team": "FERRARI_AF_CORSE",
+                        "team": "Ferrari_AF_Corse",
                         "fastest_lap": "1'28.920",
                         "other_info": {
                             "Average_speed": "198.744 Km/h",
@@ -3269,24 +3281,6 @@
                             "Lap_of_fastest_lap": "28",
                             "Gap": "+1 lap",
                             "Laps": "54"
-                        }
-                    }
-                }
-            }
-        },
-        "2025": {
-            "World_Endurance_Championship_WEC": {
-                "6 Hours of Imola": {
-                    "Race": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "FERRARI_AF_CORSE",
-                        "fastest_lap": "",
-                        "other_info": {
-                            "Elapsed_times": "6:00'28.365",
-                            "Laps": "212",
-                            "Car_number": "51",
-                            "Class": "HYPERCAR"
                         }
                     }
                 }
