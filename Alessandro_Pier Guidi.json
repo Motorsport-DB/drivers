@@ -7,30 +7,6 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Hyperpole": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Ferrari_AF_Corse",
-                        "fastest_lap": "1'28.920",
-                        "other_info": {
-                            "Average_speed": "198.744 Km/h",
-                            "Laps": "5",
-                            "Car_number": "51",
-                            "Class": "HYPERCAR"
-                        }
-                    },
-                    "Race": {
-                        "position": "1",
-                        "points": 0,
-                        "team": "Ferrari_AF_Corse",
-                        "fastest_lap": "",
-                        "other_info": {
-                            "Elapsed_times": "6:00'28.365",
-                            "Laps": "212",
-                            "Car_number": "51",
-                            "Class": "HYPERCAR"
-                        }
-                    },
                     "Free Practice 1": {
                         "position": "4",
                         "points": 0,
@@ -75,6 +51,30 @@
                         "other_info": {
                             "Average_speed": "197.185 Km/h",
                             "Laps": "7",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Ferrari_AF_Corse",
+                        "fastest_lap": "1'28.920",
+                        "other_info": {
+                            "Average_speed": "198.744 Km/h",
+                            "Laps": "5",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        }
+                    },
+                    "Race": {
+                        "position": "1",
+                        "points": 0,
+                        "team": "Ferrari_AF_Corse",
+                        "fastest_lap": "",
+                        "other_info": {
+                            "Elapsed_times": "6:00'28.365",
+                            "Laps": "212",
                             "Car_number": "51",
                             "Class": "HYPERCAR"
                         }
@@ -138,6 +138,80 @@
                             "Best_lap_number": "141",
                             "Best_speed": "192.6 km/h"
                         }
+                    }
+                },
+                "TotalEnergies 6 Hours of Spa-Francorchamps": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "203.094 Km/h",
+                            "Laps": "30",
+                            "Car_number": "51",
+                            "Class": ""
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "FERRARI_AF_CORSE",
+                        "fastest_lap": "2'04.149"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "2",
+                            "Car_number": "51",
+                            "Class": ""
+                        },
+                        "position": "36",
+                        "points": 0,
+                        "team": "FERRARI_AF_CORSE",
+                        "fastest_lap": "-"
+                    },
+                    "Free Practice 3": {
+                        "other_info": {
+                            "Average_speed": "206.249 Km/h",
+                            "Laps": "28",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "FERRARI_AF_CORSE",
+                        "fastest_lap": "2'02.252"
+                    },
+                    "Hypercar Qualifying": {
+                        "other_info": {
+                            "Average_speed": "209.116 Km/h",
+                            "Laps": "6",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "FERRARI_AF_CORSE",
+                        "fastest_lap": "2'00.576"
+                    },
+                    "Hypercar Hyperpole": {
+                        "other_info": {
+                            "Average_speed": "209.768 Km/h",
+                            "Laps": "6",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "FERRARI_AF_CORSE",
+                        "fastest_lap": "2'00.201"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Elapsed_times": "6:01'07.299",
+                            "Laps": "150",
+                            "Car_number": "51",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "1",
+                        "points": "25",
+                        "team": "FERRARI_AF_CORSE",
+                        "fastest_lap": ""
                     }
                 }
             }

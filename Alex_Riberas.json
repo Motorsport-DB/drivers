@@ -5,30 +5,6 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Qualifying": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Aston_Martin_Thor_Team",
-                        "fastest_lap": "1'32.853",
-                        "other_info": {
-                            "Average_speed": "190.326 Km/h",
-                            "Laps": "8",
-                            "Car_number": "009",
-                            "Class": "HYPERCAR"
-                        }
-                    },
-                    "Race": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Aston_Martin_Thor_Team",
-                        "fastest_lap": "",
-                        "other_info": {
-                            "Elapsed_times": "6:00'50.701",
-                            "Laps": "208",
-                            "Car_number": "009",
-                            "Class": "HYPERCAR"
-                        }
-                    },
                     "Free Practice 1": {
                         "position": "15",
                         "points": 0,
@@ -61,6 +37,30 @@
                         "other_info": {
                             "Average_speed": "186.282 Km/h",
                             "Laps": "23",
+                            "Car_number": "009",
+                            "Class": "HYPERCAR"
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Aston_Martin_Thor_Team",
+                        "fastest_lap": "1'32.853",
+                        "other_info": {
+                            "Average_speed": "190.326 Km/h",
+                            "Laps": "8",
+                            "Car_number": "009",
+                            "Class": "HYPERCAR"
+                        }
+                    },
+                    "Race": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Aston_Martin_Thor_Team",
+                        "fastest_lap": "",
+                        "other_info": {
+                            "Elapsed_times": "6:00'50.701",
+                            "Laps": "208",
                             "Car_number": "009",
                             "Class": "HYPERCAR"
                         }
@@ -115,6 +115,68 @@
                             "Best_lap_number": "122",
                             "Best_speed": "188.4 km/h"
                         }
+                    }
+                },
+                "TotalEnergies 6 Hours of Spa-Francorchamps": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "202.329 Km/h",
+                            "Laps": "30",
+                            "Car_number": "009",
+                            "Class": ""
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "Aston_Martin_THOR_Team",
+                        "fastest_lap": "2'04.619"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "202.405 Km/h",
+                            "Laps": "25",
+                            "Car_number": "009",
+                            "Class": ""
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Aston_Martin_THOR_Team",
+                        "fastest_lap": "2'04.572"
+                    },
+                    "Free Practice 3": {
+                        "other_info": {
+                            "Average_speed": "205.836 Km/h",
+                            "Laps": "27",
+                            "Car_number": "009",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "Aston_Martin_THOR_Team",
+                        "fastest_lap": "2'02.497"
+                    },
+                    "Hypercar Qualifying": {
+                        "other_info": {
+                            "Average_speed": "205.994 Km/h",
+                            "Laps": "7",
+                            "Car_number": "009",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "Aston_Martin_THOR_Team",
+                        "fastest_lap": "2'02.403"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Elapsed_times": "6:01'33.466",
+                            "Laps": "149",
+                            "Car_number": "009",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "14",
+                        "points": "",
+                        "team": "Aston_Martin_THOR_Team",
+                        "fastest_lap": ""
                     }
                 }
             }
