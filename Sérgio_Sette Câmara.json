@@ -4,6 +4,634 @@
     "dateOfBirth": "1998-05-23",
     "country": "Brazil",
     "seasons": {
+        "2021": {
+            "Formula_E": {
+                "Diriyah E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "128.250 Km/h",
+                            "Laps": "27",
+                            "Car_number": "7"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'10.007"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "129.893 Km/h",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'09.121"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "110.238 Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'21.445"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "104.9 Km/h",
+                            "Laps": "32",
+                            "Car_number": "7"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'04.939"
+                    }
+                },
+                "Diriyah E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "130.412 Km/h",
+                            "Laps": "19",
+                            "Car_number": "7"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'08.846"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "131.391 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'08.333"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "112.1 Km/h",
+                            "Laps": "29",
+                            "Car_number": "7"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "40'03.653"
+                    }
+                },
+                "Rome E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "104.317 Km/h",
+                            "Laps": "19",
+                            "Car_number": "7"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'39.044"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "101.369 Km/h",
+                            "Laps": "6",
+                            "Car_number": "7"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'41.924"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "103.378 Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'39.943"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "99.0 Km/h",
+                            "Laps": "24",
+                            "Car_number": "7"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "49'13.592"
+                    }
+                },
+                "Rome E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "102.491 Km/h",
+                            "Laps": "17",
+                            "Car_number": "7"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'40.808"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "0",
+                            "Car_number": "7"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": 0
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "98.9 Km/h",
+                            "Laps": "23",
+                            "Car_number": "7"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'08.612"
+                    }
+                },
+                "Valencia E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "221.807 Km/h",
+                            "Laps": "15",
+                            "Car_number": "7"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'27.952"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "222.515 Km/h",
+                            "Laps": "12",
+                            "Car_number": "7"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'27.672"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "223.065 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'27.456"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        },
+                        "position": "dnf",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "28'06.770"
+                    }
+                },
+                "Valencia E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "203.694 Km/h",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'35.773"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "208.753 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'33.452"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "129.1 Km/h",
+                            "Laps": "30",
+                            "Car_number": "7"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'04.081"
+                    }
+                },
+                "Monaco E-Prix": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "121.056 Km/h",
+                            "Laps": "7",
+                            "Car_number": "7"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'38.671"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "127.507 Km/h",
+                            "Laps": "5",
+                            "Car_number": "7"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'33.679"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": 0
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "109.0 Km/h",
+                            "Laps": "26",
+                            "Car_number": "7"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'30.196"
+                    }
+                },
+                "Puebla E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "125.813 Km/h",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'25.269"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "127.962 Km/h",
+                            "Laps": "13",
+                            "Car_number": "7"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'23.837"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "126.649 Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'24.706"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "104.5 Km/h",
+                            "Laps": "28",
+                            "Car_number": "7"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'57.743"
+                    }
+                },
+                "Puebla E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "127.979 Km/h",
+                            "Laps": "20",
+                            "Car_number": "7"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'23.826"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "127.041 Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'24.445"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "120.8 Km/h",
+                            "Laps": "32",
+                            "Car_number": "7"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'22.714"
+                    }
+                },
+                "New York City E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "117.275 Km/h",
+                            "Laps": "19",
+                            "Car_number": "7"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'11.217"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "118.397 Km/h",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'10.542"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "119.064 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'10.147"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "112.0 Km/h",
+                            "Laps": "38",
+                            "Car_number": "7"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'14.596"
+                    }
+                },
+                "New York City E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "121.131 Km/h",
+                            "Laps": "21",
+                            "Car_number": "7"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'08.950"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "120.976 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'09.038"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "110.3 Km/h",
+                            "Laps": "37",
+                            "Car_number": "7"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "46'42.250"
+                    }
+                },
+                "London E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "98.822 Km/h",
+                            "Laps": "22",
+                            "Car_number": "7"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'22.038"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "92.645 Km/h",
+                            "Laps": "12",
+                            "Car_number": "7"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'27.508"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "96.286 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'24.199"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "93.2 Km/h",
+                            "Laps": "33",
+                            "Car_number": "7"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "47'50.484"
+                    }
+                },
+                "London E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "100.566 Km/h",
+                            "Laps": "15",
+                            "Car_number": "7"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'20.615"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "100.534 Km/h",
+                            "Laps": "3",
+                            "Car_number": "7"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'20.641"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "86.6 Km/h",
+                            "Laps": "30",
+                            "Car_number": "7"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "46'48.769"
+                    }
+                },
+                "Berlin E-Prix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "125.808 Km/h",
+                            "Laps": "22",
+                            "Car_number": "7"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'07.388"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "127.045 Km/h",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'06.732"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "126.817 Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'06.852"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "114.5 Km/h",
+                            "Laps": "38",
+                            "Car_number": "7"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "46'53.490"
+                    }
+                },
+                "Berlin E-Prix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "125.330 Km/h",
+                            "Laps": "16",
+                            "Car_number": "7"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'07.645"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "126.036 Km/h",
+                            "Laps": "14",
+                            "Car_number": "7"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'07.266"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Average_speed": "126.254 Km/h",
+                            "Laps": "2",
+                            "Car_number": "7"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1'07.150"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "36",
+                            "Car_number": "7"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "DS_Penske",
+                        "fastest_lap": "1:12'14.113"
+                    }
+                }
+            }
+        },
         "2019": {
             "Formula_2": {
                 "Baku": {
