@@ -4,52 +4,6 @@
     "dateOfBirth": "2003-09-01",
     "country": "British",
     "seasons": {
-        "2024": {
-            "Formula_3": {
-                "Monaco": {
-                    "Feature Race": {
-                        "position": "22",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:27.570",
-                        "other_info": {
-                            "Elapsed_times": "44:31.824",
-                            "Gap": "15.941",
-                            "Average_speed": "121.398",
-                            "Lap_of_fastest_lap": "7",
-                            "Laps": "27",
-                            "Car_number": "19"
-                        }
-                    },
-                    "Sprint Race": {
-                        "position": "20",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:27.384",
-                        "other_info": {
-                            "Elapsed_times": "59:52.855",
-                            "Gap": "43.344",
-                            "Average_speed": "77.010",
-                            "Lap_of_fastest_lap": "9",
-                            "Laps": "23",
-                            "Car_number": "19"
-                        }
-                    },
-                    "Practice": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:33.231",
-                        "other_info": {
-                            "Gap": "5.831",
-                            "Average_speed": "128.854",
-                            "Laps": "16",
-                            "Car_number": "19"
-                        }
-                    }
-                }
-            }
-        },
         "2025": {
             "Formula_3": {
                 "Imola": {
@@ -104,6 +58,52 @@
                         "points": 0,
                         "team": "AIX_Racing",
                         "fastest_lap": "1:33.783"
+                    }
+                }
+            }
+        },
+        "2024": {
+            "Formula_3": {
+                "Monaco": {
+                    "Feature Race": {
+                        "position": "22",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:27.570",
+                        "other_info": {
+                            "Elapsed_times": "44:31.824",
+                            "Gap": "15.941",
+                            "Average_speed": "121.398",
+                            "Lap_of_fastest_lap": "7",
+                            "Laps": "27",
+                            "Car_number": "19"
+                        }
+                    },
+                    "Sprint Race": {
+                        "position": "20",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:27.384",
+                        "other_info": {
+                            "Elapsed_times": "59:52.855",
+                            "Gap": "43.344",
+                            "Average_speed": "77.010",
+                            "Lap_of_fastest_lap": "9",
+                            "Laps": "23",
+                            "Car_number": "19"
+                        }
+                    },
+                    "Practice": {
+                        "position": "17",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:33.231",
+                        "other_info": {
+                            "Gap": "5.831",
+                            "Average_speed": "128.854",
+                            "Laps": "16",
+                            "Car_number": "19"
+                        }
                     }
                 }
             }

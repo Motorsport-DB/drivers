@@ -4,6 +4,91 @@
     "country": "Sweden",
     "dateOfBirth": "1998-06-21",
     "seasons": {
+        "2024": {
+            "Formula_E": {
+                "Berlin ePrix I": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "135.137 Km/h",
+                            "Laps": "25",
+                            "Car_number": "4"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "1'02.736"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "134.181 Km/h",
+                            "Laps": "21",
+                            "Car_number": "4"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "1'03.183"
+                    },
+                    "Qualifying group A": {
+                        "other_info": {
+                            "Average_speed": "134.370 Km/h",
+                            "Laps": "9",
+                            "Car_number": "4"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "1'03.094"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "9",
+                            "Car_number": "4"
+                        },
+                        "position": "dnf",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "10'11.354"
+                    }
+                },
+                "Berlin ePrix II": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "135.269 Km/h",
+                            "Laps": "22",
+                            "Car_number": "4"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "1'02.675"
+                    },
+                    "Qualifying group B": {
+                        "other_info": {
+                            "Average_speed": "135.280 Km/h",
+                            "Laps": "9",
+                            "Car_number": "4"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "1'02.670"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Average_speed": "120.0 Km/h",
+                            "Laps": "41",
+                            "Car_number": "4"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "Envision_Racing",
+                        "fastest_lap": "48'02.162"
+                    }
+                }
+            }
+        },
         "2021": {
             "Formula_E": {
                 "Puebla E-Prix I": {
@@ -339,91 +424,6 @@
                         "points": 0,
                         "team": "DS_Penske",
                         "fastest_lap": "1:12'13.092"
-                    }
-                }
-            }
-        },
-        "2024": {
-            "Formula_E": {
-                "Berlin ePrix I": {
-                    "Free Practice 1": {
-                        "other_info": {
-                            "Average_speed": "135.137 Km/h",
-                            "Laps": "25",
-                            "Car_number": "4"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "1'02.736"
-                    },
-                    "Free Practice 2": {
-                        "other_info": {
-                            "Average_speed": "134.181 Km/h",
-                            "Laps": "21",
-                            "Car_number": "4"
-                        },
-                        "position": "22",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "1'03.183"
-                    },
-                    "Qualifying group A": {
-                        "other_info": {
-                            "Average_speed": "134.370 Km/h",
-                            "Laps": "9",
-                            "Car_number": "4"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "1'03.094"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "Average_speed": " Km/h",
-                            "Laps": "9",
-                            "Car_number": "4"
-                        },
-                        "position": "dnf",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "10'11.354"
-                    }
-                },
-                "Berlin ePrix II": {
-                    "Free Practice 1": {
-                        "other_info": {
-                            "Average_speed": "135.269 Km/h",
-                            "Laps": "22",
-                            "Car_number": "4"
-                        },
-                        "position": "19",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "1'02.675"
-                    },
-                    "Qualifying group B": {
-                        "other_info": {
-                            "Average_speed": "135.280 Km/h",
-                            "Laps": "9",
-                            "Car_number": "4"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "1'02.670"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "Average_speed": "120.0 Km/h",
-                            "Laps": "41",
-                            "Car_number": "4"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "Envision_Racing",
-                        "fastest_lap": "48'02.162"
                     }
                 }
             }
