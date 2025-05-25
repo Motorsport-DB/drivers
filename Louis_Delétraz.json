@@ -2199,6 +2199,72 @@
                     }
                 }
             }
+        },
+        "2016": {
+            "GP2_Series": {
+                "Yas-marina": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "17",
+                            "gap": "",
+                            "interval": "",
+                            "speed": "175.929",
+                            "fastestLap": "",
+                            "lap_of_fastestLap": ""
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "12",
+                            "gap": "",
+                            "interval": "",
+                            "speed": "181.381",
+                            "fastestLap": "",
+                            "lap_of_fastestLap": ""
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "7",
+                            "gap": "",
+                            "interval": "",
+                            "speed": "166.292",
+                            "fastestLap": "1:56.232",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:56.232"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "22",
+                            "gap": "+ 46.716",
+                            "interval": "+ 0.780",
+                            "speed": "172.792",
+                            "fastestLap": "1:53.317",
+                            "lap_of_fastestLap": "14"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Carlin",
+                        "fastest_lap": "1:53.317"
+                    }
+                }
+            }
         }
     }
 }
