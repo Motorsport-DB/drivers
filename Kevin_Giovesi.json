@@ -4,6 +4,72 @@
     "dateOfBirth": "1993-11-08",
     "country": "Italy",
     "seasons": {
+        "2014": {
+            "GP2_Series": {
+                "Yas-marina": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "20",
+                            "gap": "+ 1.893",
+                            "interval": "+ 0.009",
+                            "speed": "177.996",
+                            "fastestLap": "",
+                            "lap_of_fastestLap": ""
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "Rapax",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "14",
+                            "gap": "+ 1.924",
+                            "interval": "+ 0.127",
+                            "speed": "181.747",
+                            "fastestLap": "",
+                            "lap_of_fastestLap": ""
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "Rapax",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "31",
+                            "gap": "+ 1:19.877",
+                            "interval": "+ 0.272",
+                            "speed": "165.768",
+                            "fastestLap": "1:52.934",
+                            "lap_of_fastestLap": "25"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "Rapax",
+                        "fastest_lap": "1:52.934"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "22",
+                            "gap": "+ 46.210",
+                            "interval": "+ 1.718",
+                            "speed": "172.747",
+                            "fastestLap": "1:54.150",
+                            "lap_of_fastestLap": "16"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Rapax",
+                        "fastest_lap": "1:54.150"
+                    }
+                }
+            }
+        },
         "2013": {
             "GP2_Series": {
                 "Sepang": {
@@ -252,72 +318,6 @@
                         "points": 0,
                         "team": "Venezuela_GP_Lazarus",
                         "fastest_lap": "1:25.008"
-                    }
-                }
-            }
-        },
-        "2014": {
-            "GP2_Series": {
-                "Yas-marina": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "14",
-                            "laps": "20",
-                            "gap": "+ 1.893",
-                            "interval": "+ 0.009",
-                            "speed": "177.996",
-                            "fastestLap": "",
-                            "lap_of_fastestLap": ""
-                        },
-                        "position": "24",
-                        "points": 0,
-                        "team": "Rapax",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "14",
-                            "laps": "14",
-                            "gap": "+ 1.924",
-                            "interval": "+ 0.127",
-                            "speed": "181.747",
-                            "fastestLap": "",
-                            "lap_of_fastestLap": ""
-                        },
-                        "position": "25",
-                        "points": 0,
-                        "team": "Rapax",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "14",
-                            "laps": "31",
-                            "gap": "+ 1:19.877",
-                            "interval": "+ 0.272",
-                            "speed": "165.768",
-                            "fastestLap": "1:52.934",
-                            "lap_of_fastestLap": "25"
-                        },
-                        "position": "19",
-                        "points": 0,
-                        "team": "Rapax",
-                        "fastest_lap": "1:52.934"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "14",
-                            "laps": "22",
-                            "gap": "+ 46.210",
-                            "interval": "+ 1.718",
-                            "speed": "172.747",
-                            "fastestLap": "1:54.150",
-                            "lap_of_fastestLap": "16"
-                        },
-                        "position": "20",
-                        "points": 0,
-                        "team": "Rapax",
-                        "fastest_lap": "1:54.150"
                     }
                 }
             }
