@@ -1423,6 +1423,68 @@
                     }
                 }
             }
+        },
+        "2018": {
+            "GP3_Series": {
+                "Paul-ricard": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "20",
+                            "gap": "+ 1.088",
+                            "interval": "+ 0.155",
+                            "speed": "187.478"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "MP_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "14",
+                            "gap": "+ 0.651",
+                            "interval": "+ 0.086",
+                            "speed": "189.017"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "MP_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "20",
+                            "gap": "+ 27.529",
+                            "interval": "+ 0.046",
+                            "speed": "182.774",
+                            "fastestLap": "1:53.572",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "MP_Motorsport",
+                        "fastest_lap": "1:53.572"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "15",
+                            "gap": "+ 22.040",
+                            "interval": "+ 0.701",
+                            "speed": "181.716",
+                            "fastestLap": "1:53.481",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "MP_Motorsport",
+                        "fastest_lap": "1:53.481"
+                    }
+                }
+            }
         }
     }
 }

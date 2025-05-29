@@ -1,0 +1,70 @@
+{
+    "firstName": "Amaury",
+    "lastName": "Bonduel",
+    "country": "Belgian",
+    "dateOfBirth": "1999-03-03",
+    "seasons": {
+        "2015": {
+            "GP3_Series": {
+                "Monza": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "28",
+                            "laps": "18",
+                            "gap": "+ 3.101",
+                            "interval": "+ 0.018",
+                            "speed": "205.843"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "28",
+                            "laps": "14",
+                            "gap": "+ 2.041",
+                            "interval": "+ 0.235",
+                            "speed": "186.123"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "28",
+                            "laps": "22",
+                            "gap": "+ 38.943",
+                            "interval": "+ 7.240",
+                            "speed": "202.015",
+                            "fastestLap": "1:41.558",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:41.558"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "28",
+                            "laps": "16",
+                            "gap": "+ 19.512",
+                            "interval": "+ 1.443",
+                            "speed": "203.967",
+                            "fastestLap": "1:39.950",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:39.950"
+                    }
+                }
+            }
+        }
+    }
+}

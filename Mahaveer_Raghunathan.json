@@ -545,6 +545,68 @@
                     }
                 }
             }
+        },
+        "2016": {
+            "GP3_Series": {
+                "Catalunya": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "15",
+                            "laps": "11",
+                            "gap": "+ 3.251",
+                            "interval": "+ 0.180",
+                            "speed": "167.107"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "Koiranen_GP",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "15",
+                            "laps": "13",
+                            "gap": "+ 2.590",
+                            "interval": "+ 0.940",
+                            "speed": "172.368"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "Koiranen_GP",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "15",
+                            "laps": "22",
+                            "gap": "+ 1:03.391",
+                            "interval": "+ 3.097",
+                            "speed": "162.78",
+                            "fastestLap": "1:41.085",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "Koiranen_GP",
+                        "fastest_lap": "1:41.085"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "15",
+                            "laps": "17",
+                            "gap": "+ 43.431",
+                            "interval": "+ 9.472",
+                            "speed": "162.755",
+                            "fastestLap": "1:40.665",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "Koiranen_GP",
+                        "fastest_lap": "1:40.665"
+                    }
+                }
+            }
         }
     }
 }

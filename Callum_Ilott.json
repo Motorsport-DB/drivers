@@ -1121,6 +1121,523 @@
                     }
                 }
             }
+        },
+        "2018": {
+            "GP3_Series": {
+                "Catalunya": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "13",
+                            "gap": "+ 0.989",
+                            "interval": "+ 0.017",
+                            "speed": "178.472"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "13",
+                            "gap": "+ 0.292",
+                            "interval": "+ 0.145",
+                            "speed": "181.069"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "22",
+                            "gap": "+ 7.143",
+                            "interval": "+ 3.494",
+                            "speed": "175.291",
+                            "fastestLap": "1:34.401",
+                            "lap_of_fastestLap": "17"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:34.401"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "16",
+                            "gap": "+ 4.904",
+                            "interval": "+ 0.945",
+                            "speed": "134.697",
+                            "fastestLap": "1:46.691",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:46.691"
+                    }
+                },
+                "Paul-ricard": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "18",
+                            "gap": "+ 0.496",
+                            "interval": "+ 0.010",
+                            "speed": "188.473"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "13",
+                            "gap": "+ 0.289",
+                            "interval": "+ 0.004",
+                            "speed": "189.634"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "20",
+                            "gap": "+ 26.213",
+                            "interval": "+ 0.234",
+                            "speed": "182.878",
+                            "fastestLap": "1:53.180",
+                            "lap_of_fastestLap": "15"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:53.180"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "15",
+                            "speed": "184.051",
+                            "fastestLap": "1:53.087",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:53.087"
+                    }
+                },
+                "Red-bull-ring": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "26",
+                            "gap": "+ 0.644",
+                            "interval": "+ 0.004",
+                            "speed": "193.456"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "15",
+                            "speed": "196.25"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "24",
+                            "speed": "181.606",
+                            "fastestLap": "1:21.105",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:21.105"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "18",
+                            "gap": "+ 3.440",
+                            "interval": "+ 0.526",
+                            "speed": "183.001",
+                            "fastestLap": "1:20.549",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:20.549"
+                    }
+                },
+                "Silverstone": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "20",
+                            "gap": "+ 0.993",
+                            "interval": "+ 0.035",
+                            "speed": "197.307"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "13",
+                            "gap": "+ 0.315",
+                            "interval": "+ 0.077",
+                            "speed": "199.417"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "20",
+                            "gap": "+ 6.408",
+                            "interval": "+ 2.505",
+                            "speed": "177.532",
+                            "fastestLap": "1:47.096",
+                            "lap_of_fastestLap": "19"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:47.096"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "15",
+                            "gap": "+ 3.900",
+                            "interval": "+ 0.397",
+                            "speed": "183.552",
+                            "fastestLap": "1:47.821",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:47.821"
+                    }
+                },
+                "Hungaroring": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "21",
+                            "gap": "+ 0.078",
+                            "interval": "+ 0.027",
+                            "speed": "171.22"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "12",
+                            "gap": "+ 0.288",
+                            "interval": "+ 0.045",
+                            "speed": "171.996"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "22",
+                            "gap": "+ 26.584",
+                            "interval": "+ 4.012",
+                            "speed": "160.169",
+                            "fastestLap": "1:35.979",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:35.979"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "17",
+                            "gap": "+ 2.308",
+                            "interval": "+ 2.308",
+                            "speed": "162.47",
+                            "fastestLap": "1:36.116",
+                            "lap_of_fastestLap": "14"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:36.116"
+                    }
+                },
+                "Spa-francorchamps": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "10",
+                            "gap": "+ 1.383",
+                            "interval": "+ 0.228",
+                            "speed": "197.769"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "11",
+                            "gap": "+ 0.214",
+                            "interval": "+ 0.011",
+                            "speed": "202.445"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "17",
+                            "gap": "+ 13.392",
+                            "interval": "+ 2.377",
+                            "speed": "192.032",
+                            "fastestLap": "2:08.373",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "2:08.373"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "13",
+                            "gap": "+ 4.658",
+                            "interval": "+ 2.818",
+                            "speed": "195.996",
+                            "fastestLap": "2:06.924",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "2:06.924"
+                    }
+                },
+                "Monza": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "5",
+                            "gap": "+ 1.271",
+                            "interval": "+ 0.150",
+                            "speed": "205.839"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "15",
+                            "gap": "+ 0.296",
+                            "interval": "+ 0.052",
+                            "speed": "212.251"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "22",
+                            "gap": "+ 13.789",
+                            "interval": "+ 7.771",
+                            "speed": "180.957",
+                            "fastestLap": "1:48.779",
+                            "lap_of_fastestLap": "19"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:48.779"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "17",
+                            "speed": "178.232",
+                            "fastestLap": "1:39.899",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "DSQ",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:39.899"
+                    }
+                },
+                "Sochi": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "18",
+                            "gap": "+ 1.753",
+                            "interval": "+ 0.306",
+                            "speed": "183.228"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "14",
+                            "gap": "+ 0.069",
+                            "interval": "+ 0.069",
+                            "speed": "186.878"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "20",
+                            "gap": "+ 35.793",
+                            "interval": "+ 2.637",
+                            "speed": "177.152",
+                            "fastestLap": "1:56.506",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:56.506"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "14",
+                            "gap": "+ 34.925",
+                            "speed": "161.707",
+                            "fastestLap": "1:55.862",
+                            "lap_of_fastestLap": "14"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:55.862"
+                    }
+                },
+                "Yas-marina": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "16",
+                            "gap": "+ 2.171",
+                            "interval": "+ 0.021",
+                            "speed": "169.664"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "12",
+                            "gap": "+ 0.213",
+                            "interval": "+ 0.030",
+                            "speed": "173.716"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "18",
+                            "gap": "+ 11.156",
+                            "interval": "+ 0.796",
+                            "speed": "165.262",
+                            "fastestLap": "1:59.381",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "1:59.381"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "laps": "14",
+                            "gap": "+ 3.711",
+                            "interval": "+ 0.528",
+                            "speed": "153.587",
+                            "fastestLap": "2:00.118",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "ART_Grand_Prix",
+                        "fastest_lap": "2:00.118"
+                    }
+                }
+            }
         }
     }
 }
