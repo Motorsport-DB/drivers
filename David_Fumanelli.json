@@ -4,6 +4,394 @@
     "country": "Italy",
     "dateOfBirth": "1992-04-21",
     "seasons": {
+        "2013": {
+            "GP3_Series": {
+                "Catalunya": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 0.093",
+                            "interval": "+ 0.093",
+                            "speed": "176.145"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "11",
+                            "gap": "+ 1.183",
+                            "interval": "+ 0.042",
+                            "speed": "175.704"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 23.572",
+                            "interval": "+ 0.566",
+                            "speed": "166.374",
+                            "fastestLap": "1:38.727",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:38.727"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 35.234",
+                            "interval": "+ 5.123",
+                            "speed": "156.311",
+                            "fastestLap": "1:38.883",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:38.883"
+                    }
+                },
+                "Valencia": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "18",
+                            "speed": "173.629"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "15",
+                            "speed": "173.844"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    }
+                },
+                "Silverstone": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "8",
+                            "speed": "191.395"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "12",
+                            "speed": "196.867"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "4",
+                            "speed": "183.916",
+                            "fastestLap": "1:51.817",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:51.817"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "15",
+                            "gap": "+ 1:01.433",
+                            "interval": "+ 0.268",
+                            "speed": "185.329",
+                            "fastestLap": "1:49.664",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:49.664"
+                    }
+                },
+                "Nurburgring": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "19",
+                            "gap": "+ 1.279",
+                            "interval": "+ 0.339",
+                            "speed": "174.038"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "11",
+                            "gap": "+ 1.299",
+                            "interval": "+ 0.028",
+                            "speed": "175.717"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "15",
+                            "gap": "+ 33.630",
+                            "interval": "+ 0.368",
+                            "speed": "159.158",
+                            "fastestLap": "1:48.765",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:48.765"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "15",
+                            "gap": "+ 34.698",
+                            "interval": "+ 0.151",
+                            "speed": "165.049",
+                            "fastestLap": "1:49.297",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:49.297"
+                    }
+                },
+                "Hungaroring": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 1.323",
+                            "interval": "+ 0.426",
+                            "speed": "166.417"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "13",
+                            "gap": "+ 1.082",
+                            "interval": "+ 0.093",
+                            "speed": "167.974"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 19.245",
+                            "interval": "+ 0.452",
+                            "speed": "150.846",
+                            "fastestLap": "1:37.478",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:37.478"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 17.898",
+                            "interval": "+ 0.212",
+                            "speed": "152.513",
+                            "fastestLap": "1:37.719",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:37.719"
+                    }
+                },
+                "Spa-francorchamps": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "15",
+                            "gap": "+ 0.817",
+                            "interval": "+ 0.098",
+                            "speed": "199.863"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "11",
+                            "gap": "+ 1.130",
+                            "interval": "+ 0.189",
+                            "speed": "201.304"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "13",
+                            "gap": "+ 11.039",
+                            "interval": "+ 0.814",
+                            "speed": "166.037",
+                            "fastestLap": "2:07.673",
+                            "lap_of_fastestLap": "8"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "2:07.673"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "13",
+                            "gap": "+ 32.874",
+                            "interval": "+ 3.594",
+                            "speed": "192.79",
+                            "fastestLap": "2:08.396",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "2:08.396"
+                    }
+                },
+                "Monza": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 0.712",
+                            "interval": "+ 0.226",
+                            "speed": "211.88"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "12",
+                            "gap": "+ 1.633",
+                            "interval": "+ 0.044",
+                            "speed": "211.582"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 34.447",
+                            "interval": "+ 0.534",
+                            "speed": "204.885",
+                            "fastestLap": "1:39.440",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:39.440"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "17",
+                            "gap": "+ 1:19.459",
+                            "interval": "+ 29.462",
+                            "speed": "191.699",
+                            "fastestLap": "1:38.874",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:38.874"
+                    }
+                }
+            }
+        },
         "2012": {
             "GP3_Series": {
                 "Catalunya": {
@@ -435,394 +823,6 @@
                         "points": 0,
                         "team": "Arden_International",
                         "fastest_lap": "1:45.335"
-                    }
-                }
-            }
-        },
-        "2013": {
-            "GP3_Series": {
-                "Catalunya": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 0.093",
-                            "interval": "+ 0.093",
-                            "speed": "176.145"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "11",
-                            "gap": "+ 1.183",
-                            "interval": "+ 0.042",
-                            "speed": "175.704"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 23.572",
-                            "interval": "+ 0.566",
-                            "speed": "166.374",
-                            "fastestLap": "1:38.727",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:38.727"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 35.234",
-                            "interval": "+ 5.123",
-                            "speed": "156.311",
-                            "fastestLap": "1:38.883",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "17",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:38.883"
-                    }
-                },
-                "Valencia": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "18",
-                            "speed": "173.629"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "15",
-                            "speed": "173.844"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    }
-                },
-                "Silverstone": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "8",
-                            "speed": "191.395"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "12",
-                            "speed": "196.867"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "4",
-                            "speed": "183.916",
-                            "fastestLap": "1:51.817",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:51.817"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "15",
-                            "gap": "+ 1:01.433",
-                            "interval": "+ 0.268",
-                            "speed": "185.329",
-                            "fastestLap": "1:49.664",
-                            "lap_of_fastestLap": "13"
-                        },
-                        "position": "20",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:49.664"
-                    }
-                },
-                "Nurburgring": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "19",
-                            "gap": "+ 1.279",
-                            "interval": "+ 0.339",
-                            "speed": "174.038"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "11",
-                            "gap": "+ 1.299",
-                            "interval": "+ 0.028",
-                            "speed": "175.717"
-                        },
-                        "position": "21",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "15",
-                            "gap": "+ 33.630",
-                            "interval": "+ 0.368",
-                            "speed": "159.158",
-                            "fastestLap": "1:48.765",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "17",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:48.765"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "15",
-                            "gap": "+ 34.698",
-                            "interval": "+ 0.151",
-                            "speed": "165.049",
-                            "fastestLap": "1:49.297",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "20",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:49.297"
-                    }
-                },
-                "Hungaroring": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 1.323",
-                            "interval": "+ 0.426",
-                            "speed": "166.417"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "13",
-                            "gap": "+ 1.082",
-                            "interval": "+ 0.093",
-                            "speed": "167.974"
-                        },
-                        "position": "19",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 19.245",
-                            "interval": "+ 0.452",
-                            "speed": "150.846",
-                            "fastestLap": "1:37.478",
-                            "lap_of_fastestLap": "11"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:37.478"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 17.898",
-                            "interval": "+ 0.212",
-                            "speed": "152.513",
-                            "fastestLap": "1:37.719",
-                            "lap_of_fastestLap": "10"
-                        },
-                        "position": "18",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:37.719"
-                    }
-                },
-                "Spa-francorchamps": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "15",
-                            "gap": "+ 0.817",
-                            "interval": "+ 0.098",
-                            "speed": "199.863"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "11",
-                            "gap": "+ 1.130",
-                            "interval": "+ 0.189",
-                            "speed": "201.304"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "13",
-                            "gap": "+ 11.039",
-                            "interval": "+ 0.814",
-                            "speed": "166.037",
-                            "fastestLap": "2:07.673",
-                            "lap_of_fastestLap": "8"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "2:07.673"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "13",
-                            "gap": "+ 32.874",
-                            "interval": "+ 3.594",
-                            "speed": "192.79",
-                            "fastestLap": "2:08.396",
-                            "lap_of_fastestLap": "11"
-                        },
-                        "position": "14",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "2:08.396"
-                    }
-                },
-                "Monza": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 0.712",
-                            "interval": "+ 0.226",
-                            "speed": "211.88"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "12",
-                            "gap": "+ 1.633",
-                            "interval": "+ 0.044",
-                            "speed": "211.582"
-                        },
-                        "position": "20",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 34.447",
-                            "interval": "+ 0.534",
-                            "speed": "204.885",
-                            "fastestLap": "1:39.440",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:39.440"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "17",
-                            "gap": "+ 1:19.459",
-                            "interval": "+ 29.462",
-                            "speed": "191.699",
-                            "fastestLap": "1:38.874",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "18",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:38.874"
                     }
                 }
             }

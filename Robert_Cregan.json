@@ -4,6 +4,68 @@
     "country": "Ireland",
     "dateOfBirth": "1988-11-04",
     "seasons": {
+        "2013": {
+            "GP3_Series": {
+                "Yas-marina": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "20",
+                            "gap": "+ 2.210",
+                            "interval": "+ 0.083",
+                            "speed": "167.541"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "12",
+                            "gap": "+ 2.567",
+                            "interval": "+ 0.073",
+                            "speed": "169.386"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "14",
+                            "gap": "+ 38.133",
+                            "interval": "+ 1.176",
+                            "speed": "153.721",
+                            "fastestLap": "2:00.322",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "2:00.322"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "14",
+                            "gap": "+ 22.332",
+                            "interval": "+ 0.567",
+                            "speed": "164.219",
+                            "fastestLap": "1:59.694",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "Trident",
+                        "fastest_lap": "1:59.694"
+                    }
+                }
+            }
+        },
         "2012": {
             "GP3_Series": {
                 "Catalunya": {
@@ -441,68 +503,6 @@
                         "points": 0,
                         "team": "Ocean_Racing_Technology",
                         "fastest_lap": "1:46.059"
-                    }
-                }
-            }
-        },
-        "2013": {
-            "GP3_Series": {
-                "Yas-marina": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "20",
-                            "gap": "+ 2.210",
-                            "interval": "+ 0.083",
-                            "speed": "167.541"
-                        },
-                        "position": "19",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "12",
-                            "gap": "+ 2.567",
-                            "interval": "+ 0.073",
-                            "speed": "169.386"
-                        },
-                        "position": "20",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "14",
-                            "gap": "+ 38.133",
-                            "interval": "+ 1.176",
-                            "speed": "153.721",
-                            "fastestLap": "2:00.322",
-                            "lap_of_fastestLap": "11"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "2:00.322"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "24",
-                            "laps": "14",
-                            "gap": "+ 22.332",
-                            "interval": "+ 0.567",
-                            "speed": "164.219",
-                            "fastestLap": "1:59.694",
-                            "lap_of_fastestLap": "5"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "Trident",
-                        "fastest_lap": "1:59.694"
                     }
                 }
             }

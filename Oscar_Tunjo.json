@@ -4,6 +4,178 @@
     "country": "Colombia",
     "dateOfBirth": "1996-01-05",
     "seasons": {
+        "2016": {
+            "GP3_Series": {
+                "Catalunya": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "9",
+                            "gap": "+ 0.771",
+                            "interval": "+ 0.071",
+                            "speed": "171.344"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "12",
+                            "gap": "+ 0.528",
+                            "interval": "+ 0.043",
+                            "speed": "176.103"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "22",
+                            "gap": "+ 25.592",
+                            "interval": "+ 1.506",
+                            "speed": "165.546",
+                            "fastestLap": "1:40.090",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:40.090"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "17",
+                            "gap": "+ 1.294",
+                            "interval": "+ 1.294",
+                            "speed": "166.776",
+                            "fastestLap": "1:38.722",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:38.722"
+                    }
+                },
+                "Red-bull-ring": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "23",
+                            "gap": "+ 0.277",
+                            "interval": "+ 0.123",
+                            "speed": "193.925"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "16",
+                            "gap": "+ 0.837",
+                            "interval": "+ 0.010",
+                            "speed": "194.967"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "24",
+                            "gap": "+ 46.119",
+                            "interval": "+ 0.498",
+                            "speed": "173.805",
+                            "fastestLap": "1:21.622",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:21.622"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "17",
+                            "gap": "+ 7.349",
+                            "interval": "+ 0.269",
+                            "speed": "129.241",
+                            "fastestLap": "1:38.078",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:38.078"
+                    }
+                },
+                "Spa-francorchamps": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "13",
+                            "gap": "+ 0.648",
+                            "interval": "+ 0.117",
+                            "speed": "198.839"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "11",
+                            "gap": "+ 1.386",
+                            "interval": "+ 0.081",
+                            "speed": "199.667"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "17",
+                            "gap": "+ 1:09.185",
+                            "interval": "+ 18.064",
+                            "speed": "172.947",
+                            "fastestLap": "2:10.722",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "2:10.722"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "19"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
         "2015": {
             "GP3_Series": {
                 "Catalunya": {
@@ -176,178 +348,6 @@
                         "points": 0,
                         "team": "Trident",
                         "fastest_lap": "1:49.947"
-                    }
-                }
-            }
-        },
-        "2016": {
-            "GP3_Series": {
-                "Catalunya": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "9",
-                            "gap": "+ 0.771",
-                            "interval": "+ 0.071",
-                            "speed": "171.344"
-                        },
-                        "position": "14",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "12",
-                            "gap": "+ 0.528",
-                            "interval": "+ 0.043",
-                            "speed": "176.103"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "22",
-                            "gap": "+ 25.592",
-                            "interval": "+ 1.506",
-                            "speed": "165.546",
-                            "fastestLap": "1:40.090",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:40.090"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "17",
-                            "gap": "+ 1.294",
-                            "interval": "+ 1.294",
-                            "speed": "166.776",
-                            "fastestLap": "1:38.722",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:38.722"
-                    }
-                },
-                "Red-bull-ring": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "23",
-                            "gap": "+ 0.277",
-                            "interval": "+ 0.123",
-                            "speed": "193.925"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "16",
-                            "gap": "+ 0.837",
-                            "interval": "+ 0.010",
-                            "speed": "194.967"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "24",
-                            "gap": "+ 46.119",
-                            "interval": "+ 0.498",
-                            "speed": "173.805",
-                            "fastestLap": "1:21.622",
-                            "lap_of_fastestLap": "10"
-                        },
-                        "position": "14",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:21.622"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "20",
-                            "laps": "17",
-                            "gap": "+ 7.349",
-                            "interval": "+ 0.269",
-                            "speed": "129.241",
-                            "fastestLap": "1:38.078",
-                            "lap_of_fastestLap": "10"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:38.078"
-                    }
-                },
-                "Spa-francorchamps": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "13",
-                            "gap": "+ 0.648",
-                            "interval": "+ 0.117",
-                            "speed": "198.839"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "11",
-                            "gap": "+ 1.386",
-                            "interval": "+ 0.081",
-                            "speed": "199.667"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "17",
-                            "gap": "+ 1:09.185",
-                            "interval": "+ 18.064",
-                            "speed": "172.947",
-                            "fastestLap": "2:10.722",
-                            "lap_of_fastestLap": "6"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "2:10.722"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "19"
-                        },
-                        "position": "DNS",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
                     }
                 }
             }

@@ -4,68 +4,6 @@
     "country": "Austria",
     "dateOfBirth": "1977-05-19",
     "seasons": {
-        "2014": {
-            "GP3_Series": {
-                "Hungaroring": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "22",
-                            "laps": "18",
-                            "gap": "+ 2.539",
-                            "interval": "+ 0.097",
-                            "speed": "163.537"
-                        },
-                        "position": "25",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "22",
-                            "laps": "12",
-                            "gap": "+ 2.223",
-                            "interval": "+ 0.955",
-                            "speed": "164.671"
-                        },
-                        "position": "24",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Feature Race": {
-                        "other_info": {
-                            "carNumber": "22",
-                            "laps": "17",
-                            "gap": "+ 31.922",
-                            "interval": "+ 0.267",
-                            "speed": "158.716",
-                            "fastestLap": "1:37.288",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "23",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:37.288"
-                    },
-                    "Sprint Race": {
-                        "other_info": {
-                            "carNumber": "22",
-                            "laps": "17",
-                            "gap": "+ 35.953",
-                            "interval": "+ 0.531",
-                            "speed": "158.766",
-                            "fastestLap": "1:37.610",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "23",
-                        "points": 0,
-                        "team": "Jenzer_Motorsport",
-                        "fastest_lap": "1:37.610"
-                    }
-                }
-            }
-        },
         "2015": {
             "GP3_Series": {
                 "Silverstone": {
@@ -124,6 +62,68 @@
                         "points": 0,
                         "team": "Campos_Racing",
                         "fastest_lap": "1:51.465"
+                    }
+                }
+            }
+        },
+        "2014": {
+            "GP3_Series": {
+                "Hungaroring": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "laps": "18",
+                            "gap": "+ 2.539",
+                            "interval": "+ 0.097",
+                            "speed": "163.537"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "laps": "12",
+                            "gap": "+ 2.223",
+                            "interval": "+ 0.955",
+                            "speed": "164.671"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Feature Race": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "laps": "17",
+                            "gap": "+ 31.922",
+                            "interval": "+ 0.267",
+                            "speed": "158.716",
+                            "fastestLap": "1:37.288",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:37.288"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "laps": "17",
+                            "gap": "+ 35.953",
+                            "interval": "+ 0.531",
+                            "speed": "158.766",
+                            "fastestLap": "1:37.610",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "Jenzer_Motorsport",
+                        "fastest_lap": "1:37.610"
                     }
                 }
             }
