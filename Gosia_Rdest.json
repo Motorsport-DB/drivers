@@ -4,6 +4,139 @@
     "country": "Poland",
     "dateOfBirth": "1993-01-14",
     "seasons": {
+        "2021": {
+            "W-SERIES": {
+                "Spielberg": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "19",
+                            "gap": "+ 1.047",
+                            "interval": "+ 0.028",
+                            "speed": "172.098"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "18",
+                            "gap": "+ 1.373",
+                            "interval": "+ 0.305",
+                            "speed": "172.075"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "20",
+                            "gap": "+ 13.727",
+                            "interval": "+ 1.568",
+                            "speed": "159.895",
+                            "fastestLap": "1:30.757",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": "1:30.757"
+                    }
+                },
+                "Spielberg-2": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "19",
+                            "gap": "+ 1.406",
+                            "interval": "+ 0.042",
+                            "speed": "172.463"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "17",
+                            "gap": "+ 1.287",
+                            "interval": "+ 0.064",
+                            "speed": "173.181"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "21",
+                            "gap": "+ 43.716",
+                            "interval": "+ 0.795",
+                            "speed": "168.309",
+                            "fastestLap": "1:30.428",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": "1:30.428"
+                    }
+                },
+                "Spa-francorchamps": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "12",
+                            "gap": "+ 3.333",
+                            "interval": "+ 0.022",
+                            "speed": "162.36"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "12",
+                            "gap": "+ 2.742",
+                            "interval": "+ 0.176",
+                            "speed": "179.059"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "12",
+                            "gap": "+ 1:13.855",
+                            "interval": "+ 15.356",
+                            "speed": "137.622",
+                            "fastestLap": "2:50.181",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "Puma_W_Series_Team",
+                        "fastest_lap": "2:50.181"
+                    }
+                }
+            }
+        },
         "2019": {
             "W-SERIES": {
                 "Hockenheim": {
@@ -336,139 +469,6 @@
                         "points": 0,
                         "team": "",
                         "fastest_lap": "1:24.804"
-                    }
-                }
-            }
-        },
-        "2021": {
-            "W-SERIES": {
-                "Spielberg": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "19",
-                            "gap": "+ 1.047",
-                            "interval": "+ 0.028",
-                            "speed": "172.098"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "18",
-                            "gap": "+ 1.373",
-                            "interval": "+ 0.305",
-                            "speed": "172.075"
-                        },
-                        "position": "18",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "20",
-                            "gap": "+ 13.727",
-                            "interval": "+ 1.568",
-                            "speed": "159.895",
-                            "fastestLap": "1:30.757",
-                            "lap_of_fastestLap": "11"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": "1:30.757"
-                    }
-                },
-                "Spielberg-2": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "19",
-                            "gap": "+ 1.406",
-                            "interval": "+ 0.042",
-                            "speed": "172.463"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "17",
-                            "gap": "+ 1.287",
-                            "interval": "+ 0.064",
-                            "speed": "173.181"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "21",
-                            "gap": "+ 43.716",
-                            "interval": "+ 0.795",
-                            "speed": "168.309",
-                            "fastestLap": "1:30.428",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "17",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": "1:30.428"
-                    }
-                },
-                "Spa-francorchamps": {
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "12",
-                            "gap": "+ 3.333",
-                            "interval": "+ 0.022",
-                            "speed": "162.36"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "12",
-                            "gap": "+ 2.742",
-                            "interval": "+ 0.176",
-                            "speed": "179.059"
-                        },
-                        "position": "12",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "laps": "12",
-                            "gap": "+ 1:13.855",
-                            "interval": "+ 15.356",
-                            "speed": "137.622",
-                            "fastestLap": "2:50.181",
-                            "lap_of_fastestLap": "11"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "Puma_W_Series_Team",
-                        "fastest_lap": "2:50.181"
                     }
                 }
             }
