@@ -1,0 +1,54 @@
+{
+    "firstName": "Kuba",
+    "lastName": "Giermaziak",
+    "country": "Poland",
+    "dateOfBirth": "1990-07-09",
+    "seasons": {
+        "2011": {
+            "Formula3_European_Championship_FIAF3EURO": {
+                "Hockenheim": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "15",
+                            "gap": "+ 1.053",
+                            "interval": "+ 0.018",
+                            "speed": "174.793"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "motopark_academy",
+                        "fastest_lap": ""
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "24",
+                            "gap": "+ 30.799",
+                            "speed": "163.455",
+                            "fastestLap": "1:35.932",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "motopark_academy",
+                        "fastest_lap": "1:35.932"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "6",
+                            "speed": "163.729",
+                            "fastestLap": "1:34.868",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "star_racing_team",
+                        "fastest_lap": "1:34.868"
+                    }
+                }
+            }
+        }
+    }
+}

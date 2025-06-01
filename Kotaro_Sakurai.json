@@ -181,6 +181,78 @@
                     }
                 }
             }
+        },
+        "2011": {
+            "Formula3_European_Championship_FIAF3EURO": {
+                "Spa-francorchamps": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "gap": "+ 5.059",
+                            "interval": "+ 0.743",
+                            "speed": "180.932"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "hitech_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "gap": "+ 23.400",
+                            "interval": "+ 5.655",
+                            "speed": "137.116"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "hitech_racing",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "gap": "+ 12.571",
+                            "interval": "+ 0.431",
+                            "speed": "168.085"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hitech_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "laps": "13",
+                            "gap": "+ 1:16.779",
+                            "interval": "+ 17.600",
+                            "speed": "178.596",
+                            "fastestLap": "2:19.580",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hitech_racing",
+                        "fastest_lap": "2:19.580"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "laps": "17",
+                            "gap": "+ 1:42.373",
+                            "interval": "+ 16.023",
+                            "speed": "179.423",
+                            "fastestLap": "2:18.488",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "hitech_racing",
+                        "fastest_lap": "2:18.488"
+                    }
+                }
+            }
         }
     }
 }
