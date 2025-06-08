@@ -1,0 +1,607 @@
+{
+    "firstName": "Ivan",
+    "lastName": "Bellarosa",
+    "seasons": {
+        "2005": {
+            "Formula_v8_3,5": {
+                "Zolder": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "7",
+                            "speed": "132.165",
+                            "fastestLap": "1:36.693"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:36.693"
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "11",
+                            "speed": "172.831",
+                            "fastestLap": "1:36.693"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:36.693"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "6",
+                            "speed": "164.168",
+                            "fastestLap": "1:24.266",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:24.266"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "fastestLap": "1:24.266"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:24.266"
+                    }
+                },
+                "Monaco": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 5.831",
+                            "interval": "+ 0.077",
+                            "speed": "127.153",
+                            "fastestLap": "1:24.266"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:24.266"
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 3.766",
+                            "interval": "+ 0.160",
+                            "speed": "134.465",
+                            "fastestLap": "1:24.266"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:24.266"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "25",
+                            "gap": "+ 27.502",
+                            "interval": "+ 2.456",
+                            "speed": "128.476",
+                            "fastestLap": "1:24.266"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:24.266"
+                    }
+                },
+                "Valencia": {
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "10",
+                            "gap": "+ 2.216",
+                            "interval": "+ 0.806",
+                            "speed": "173.185",
+                            "fastestLap": "1:24.266"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:24.266"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "19",
+                            "gap": "+ 57.958",
+                            "interval": "+ 8.051",
+                            "speed": "164.585",
+                            "fastestLap": "1:25.174",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:25.174"
+                    },
+                    "2nd Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "10",
+                            "speed": "173.368",
+                            "fastestLap": "1:25.174"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:25.174"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "4",
+                            "speed": "157.274",
+                            "fastestLap": "1:26.990",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.990"
+                    }
+                },
+                "Le-mans": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "18",
+                            "gap": "+ 3.714",
+                            "interval": "+ 0.056",
+                            "speed": "172.796",
+                            "fastestLap": "1:26.990"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.990"
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "21",
+                            "gap": "+ 3.164",
+                            "interval": "+ 0.164",
+                            "speed": "174.53",
+                            "fastestLap": "1:26.990"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.990"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "19",
+                            "gap": "+ 1:00.340",
+                            "interval": "+ 20.149",
+                            "speed": "159.228",
+                            "fastestLap": "1:27.474",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:27.474"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "26",
+                            "gap": "+ 1.138",
+                            "interval": "1 Lap",
+                            "speed": "159.038",
+                            "fastestLap": "1:26.889",
+                            "lap_of_fastestLap": "19"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.889"
+                    }
+                },
+                "Bilbao": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 10.759",
+                            "interval": "+ 0.911",
+                            "speed": "113.571",
+                            "fastestLap": "1:26.889"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.889"
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 8.637",
+                            "interval": "+ 0.419",
+                            "speed": "119.154",
+                            "fastestLap": "1:26.889"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.889"
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "9",
+                            "gap": "+ 7.642",
+                            "interval": "+ 2.855",
+                            "speed": "122.503",
+                            "fastestLap": "1:26.889"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:26.889"
+                    },
+                    "2nd Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "11",
+                            "gap": "+ 4.679",
+                            "interval": "+ 1.301",
+                            "speed": "126.776",
+                            "fastestLap": "1:54.586"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:54.586"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "15",
+                            "gap": "+ 49.454",
+                            "interval": "+ 3.934",
+                            "speed": "111.676",
+                            "fastestLap": "1:54.586",
+                            "lap_of_fastestLap": "14"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:54.586"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "22",
+                            "gap": "+ 1:40.995",
+                            "interval": "+ 18.991",
+                            "speed": "121.703",
+                            "fastestLap": "1:52.606",
+                            "lap_of_fastestLap": "15"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:52.606"
+                    }
+                },
+                "Oschersleben": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "21",
+                            "speed": "174.699",
+                            "fastestLap": "1:52.606"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:52.606"
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "20",
+                            "speed": "174.291",
+                            "fastestLap": "1:52.606"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:52.606"
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "11",
+                            "speed": "174.519",
+                            "fastestLap": "1:52.606"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:52.606"
+                    },
+                    "2nd Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "9",
+                            "speed": "177.414",
+                            "fastestLap": "1:41.456"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:41.456"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "3",
+                            "speed": "121.486",
+                            "fastestLap": "1:41.456",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:41.456"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "5",
+                            "speed": "161.931",
+                            "fastestLap": "1:18.404",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:18.404"
+                    }
+                },
+                "Donington": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "25",
+                            "gap": "+ 1.995",
+                            "interval": "+ 0.150",
+                            "speed": "178.342",
+                            "fastestLap": "1:18.404"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:18.404"
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "26",
+                            "gap": "+ 3.681",
+                            "interval": "+ 0.041",
+                            "speed": "176.239",
+                            "fastestLap": "1:18.404"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:18.404"
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "8",
+                            "gap": "+ 8.479",
+                            "interval": "+ 1.907",
+                            "speed": "132.256",
+                            "fastestLap": "1:18.404"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:18.404"
+                    },
+                    "2nd Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "8",
+                            "speed": "141.825",
+                            "fastestLap": "1:21.067"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:21.067"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "17",
+                            "gap": "2 Laps",
+                            "interval": "1 Lap",
+                            "speed": "161.057",
+                            "fastestLap": "1:21.067",
+                            "lap_of_fastestLap": "14"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:21.067"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "21",
+                            "speed": "148.336",
+                            "fastestLap": "1:21.325",
+                            "lap_of_fastestLap": "20"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:21.325"
+                    }
+                },
+                "Estoril": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "19",
+                            "gap": "+ 5.495",
+                            "interval": "+ 0.833",
+                            "speed": "164.089",
+                            "fastestLap": "1:21.325"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:21.325"
+                    },
+                    "2nd Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "15",
+                            "gap": "+ 2.922",
+                            "interval": "+ 0.038",
+                            "speed": "167.579",
+                            "fastestLap": "1:21.325"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:21.325"
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "10",
+                            "gap": "+ 3.180",
+                            "interval": "+ 0.320",
+                            "speed": "169.53",
+                            "fastestLap": "1:21.325"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:21.325"
+                    },
+                    "1st Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "10",
+                            "gap": "+ 3.253",
+                            "interval": "+ 0.206",
+                            "speed": "169.178",
+                            "fastestLap": "1:30.188"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:30.188"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "19",
+                            "gap": "+ 1:10.359",
+                            "interval": "+ 8.146",
+                            "speed": "163.123",
+                            "fastestLap": "1:30.188",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:30.188"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "27",
+                            "gap": "+ 1:07.170",
+                            "interval": "+ 6.107",
+                            "speed": "150.05",
+                            "fastestLap": "1:29.933",
+                            "lap_of_fastestLap": "24"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:29.933"
+                    }
+                },
+                "Monza": {
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "13",
+                            "gap": "+ 1.822",
+                            "interval": "+ 0.034",
+                            "speed": "212.404",
+                            "fastestLap": "1:29.933"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:29.933"
+                    },
+                    "2nd Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "9",
+                            "speed": "211.859",
+                            "fastestLap": "1:41.889"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:41.889"
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "16",
+                            "gap": "+ 57.283",
+                            "interval": "+ 3.667",
+                            "speed": "192.992",
+                            "fastestLap": "1:41.889",
+                            "lap_of_fastestLap": "16"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:41.889"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "11",
+                            "speed": "163.553",
+                            "fastestLap": "1:39.963",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "avelon_formula",
+                        "fastest_lap": "1:39.963"
+                    }
+                }
+            }
+        }
+    }
+}

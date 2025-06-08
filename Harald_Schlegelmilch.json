@@ -883,6 +883,82 @@
                     }
                 }
             }
+        },
+        "2009": {
+            "Formula_v8_3,5": {
+                "Catalunya": {
+                    "Test Session 1": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "22",
+                            "gap": "+ 2.271",
+                            "interval": "+ 0.212",
+                            "speed": "174.903",
+                            "fastestLap": "9:23.210"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "comtec_racing",
+                        "fastest_lap": "9:23.210"
+                    },
+                    "Test Session 2": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "17",
+                            "gap": "+ 2.181",
+                            "interval": "+ 0.091",
+                            "speed": "175.076",
+                            "fastestLap": "9:23.210"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "comtec_racing",
+                        "fastest_lap": "9:23.210"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "12",
+                            "gap": "+ 0.894",
+                            "interval": "+ 0.004",
+                            "speed": "177.913",
+                            "fastestLap": "9:23.210"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "comtec_racing",
+                        "fastest_lap": "9:23.210"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "29",
+                            "gap": "+ 45.816",
+                            "interval": "+ 0.565",
+                            "speed": "169.257",
+                            "fastestLap": "1:36.639",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "comtec_racing",
+                        "fastest_lap": "1:36.639"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "14",
+                            "speed": "158.708",
+                            "fastestLap": "1:36.997",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "comtec_racing",
+                        "fastest_lap": "1:36.997"
+                    }
+                }
+            }
         }
     }
 }
