@@ -5935,6 +5935,77 @@
                     }
                 }
             }
+        },
+        "2008": {
+            "Formula3_Euro_Series_F3EURO": {
+                "Nurburgring": {
+                    "Starting Grid 2": {
+                        "other_info": {
+                            "carNumber": "40"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "sg_formula",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "28",
+                            "gap": "+ 1.201",
+                            "interval": "+ 0.004",
+                            "speed": "154.5"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "sg_formula",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "16",
+                            "gap": "+ 0.619",
+                            "interval": "+ 0.028",
+                            "speed": "155.754"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "sg_formula",
+                        "fastest_lap": ""
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "29",
+                            "gap": "+ 23.337",
+                            "interval": "+ 5.570",
+                            "speed": "151.888",
+                            "fastestLap": "1:25.212",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "sg_formula",
+                        "fastest_lap": "1:25.212"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "28",
+                            "gap": "+ 24.621",
+                            "interval": "+ 0.600",
+                            "speed": "148.374",
+                            "fastestLap": "1:25.706",
+                            "lap_of_fastestLap": "16"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "sg_formula",
+                        "fastest_lap": "1:25.706"
+                    }
+                }
+            }
         }
     }
 }

@@ -503,6 +503,76 @@
                     }
                 }
             }
+        },
+        "2008": {
+            "Formula3_Euro_Series_F3EURO": {
+                "Le-mans": {
+                    "Starting Grid 2": {
+                        "other_info": {
+                            "carNumber": "44"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "rc_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "laps": "27",
+                            "gap": "+ 1.546",
+                            "interval": "+ 0.027",
+                            "speed": "150.095"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "rc_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "laps": "17",
+                            "gap": "+ 1.881",
+                            "interval": "+ 0.079",
+                            "speed": "161.636"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "rc_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "laps": "27",
+                            "gap": "+ 59.118",
+                            "interval": "+ 6.365",
+                            "speed": "160.07",
+                            "fastestLap": "1:32.809"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "rc_motorsport",
+                        "fastest_lap": "1:32.809"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "laps": "11",
+                            "gap": "+ 17.516",
+                            "interval": "+ 1.580",
+                            "speed": "67.904",
+                            "fastestLap": "1:43.556",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "rc_motorsport",
+                        "fastest_lap": "1:43.556"
+                    }
+                }
+            }
         }
     }
 }
