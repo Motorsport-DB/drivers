@@ -1,0 +1,61 @@
+{
+    "firstName": "Kazuyoshi",
+    "lastName": "Hoshino",
+    "seasons": {
+        "1977": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "52",
+                            "gap": "+ 1.320",
+                            "interval": "+ 0.030"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "heros_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "52",
+                            "laps": "71",
+                            "gap": "2 Laps"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "heros_racing",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1976": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "52",
+                            "gap": "+ 1.880",
+                            "interval": "+ 0.050"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "heros",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "52",
+                            "laps": "27"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "heros",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

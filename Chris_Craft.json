@@ -1,0 +1,57 @@
+{
+    "firstName": "Chris",
+    "lastName": "Craft",
+    "seasons": {
+        "1971": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 5.000",
+                            "interval": "+ 0.500"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "ecurie_evergreen",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "ecurie_evergreen",
+                        "fastest_lap": ""
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 6.056",
+                            "interval": "+ 0.746"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "ecurie_evergreen",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "30",
+                            "fastestLap": "1:47.919",
+                            "lap_of_fastestLap": "23"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "ecurie_evergreen",
+                        "fastest_lap": "1:47.919"
+                    }
+                }
+            }
+        }
+    }
+}

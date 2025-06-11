@@ -1,0 +1,61 @@
+{
+    "firstName": "Max",
+    "lastName": "de Terra",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "gap": "+ 41.000",
+                            "interval": "+ 13.700",
+                            "speed": "130.323"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "ecurie_espadon",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "51",
+                            "gap": "14 Laps",
+                            "interval": "11 Laps"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "ecurie_espadon",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "50"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "alfred_dattner",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "50",
+                            "laps": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "alfred_dattner",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

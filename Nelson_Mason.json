@@ -4,6 +4,375 @@
     "country": "Canada",
     "dateOfBirth": "1987-10-13",
     "seasons": {
+        "2017": {
+            "Formula_v8_3,5": {
+                "Silverstone": {
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "10",
+                            "speed": "194.607",
+                            "fastestLap": "1:43.386",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:43.386"
+                    },
+                    "Test Session 1": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "21",
+                            "gap": "+ 1.378",
+                            "interval": "+ 0.632",
+                            "speed": "206.891",
+                            "fastestLap": "1:32.202"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:32.202"
+                    },
+                    "Test Session 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "22",
+                            "gap": "+ 0.621",
+                            "interval": "+ 0.448",
+                            "speed": "208.956",
+                            "fastestLap": "1:32.202"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:32.202"
+                    },
+                    "Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "13",
+                            "speed": "191.95",
+                            "fastestLap": "1:43.993"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:43.993"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "24",
+                            "gap": "+ 16.506",
+                            "interval": "+ 0.298",
+                            "speed": "200.548",
+                            "fastestLap": "1:43.993",
+                            "lap_of_fastestLap": "22"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:43.993"
+                    }
+                },
+                "Spa-francorchamps": {
+                    "Test Session 1": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "14",
+                            "gap": "+ 1.937",
+                            "interval": "+ 0.278",
+                            "speed": "175.739",
+                            "fastestLap": "1:43.386"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:43.386"
+                    },
+                    "Test Session 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "gap": "+ 2.951",
+                            "interval": "+ 0.098",
+                            "speed": "204.453",
+                            "fastestLap": "1:43.386"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:43.386"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "gap": "+ 0.932",
+                            "interval": "+ 0.022",
+                            "speed": "209.559",
+                            "fastestLap": "1:43.386"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:43.386"
+                    },
+                    "Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "gap": "+ 2.035",
+                            "interval": "+ 0.102",
+                            "speed": "208.784",
+                            "fastestLap": "2:04.597"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "2:04.597"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "21",
+                            "gap": "+ 59.602",
+                            "interval": "+ 10.260",
+                            "speed": "199.791",
+                            "fastestLap": "2:04.597",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "2:04.597"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "21",
+                            "gap": "+ 33.611",
+                            "interval": "+ 1.667",
+                            "speed": "198.863",
+                            "fastestLap": "2:04.274",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "2:04.274"
+                    }
+                },
+                "Monza": {
+                    "Test Session 1": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "22",
+                            "gap": "+ 0.947",
+                            "interval": "+ 0.077",
+                            "speed": "212.543",
+                            "fastestLap": "2:04.274"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "2:04.274"
+                    },
+                    "Test Session 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "20",
+                            "gap": "+ 1.391",
+                            "interval": "+ 0.126",
+                            "speed": "217.738",
+                            "fastestLap": "2:04.274"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "2:04.274"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "10",
+                            "gap": "+ 1.846",
+                            "interval": "+ 0.437",
+                            "speed": "215.767",
+                            "fastestLap": "2:04.274"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "2:04.274"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "26",
+                            "gap": "+ 35.294",
+                            "interval": "+ 0.659",
+                            "speed": "210.664",
+                            "fastestLap": "1:37.994",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:37.994"
+                    },
+                    "Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "13",
+                            "gap": "+ 1.432",
+                            "interval": "+ 0.054",
+                            "speed": "218.959",
+                            "fastestLap": "1:37.994"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:37.994"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "24",
+                            "gap": "+ 32.119",
+                            "interval": "+ 3.174",
+                            "speed": "202.875",
+                            "fastestLap": "1:36.431",
+                            "lap_of_fastestLap": "23"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:36.431"
+                    }
+                },
+                "Jerez": {
+                    "Test Session 1": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "19",
+                            "gap": "+ 1.704",
+                            "interval": "+ 0.049",
+                            "speed": "177.114",
+                            "fastestLap": "1:36.431"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:36.431"
+                    },
+                    "Test Session 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "22",
+                            "gap": "+ 1.420",
+                            "interval": "+ 0.165",
+                            "speed": "178.458",
+                            "fastestLap": "1:36.431"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:36.431"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "gap": "+ 0.549",
+                            "interval": "+ 0.154",
+                            "speed": "182.472",
+                            "fastestLap": "1:36.431"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:36.431"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "26",
+                            "gap": "+ 25.198",
+                            "interval": "+ 19.534",
+                            "speed": "161.258",
+                            "fastestLap": "1:32.153",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:32.153"
+                    },
+                    "Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "9",
+                            "gap": "+ 1.200",
+                            "interval": "+ 0.217",
+                            "speed": "181.734",
+                            "fastestLap": "1:32.153"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:32.153"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "27",
+                            "gap": "+ 29.865",
+                            "interval": "+ 1.268",
+                            "speed": "169.789",
+                            "fastestLap": "1:30.726",
+                            "lap_of_fastestLap": "8"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:30.726"
+                    }
+                },
+                "Motorland": {
+                    "Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "15",
+                            "gap": "+ 0.893",
+                            "interval": "+ 0.089",
+                            "speed": "189.246",
+                            "fastestLap": "1:30.726"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:30.726"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "24",
+                            "gap": "+ 44.461",
+                            "interval": "+ 9.257",
+                            "speed": "178.206",
+                            "fastestLap": "1:45.219",
+                            "lap_of_fastestLap": "19"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "teo_martin_motorsport",
+                        "fastest_lap": "1:45.219"
+                    }
+                }
+            }
+        },
         "2014": {
             "GP3_Series": {
                 "Catalunya": {
@@ -504,375 +873,6 @@
                         "points": 0,
                         "team": "Hilmer_Motorsport",
                         "fastest_lap": "2:00.397"
-                    }
-                }
-            }
-        },
-        "2017": {
-            "Formula_v8_3,5": {
-                "Silverstone": {
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "speed": "194.607",
-                            "fastestLap": "1:43.386",
-                            "lap_of_fastestLap": "10"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:43.386"
-                    },
-                    "Test Session 1": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "21",
-                            "gap": "+ 1.378",
-                            "interval": "+ 0.632",
-                            "speed": "206.891",
-                            "fastestLap": "1:32.202"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:32.202"
-                    },
-                    "Test Session 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "22",
-                            "gap": "+ 0.621",
-                            "interval": "+ 0.448",
-                            "speed": "208.956",
-                            "fastestLap": "1:32.202"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:32.202"
-                    },
-                    "Qualifying 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "13",
-                            "speed": "191.95",
-                            "fastestLap": "1:43.993"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:43.993"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "24",
-                            "gap": "+ 16.506",
-                            "interval": "+ 0.298",
-                            "speed": "200.548",
-                            "fastestLap": "1:43.993",
-                            "lap_of_fastestLap": "22"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:43.993"
-                    }
-                },
-                "Spa-francorchamps": {
-                    "Test Session 1": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "14",
-                            "gap": "+ 1.937",
-                            "interval": "+ 0.278",
-                            "speed": "175.739",
-                            "fastestLap": "1:43.386"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:43.386"
-                    },
-                    "Test Session 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "gap": "+ 2.951",
-                            "interval": "+ 0.098",
-                            "speed": "204.453",
-                            "fastestLap": "1:43.386"
-                        },
-                        "position": "11",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:43.386"
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "gap": "+ 0.932",
-                            "interval": "+ 0.022",
-                            "speed": "209.559",
-                            "fastestLap": "1:43.386"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:43.386"
-                    },
-                    "Qualifying 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "gap": "+ 2.035",
-                            "interval": "+ 0.102",
-                            "speed": "208.784",
-                            "fastestLap": "2:04.597"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "2:04.597"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "21",
-                            "gap": "+ 59.602",
-                            "interval": "+ 10.260",
-                            "speed": "199.791",
-                            "fastestLap": "2:04.597",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "2:04.597"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "21",
-                            "gap": "+ 33.611",
-                            "interval": "+ 1.667",
-                            "speed": "198.863",
-                            "fastestLap": "2:04.274",
-                            "lap_of_fastestLap": "10"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "2:04.274"
-                    }
-                },
-                "Monza": {
-                    "Test Session 1": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "22",
-                            "gap": "+ 0.947",
-                            "interval": "+ 0.077",
-                            "speed": "212.543",
-                            "fastestLap": "2:04.274"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "2:04.274"
-                    },
-                    "Test Session 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "20",
-                            "gap": "+ 1.391",
-                            "interval": "+ 0.126",
-                            "speed": "217.738",
-                            "fastestLap": "2:04.274"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "2:04.274"
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "gap": "+ 1.846",
-                            "interval": "+ 0.437",
-                            "speed": "215.767",
-                            "fastestLap": "2:04.274"
-                        },
-                        "position": "11",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "2:04.274"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "26",
-                            "gap": "+ 35.294",
-                            "interval": "+ 0.659",
-                            "speed": "210.664",
-                            "fastestLap": "1:37.994",
-                            "lap_of_fastestLap": "13"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:37.994"
-                    },
-                    "Qualifying 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "13",
-                            "gap": "+ 1.432",
-                            "interval": "+ 0.054",
-                            "speed": "218.959",
-                            "fastestLap": "1:37.994"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:37.994"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "24",
-                            "gap": "+ 32.119",
-                            "interval": "+ 3.174",
-                            "speed": "202.875",
-                            "fastestLap": "1:36.431",
-                            "lap_of_fastestLap": "23"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:36.431"
-                    }
-                },
-                "Jerez": {
-                    "Test Session 1": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "19",
-                            "gap": "+ 1.704",
-                            "interval": "+ 0.049",
-                            "speed": "177.114",
-                            "fastestLap": "1:36.431"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:36.431"
-                    },
-                    "Test Session 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "22",
-                            "gap": "+ 1.420",
-                            "interval": "+ 0.165",
-                            "speed": "178.458",
-                            "fastestLap": "1:36.431"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:36.431"
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "gap": "+ 0.549",
-                            "interval": "+ 0.154",
-                            "speed": "182.472",
-                            "fastestLap": "1:36.431"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:36.431"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "26",
-                            "gap": "+ 25.198",
-                            "interval": "+ 19.534",
-                            "speed": "161.258",
-                            "fastestLap": "1:32.153",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:32.153"
-                    },
-                    "Qualifying 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "9",
-                            "gap": "+ 1.200",
-                            "interval": "+ 0.217",
-                            "speed": "181.734",
-                            "fastestLap": "1:32.153"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:32.153"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "27",
-                            "gap": "+ 29.865",
-                            "interval": "+ 1.268",
-                            "speed": "169.789",
-                            "fastestLap": "1:30.726",
-                            "lap_of_fastestLap": "8"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:30.726"
-                    }
-                },
-                "Motorland": {
-                    "Qualifying 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "15",
-                            "gap": "+ 0.893",
-                            "interval": "+ 0.089",
-                            "speed": "189.246",
-                            "fastestLap": "1:30.726"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:30.726"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "24",
-                            "gap": "+ 44.461",
-                            "interval": "+ 9.257",
-                            "speed": "178.206",
-                            "fastestLap": "1:45.219",
-                            "lap_of_fastestLap": "19"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "teo_martin_motorsport",
-                        "fastest_lap": "1:45.219"
                     }
                 }
             }

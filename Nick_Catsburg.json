@@ -2,761 +2,899 @@
     "firstName": "Nick",
     "lastName": "Catsburg",
     "seasons": {
-        "2015": {
+        "2017": {
             "World_Touring_Car_Championship_WTCC": {
-                "Race-of-russia": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "gap": "+ 1.653",
-                            "interval": "+ 0.163",
-                            "speed": "141.356",
-                            "fastestLap": "1:41.397"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:41.397"
-                    },
+                "Morocco": {
                     "1st Practice": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "15",
-                            "gap": "+ 1.950",
-                            "interval": "+ 0.118",
-                            "speed": "140.134"
-                        },
-                        "position": "17",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "10",
+                            "carNumber": "63",
                             "laps": "13",
-                            "gap": "+ 0.770",
-                            "interval": "+ 0.140",
-                            "speed": "142.051"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "gap": "+ 0.864",
-                            "interval": "+ 0.151",
-                            "speed": "143.287"
+                            "gap": "+ 1.845",
+                            "interval": "+ 0.391",
+                            "speed": "126.53"
                         },
                         "position": "8",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "3",
-                            "gap": "+ 0.958",
-                            "interval": "+ 0.129",
-                            "speed": "142.877"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "16",
-                            "gap": "+ 18.239",
-                            "interval": "+ 4.195",
-                            "speed": "137.535",
-                            "fastestLap": "1:41.576",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "11",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:41.576"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "16",
-                            "gap": "+ 8.074",
-                            "interval": "+ 2.525",
-                            "speed": "137.658",
-                            "fastestLap": "1:41.625",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:41.625"
-                    }
-                },
-                "Race-of-slovakia": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "speed": "166.087",
-                            "fastestLap": "2:06.365"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:06.365"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "speed": "168.418"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "2nd Practice": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "speed": "169.442"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "3",
-                            "speed": "170.888"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "3",
-                            "speed": "170.924"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "3",
-                            "speed": "170.683"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "speed": "161.78",
-                            "fastestLap": "2:07.423",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:07.423"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "speed": "161.843",
-                            "fastestLap": "2:07.820",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:07.820"
-                    }
-                },
-                "Race-of-france": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "14",
-                            "speed": "151.684",
-                            "fastestLap": "1:31.148"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:31.148"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "10",
+                            "carNumber": "63",
                             "laps": "13",
-                            "speed": "151.094"
+                            "gap": "+ 1.029",
+                            "interval": "+ 0.116",
+                            "speed": "128.455"
                         },
-                        "position": "DNF",
+                        "position": "5",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "speed": "148.839"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "1st Qualifying": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "speed": "152.555"
+                            "carNumber": "63",
+                            "laps": "6",
+                            "gap": "+ 0.110",
+                            "interval": "+ 0.110",
+                            "speed": "130.004"
                         },
-                        "position": "DNF",
+                        "position": "2",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "2nd Qualifying": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "4",
-                            "speed": "150.721"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "4",
-                            "speed": "38.342",
-                            "fastestLap": "1:32.328",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:32.328"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "16",
-                            "gap": "+ 28.673",
-                            "interval": "+ 2.302",
-                            "speed": "145.613",
-                            "fastestLap": "1:33.273",
-                            "lap_of_fastestLap": "5"
-                        },
-                        "position": "12",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:33.273"
-                    }
-                },
-                "Race-of-portugal": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "gap": "+ 4.968",
-                            "interval": "+ 0.221",
-                            "speed": "135.402",
-                            "fastestLap": "2:01.216"
-                        },
-                        "position": "14",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:01.216"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "gap": "+ 2.540",
-                            "interval": "+ 0.480",
-                            "speed": "138.844"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "gap": "+ 3.039",
-                            "interval": "+ 0.048",
-                            "speed": "138.951"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "9",
-                            "gap": "+ 1.755",
-                            "interval": "+ 0.192",
-                            "speed": "141.298"
-                        },
-                        "position": "11",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "5",
-                            "gap": "+ 2.545",
-                            "interval": "+ 1.375",
-                            "speed": "140.629"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "13",
-                            "gap": "+ 27.636",
-                            "interval": "+ 5.312",
-                            "speed": "138.02",
-                            "fastestLap": "2:02.901",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:02.901"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "gap": "+ 15.177",
-                            "interval": "+ 2.754",
-                            "speed": "116.16",
-                            "fastestLap": "2:03.215",
-                            "lap_of_fastestLap": "7"
+                            "carNumber": "63",
+                            "laps": "6",
+                            "gap": "+ 0.870",
+                            "interval": "+ 0.124",
+                            "speed": "129.342"
                         },
                         "position": "6",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:03.215"
-                    }
-                },
-                "Race-of-japan": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "speed": "146.378",
-                            "fastestLap": "1:57.799"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:57.799"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "speed": "145.582"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "speed": "146.834"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "speed": "148.301"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "4",
-                            "speed": "147.149"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "Race": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "3",
-                            "speed": "46.338",
-                            "fastestLap": "2:01.233",
-                            "lap_of_fastestLap": "3"
+                            "carNumber": "63",
+                            "laps": "20",
+                            "gap": "+ 1.921",
+                            "interval": "+ 0.632",
+                            "speed": "113.04",
+                            "fastestLap": "1:24.803",
+                            "lap_of_fastestLap": "5"
                         },
-                        "position": "DNF",
+                        "position": "4",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:01.233"
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:24.803"
                     },
                     "Race 2": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "4",
-                            "speed": "142.236",
-                            "fastestLap": "1:58.891",
-                            "lap_of_fastestLap": "3"
+                            "carNumber": "63",
+                            "laps": "23",
+                            "gap": "+ 3.702",
+                            "interval": "+ 1.582",
+                            "speed": "120.31",
+                            "fastestLap": "1:24.611",
+                            "lap_of_fastestLap": "4"
                         },
-                        "position": "DNF",
+                        "position": "4",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:58.891"
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:24.611"
                     }
                 },
-                "Race-of-shanghai": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "13",
-                            "gap": "+ 0.323",
-                            "interval": "+ 0.002",
-                            "speed": "148.557",
-                            "fastestLap": "1:53.121"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:53.121"
-                    },
+                "Italy": {
                     "1st Practice": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "gap": "+ 1.043",
+                            "carNumber": "63",
+                            "laps": "6",
+                            "gap": "+ 1.527",
                             "interval": "+ 0.081",
-                            "speed": "146.97"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "gap": "+ 2.659",
-                            "interval": "+ 0.728",
-                            "speed": "145.516"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "gap": "+ 0.545",
-                            "interval": "+ 0.023",
-                            "speed": "150.381"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "4",
-                            "gap": "+ 0.529",
-                            "interval": "+ 0.010",
-                            "speed": "150.727"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "3",
-                            "gap": "+ 0.172",
-                            "interval": "+ 0.058",
-                            "speed": "151.167"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "16",
-                            "gap": "+ 8.905",
-                            "interval": "+ 5.526",
-                            "speed": "131.53",
-                            "fastestLap": "1:53.194",
-                            "lap_of_fastestLap": "6"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:53.194"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "1",
-                            "speed": "111.925",
-                            "fastestLap": "1:52.191",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:52.191"
-                    }
-                },
-                "Race-of-thailand": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "14",
-                            "speed": "165.65",
-                            "fastestLap": "1:39.577"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:39.577"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "10",
-                            "speed": "162.343"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "14",
-                            "speed": "163.722"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "9",
-                            "speed": "165.66"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "5",
-                            "speed": "166.611"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "fastestLap": "1:39.577"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:39.577"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "fastestLap": "1:39.378",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "DNS",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "1:39.378"
-                    }
-                },
-                "Race-of-qatar": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "gap": "+ 2.570",
-                            "interval": "+ 0.290",
-                            "speed": "155.085",
-                            "fastestLap": "2:02.557"
-                        },
-                        "position": "12",
-                        "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:02.557"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "10",
-                            "laps": "12",
-                            "gap": "+ 1.085",
-                            "interval": "+ 0.024",
-                            "speed": "156.777"
+                            "speed": "181.19"
                         },
                         "position": "8",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "2nd Practice": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "11",
-                            "gap": "+ 0.958",
-                            "interval": "+ 0.017",
-                            "speed": "157.698"
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 0.962",
+                            "interval": "+ 0.263",
+                            "speed": "182.741"
                         },
-                        "position": "10",
+                        "position": "6",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "1st Qualifying": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "8",
-                            "gap": "+ 0.818",
-                            "interval": "+ 0.153",
-                            "speed": "158.443"
+                            "carNumber": "63",
+                            "laps": "6",
+                            "gap": "+ 0.186",
+                            "interval": "+ 0.120",
+                            "speed": "185.534"
                         },
-                        "position": "5",
+                        "position": "3",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "2nd Qualifying": {
                         "other_info": {
-                            "carNumber": "10",
-                            "laps": "4",
-                            "gap": "+ 0.354",
-                            "interval": "+ 0.115",
-                            "speed": "159.055"
+                            "carNumber": "63",
+                            "laps": "5",
+                            "gap": "+ 0.205",
+                            "interval": "+ 0.022",
+                            "speed": "185.529"
                         },
                         "position": "3",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "3rd Qualifying": {
                         "other_info": {
-                            "carNumber": "10",
+                            "carNumber": "63",
                             "laps": "3",
-                            "gap": "+ 0.822",
-                            "interval": "+ 0.227"
+                            "gap": "+ 0.508",
+                            "interval": "+ 0.045",
+                            "speed": "184.534"
                         },
-                        "position": "5",
+                        "position": "4",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
+                        "team": "polestar_cyan_racing",
                         "fastest_lap": ""
                     },
                     "Race": {
                         "other_info": {
-                            "carNumber": "10",
+                            "carNumber": "63",
+                            "laps": "9",
+                            "gap": "+ 18.067",
+                            "interval": "+ 5.139",
+                            "speed": "177.841",
+                            "fastestLap": "1:54.458",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:54.458"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
                             "laps": "12",
-                            "gap": "+ 24.397",
-                            "interval": "+ 1.697",
-                            "speed": "155.196",
-                            "fastestLap": "2:03.197",
+                            "gap": "+ 3.269",
+                            "interval": "+ 0.490",
+                            "speed": "174.366",
+                            "fastestLap": "1:53.565",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:53.565"
+                    }
+                },
+                "Hungary": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 0.468",
+                            "interval": "+ 0.038",
+                            "speed": "141.987"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 1.248",
+                            "interval": "+ 0.042",
+                            "speed": "126.279"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "8",
+                            "speed": "144.7"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "5",
+                            "gap": "+ 0.328",
+                            "interval": "+ 0.067",
+                            "speed": "144.93"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 0.677",
+                            "interval": "+ 0.045",
+                            "speed": "144.771"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "12",
+                            "gap": "+ 5.221",
+                            "interval": "+ 0.684",
+                            "speed": "139.791",
+                            "fastestLap": "1:51.242",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:51.242"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "17",
+                            "gap": "+ 0.654",
+                            "interval": "+ 0.654",
+                            "speed": "133.892",
+                            "fastestLap": "1:51.065",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:51.065"
+                    }
+                },
+                "Germany": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "5",
+                            "gap": "+ 0.887",
+                            "interval": "+ 0.226",
+                            "speed": "174.973",
+                            "fastestLap": "8:47.565"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "8:47.565"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 3.779",
+                            "interval": "+ 1.442",
+                            "speed": "173.348"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "speed": "177.464"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 0.608",
+                            "interval": "+ 0.608",
+                            "speed": "176.14"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 8.910",
+                            "interval": "+ 0.423",
+                            "speed": "171.96",
+                            "fastestLap": "8:50.055",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "8:50.055"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "speed": "173.395",
+                            "fastestLap": "8:45.647",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "8:45.647"
+                    }
+                },
+                "Portugal": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "15",
+                            "gap": "+ 1.587",
+                            "interval": "+ 0.457",
+                            "speed": "144.054"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "15",
+                            "gap": "+ 0.597",
+                            "interval": "+ 0.027",
+                            "speed": "145.363"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "6",
+                            "gap": "+ 1.334",
+                            "interval": "+ 0.154",
+                            "speed": "145.71"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "7",
+                            "gap": "+ 0.941",
+                            "interval": "+ 0.347",
+                            "speed": "147.173"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "2",
+                            "gap": "+ 1.322"
+                        },
+                        "position": "",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "11",
+                            "gap": "+ 4.459",
+                            "interval": "+ 2.012",
+                            "speed": "143.136",
+                            "fastestLap": "1:59.056",
+                            "lap_of_fastestLap": "9"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:59.056"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 4.457",
+                            "interval": "+ 2.257",
+                            "speed": "144.439",
+                            "fastestLap": "1:58.407",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:58.407"
+                    }
+                },
+                "Argentina": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "5",
+                            "speed": "165.296"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "16",
+                            "speed": "167.639"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "8",
+                            "speed": "167.249"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "5",
+                            "speed": "167.838"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "speed": "167.833"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "7",
+                            "speed": "155.034",
+                            "fastestLap": "1:44.757",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:44.757"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "12",
+                            "gap": "1 Lap",
+                            "interval": "1 Lap",
+                            "speed": "152.743",
+                            "fastestLap": "1:43.480",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "1:43.480"
+                    }
+                },
+                "China": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "15",
+                            "gap": "+ 0.528",
+                            "interval": "+ 0.087",
+                            "speed": "119.432"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "14",
+                            "gap": "+ 0.541",
+                            "interval": "+ 0.541",
+                            "speed": "119.181"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "9",
+                            "gap": "+ 1.377",
+                            "interval": "+ 0.027",
+                            "speed": "120.682"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "4",
+                            "gap": "+ 1.540",
+                            "interval": "+ 0.129",
+                            "speed": "120.274"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "15",
+                            "gap": "+ 11.671",
+                            "interval": "+ 8.778",
+                            "speed": "107.135",
+                            "fastestLap": "2:05.496",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:05.496"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "2",
+                            "gap": "+ 8.113",
+                            "interval": "+ 1.422",
+                            "speed": "93.963",
+                            "fastestLap": "2:29.638",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:29.638"
+                    }
+                },
+                "Japan": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 0.300",
+                            "interval": "+ 0.300",
+                            "speed": "134.332"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "10",
+                            "gap": "+ 1.610",
+                            "interval": "+ 0.589",
+                            "speed": "132.395"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "8",
+                            "speed": "133.441"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "5",
+                            "speed": "134.595"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 0.370",
+                            "interval": "+ 0.370",
+                            "speed": "133.711"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "11",
+                            "gap": "+ 36.629",
+                            "interval": "+ 0.351",
+                            "speed": "129.342",
+                            "fastestLap": "2:10.098",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:10.098"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "9",
+                            "gap": "+ 0.392",
+                            "interval": "+ 0.392",
+                            "speed": "116.229",
+                            "fastestLap": "2:10.990",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:10.990"
+                    }
+                },
+                "Macau": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 2.282",
+                            "interval": "+ 0.073",
+                            "speed": "146.797"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "11",
+                            "gap": "+ 1.421",
+                            "interval": "+ 0.976",
+                            "speed": "150.31"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 2.496",
+                            "interval": "+ 0.460",
+                            "speed": "149.462"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "gap": "+ 3.035",
+                            "interval": "+ 0.661"
+                        },
+                        "position": "",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "5",
+                            "gap": "+ 10.688",
+                            "interval": "+ 2.620",
+                            "speed": "145.421",
+                            "fastestLap": "2:28.844",
                             "lap_of_fastestLap": "4"
                         },
                         "position": "9",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:03.197"
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:28.844"
                     },
                     "Race 2": {
                         "other_info": {
-                            "carNumber": "10",
-                            "fastestLap": "2:03.113",
-                            "lap_of_fastestLap": "8"
+                            "carNumber": "63",
+                            "laps": "13",
+                            "gap": "+ 1:22.466",
+                            "interval": "+ 14.521",
+                            "speed": "120.433",
+                            "fastestLap": "2:53.148",
+                            "lap_of_fastestLap": "13"
                         },
-                        "position": "DNF",
+                        "position": "13",
                         "points": 0,
-                        "team": "lada_sport_rosneft",
-                        "fastest_lap": "2:03.113"
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:53.148"
+                    }
+                },
+                "Qatar": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "15",
+                            "gap": "+ 0.389",
+                            "interval": "+ 0.069",
+                            "speed": "158.774"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "15",
+                            "gap": "+ 0.950",
+                            "interval": "+ 0.248",
+                            "speed": "160.478"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "8",
+                            "gap": "+ 0.183",
+                            "interval": "+ 0.160",
+                            "speed": "158.992"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "4",
+                            "gap": "+ 0.087",
+                            "interval": "+ 0.087",
+                            "speed": "159.553"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "3",
+                            "gap": "+ 0.414",
+                            "interval": "+ 0.414",
+                            "speed": "159.661"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "10",
+                            "gap": "+ 9.248",
+                            "interval": "+ 0.671",
+                            "speed": "154.473",
+                            "fastestLap": "2:04.114",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:04.114"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "63",
+                            "laps": "12",
+                            "gap": "+ 7.319",
+                            "interval": "+ 3.611",
+                            "speed": "155.846",
+                            "fastestLap": "2:02.588",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "polestar_cyan_racing",
+                        "fastest_lap": "2:02.588"
                     }
                 }
             }
@@ -1798,899 +1936,761 @@
                 }
             }
         },
-        "2017": {
+        "2015": {
             "World_Touring_Car_Championship_WTCC": {
-                "Morocco": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 1.845",
-                            "interval": "+ 0.391",
-                            "speed": "126.53"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 1.029",
-                            "interval": "+ 0.116",
-                            "speed": "128.455"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "6",
-                            "gap": "+ 0.110",
-                            "interval": "+ 0.110",
-                            "speed": "130.004"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "6",
-                            "gap": "+ 0.870",
-                            "interval": "+ 0.124",
-                            "speed": "129.342"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "20",
-                            "gap": "+ 1.921",
-                            "interval": "+ 0.632",
-                            "speed": "113.04",
-                            "fastestLap": "1:24.803",
-                            "lap_of_fastestLap": "5"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:24.803"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "23",
-                            "gap": "+ 3.702",
-                            "interval": "+ 1.582",
-                            "speed": "120.31",
-                            "fastestLap": "1:24.611",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:24.611"
-                    }
-                },
-                "Italy": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "6",
-                            "gap": "+ 1.527",
-                            "interval": "+ 0.081",
-                            "speed": "181.19"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 0.962",
-                            "interval": "+ 0.263",
-                            "speed": "182.741"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "6",
-                            "gap": "+ 0.186",
-                            "interval": "+ 0.120",
-                            "speed": "185.534"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "gap": "+ 0.205",
-                            "interval": "+ 0.022",
-                            "speed": "185.529"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 0.508",
-                            "interval": "+ 0.045",
-                            "speed": "184.534"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "9",
-                            "gap": "+ 18.067",
-                            "interval": "+ 5.139",
-                            "speed": "177.841",
-                            "fastestLap": "1:54.458",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:54.458"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "12",
-                            "gap": "+ 3.269",
-                            "interval": "+ 0.490",
-                            "speed": "174.366",
-                            "fastestLap": "1:53.565",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:53.565"
-                    }
-                },
-                "Hungary": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 0.468",
-                            "interval": "+ 0.038",
-                            "speed": "141.987"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 1.248",
-                            "interval": "+ 0.042",
-                            "speed": "126.279"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "8",
-                            "speed": "144.7"
-                        },
-                        "position": "1",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "gap": "+ 0.328",
-                            "interval": "+ 0.067",
-                            "speed": "144.93"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 0.677",
-                            "interval": "+ 0.045",
-                            "speed": "144.771"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "12",
-                            "gap": "+ 5.221",
-                            "interval": "+ 0.684",
-                            "speed": "139.791",
-                            "fastestLap": "1:51.242",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:51.242"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "17",
-                            "gap": "+ 0.654",
-                            "interval": "+ 0.654",
-                            "speed": "133.892",
-                            "fastestLap": "1:51.065",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:51.065"
-                    }
-                },
-                "Germany": {
+                "Race-of-russia": {
                     "Testing": {
                         "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "gap": "+ 0.887",
-                            "interval": "+ 0.226",
-                            "speed": "174.973",
-                            "fastestLap": "8:47.565"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "8:47.565"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 3.779",
-                            "interval": "+ 1.442",
-                            "speed": "173.348"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "speed": "177.464"
-                        },
-                        "position": "1",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 0.608",
-                            "interval": "+ 0.608",
-                            "speed": "176.14"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 8.910",
-                            "interval": "+ 0.423",
-                            "speed": "171.96",
-                            "fastestLap": "8:50.055",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "6",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "8:50.055"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "speed": "173.395",
-                            "fastestLap": "8:45.647",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "1",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "8:45.647"
-                    }
-                },
-                "Portugal": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "15",
-                            "gap": "+ 1.587",
-                            "interval": "+ 0.457",
-                            "speed": "144.054"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "15",
-                            "gap": "+ 0.597",
-                            "interval": "+ 0.027",
-                            "speed": "145.363"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "6",
-                            "gap": "+ 1.334",
-                            "interval": "+ 0.154",
-                            "speed": "145.71"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "7",
-                            "gap": "+ 0.941",
-                            "interval": "+ 0.347",
-                            "speed": "147.173"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "2",
-                            "gap": "+ 1.322"
-                        },
-                        "position": "",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "11",
-                            "gap": "+ 4.459",
-                            "interval": "+ 2.012",
-                            "speed": "143.136",
-                            "fastestLap": "1:59.056",
-                            "lap_of_fastestLap": "9"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:59.056"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 4.457",
-                            "interval": "+ 2.257",
-                            "speed": "144.439",
-                            "fastestLap": "1:58.407",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:58.407"
-                    }
-                },
-                "Argentina": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "speed": "165.296"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "16",
-                            "speed": "167.639"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "8",
-                            "speed": "167.249"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "speed": "167.838"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "speed": "167.833"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "7",
-                            "speed": "155.034",
-                            "fastestLap": "1:44.757",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:44.757"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
+                            "carNumber": "10",
                             "laps": "12",
-                            "gap": "1 Lap",
-                            "interval": "1 Lap",
-                            "speed": "152.743",
-                            "fastestLap": "1:43.480",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "16",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "1:43.480"
-                    }
-                },
-                "China": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "15",
-                            "gap": "+ 0.528",
-                            "interval": "+ 0.087",
-                            "speed": "119.432"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "14",
-                            "gap": "+ 0.541",
-                            "interval": "+ 0.541",
-                            "speed": "119.181"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "9",
-                            "gap": "+ 1.377",
-                            "interval": "+ 0.027",
-                            "speed": "120.682"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "4",
-                            "gap": "+ 1.540",
-                            "interval": "+ 0.129",
-                            "speed": "120.274"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "15",
-                            "gap": "+ 11.671",
-                            "interval": "+ 8.778",
-                            "speed": "107.135",
-                            "fastestLap": "2:05.496",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:05.496"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "2",
-                            "gap": "+ 8.113",
-                            "interval": "+ 1.422",
-                            "speed": "93.963",
-                            "fastestLap": "2:29.638",
-                            "lap_of_fastestLap": "2"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:29.638"
-                    }
-                },
-                "Japan": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 0.300",
-                            "interval": "+ 0.300",
-                            "speed": "134.332"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "10",
-                            "gap": "+ 1.610",
-                            "interval": "+ 0.589",
-                            "speed": "132.395"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "8",
-                            "speed": "133.441"
-                        },
-                        "position": "1",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "speed": "134.595"
-                        },
-                        "position": "1",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 0.370",
-                            "interval": "+ 0.370",
-                            "speed": "133.711"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "11",
-                            "gap": "+ 36.629",
-                            "interval": "+ 0.351",
-                            "speed": "129.342",
-                            "fastestLap": "2:10.098",
-                            "lap_of_fastestLap": "5"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:10.098"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "9",
-                            "gap": "+ 0.392",
-                            "interval": "+ 0.392",
-                            "speed": "116.229",
-                            "fastestLap": "2:10.990",
-                            "lap_of_fastestLap": "6"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:10.990"
-                    }
-                },
-                "Macau": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 2.282",
-                            "interval": "+ 0.073",
-                            "speed": "146.797"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "11",
-                            "gap": "+ 1.421",
-                            "interval": "+ 0.976",
-                            "speed": "150.31"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "3",
-                            "gap": "+ 2.496",
-                            "interval": "+ 0.460",
-                            "speed": "149.462"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "gap": "+ 3.035",
-                            "interval": "+ 0.661"
-                        },
-                        "position": "",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "5",
-                            "gap": "+ 10.688",
-                            "interval": "+ 2.620",
-                            "speed": "145.421",
-                            "fastestLap": "2:28.844",
-                            "lap_of_fastestLap": "4"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:28.844"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "63",
-                            "laps": "13",
-                            "gap": "+ 1:22.466",
-                            "interval": "+ 14.521",
-                            "speed": "120.433",
-                            "fastestLap": "2:53.148",
-                            "lap_of_fastestLap": "13"
+                            "gap": "+ 1.653",
+                            "interval": "+ 0.163",
+                            "speed": "141.356",
+                            "fastestLap": "1:41.397"
                         },
                         "position": "13",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:53.148"
-                    }
-                },
-                "Qatar": {
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:41.397"
+                    },
                     "1st Practice": {
                         "other_info": {
-                            "carNumber": "63",
+                            "carNumber": "10",
                             "laps": "15",
-                            "gap": "+ 0.389",
-                            "interval": "+ 0.069",
-                            "speed": "158.774"
+                            "gap": "+ 1.950",
+                            "interval": "+ 0.118",
+                            "speed": "140.134"
                         },
-                        "position": "4",
+                        "position": "17",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
+                        "team": "lada_sport_rosneft",
                         "fastest_lap": ""
                     },
                     "2nd Practice": {
                         "other_info": {
-                            "carNumber": "63",
-                            "laps": "15",
-                            "gap": "+ 0.950",
-                            "interval": "+ 0.248",
-                            "speed": "160.478"
+                            "carNumber": "10",
+                            "laps": "13",
+                            "gap": "+ 0.770",
+                            "interval": "+ 0.140",
+                            "speed": "142.051"
                         },
-                        "position": "3",
+                        "position": "7",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
+                        "team": "lada_sport_rosneft",
                         "fastest_lap": ""
                     },
                     "1st Qualifying": {
                         "other_info": {
-                            "carNumber": "63",
-                            "laps": "8",
-                            "gap": "+ 0.183",
-                            "interval": "+ 0.160",
-                            "speed": "158.992"
+                            "carNumber": "10",
+                            "laps": "10",
+                            "gap": "+ 0.864",
+                            "interval": "+ 0.151",
+                            "speed": "143.287"
                         },
-                        "position": "3",
+                        "position": "8",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
+                        "team": "lada_sport_rosneft",
                         "fastest_lap": ""
                     },
                     "2nd Qualifying": {
                         "other_info": {
-                            "carNumber": "63",
-                            "laps": "4",
-                            "gap": "+ 0.087",
-                            "interval": "+ 0.087",
-                            "speed": "159.553"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": ""
-                    },
-                    "3rd Qualifying": {
-                        "other_info": {
-                            "carNumber": "63",
+                            "carNumber": "10",
                             "laps": "3",
-                            "gap": "+ 0.414",
-                            "interval": "+ 0.414",
-                            "speed": "159.661"
+                            "gap": "+ 0.958",
+                            "interval": "+ 0.129",
+                            "speed": "142.877"
                         },
-                        "position": "2",
+                        "position": "9",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
+                        "team": "lada_sport_rosneft",
                         "fastest_lap": ""
                     },
                     "Race": {
                         "other_info": {
-                            "carNumber": "63",
-                            "laps": "10",
-                            "gap": "+ 9.248",
-                            "interval": "+ 0.671",
-                            "speed": "154.473",
-                            "fastestLap": "2:04.114",
+                            "carNumber": "10",
+                            "laps": "16",
+                            "gap": "+ 18.239",
+                            "interval": "+ 4.195",
+                            "speed": "137.535",
+                            "fastestLap": "1:41.576",
                             "lap_of_fastestLap": "3"
                         },
-                        "position": "8",
+                        "position": "11",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:04.114"
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:41.576"
                     },
                     "Race 2": {
                         "other_info": {
-                            "carNumber": "63",
+                            "carNumber": "10",
+                            "laps": "16",
+                            "gap": "+ 8.074",
+                            "interval": "+ 2.525",
+                            "speed": "137.658",
+                            "fastestLap": "1:41.625",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:41.625"
+                    }
+                },
+                "Race-of-slovakia": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "10",
+                            "speed": "166.087",
+                            "fastestLap": "2:06.365"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:06.365"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
                             "laps": "12",
-                            "gap": "+ 7.319",
-                            "interval": "+ 3.611",
-                            "speed": "155.846",
-                            "fastestLap": "2:02.588",
+                            "speed": "168.418"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "speed": "169.442"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "3",
+                            "speed": "170.888"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "3",
+                            "speed": "170.924"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "3",
+                            "speed": "170.683"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "speed": "161.78",
+                            "fastestLap": "2:07.423",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:07.423"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "speed": "161.843",
+                            "fastestLap": "2:07.820",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:07.820"
+                    }
+                },
+                "Race-of-france": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "14",
+                            "speed": "151.684",
+                            "fastestLap": "1:31.148"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:31.148"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "13",
+                            "speed": "151.094"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "10",
+                            "speed": "148.839"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "speed": "152.555"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "4",
+                            "speed": "150.721"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "4",
+                            "speed": "38.342",
+                            "fastestLap": "1:32.328",
                             "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:32.328"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "16",
+                            "gap": "+ 28.673",
+                            "interval": "+ 2.302",
+                            "speed": "145.613",
+                            "fastestLap": "1:33.273",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:33.273"
+                    }
+                },
+                "Race-of-portugal": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "gap": "+ 4.968",
+                            "interval": "+ 0.221",
+                            "speed": "135.402",
+                            "fastestLap": "2:01.216"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:01.216"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "10",
+                            "gap": "+ 2.540",
+                            "interval": "+ 0.480",
+                            "speed": "138.844"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "gap": "+ 3.039",
+                            "interval": "+ 0.048",
+                            "speed": "138.951"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "9",
+                            "gap": "+ 1.755",
+                            "interval": "+ 0.192",
+                            "speed": "141.298"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "5",
+                            "gap": "+ 2.545",
+                            "interval": "+ 1.375",
+                            "speed": "140.629"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "13",
+                            "gap": "+ 27.636",
+                            "interval": "+ 5.312",
+                            "speed": "138.02",
+                            "fastestLap": "2:02.901",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:02.901"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "gap": "+ 15.177",
+                            "interval": "+ 2.754",
+                            "speed": "116.16",
+                            "fastestLap": "2:03.215",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:03.215"
+                    }
+                },
+                "Race-of-japan": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "speed": "146.378",
+                            "fastestLap": "1:57.799"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:57.799"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "speed": "145.582"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "speed": "146.834"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "speed": "148.301"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "4",
+                            "speed": "147.149"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "3",
+                            "speed": "46.338",
+                            "fastestLap": "2:01.233",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:01.233"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "4",
+                            "speed": "142.236",
+                            "fastestLap": "1:58.891",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:58.891"
+                    }
+                },
+                "Race-of-shanghai": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "13",
+                            "gap": "+ 0.323",
+                            "interval": "+ 0.002",
+                            "speed": "148.557",
+                            "fastestLap": "1:53.121"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:53.121"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "gap": "+ 1.043",
+                            "interval": "+ 0.081",
+                            "speed": "146.97"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "gap": "+ 2.659",
+                            "interval": "+ 0.728",
+                            "speed": "145.516"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "gap": "+ 0.545",
+                            "interval": "+ 0.023",
+                            "speed": "150.381"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "4",
+                            "gap": "+ 0.529",
+                            "interval": "+ 0.010",
+                            "speed": "150.727"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "3",
+                            "gap": "+ 0.172",
+                            "interval": "+ 0.058",
+                            "speed": "151.167"
                         },
                         "position": "3",
                         "points": 0,
-                        "team": "polestar_cyan_racing",
-                        "fastest_lap": "2:02.588"
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "16",
+                            "gap": "+ 8.905",
+                            "interval": "+ 5.526",
+                            "speed": "131.53",
+                            "fastestLap": "1:53.194",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:53.194"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "1",
+                            "speed": "111.925",
+                            "fastestLap": "1:52.191",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:52.191"
+                    }
+                },
+                "Race-of-thailand": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "14",
+                            "speed": "165.65",
+                            "fastestLap": "1:39.577"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:39.577"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "10",
+                            "speed": "162.343"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "14",
+                            "speed": "163.722"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "9",
+                            "speed": "165.66"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "5",
+                            "speed": "166.611"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "fastestLap": "1:39.577"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:39.577"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "fastestLap": "1:39.378",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "1:39.378"
+                    }
+                },
+                "Race-of-qatar": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "gap": "+ 2.570",
+                            "interval": "+ 0.290",
+                            "speed": "155.085",
+                            "fastestLap": "2:02.557"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:02.557"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "gap": "+ 1.085",
+                            "interval": "+ 0.024",
+                            "speed": "156.777"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "11",
+                            "gap": "+ 0.958",
+                            "interval": "+ 0.017",
+                            "speed": "157.698"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "8",
+                            "gap": "+ 0.818",
+                            "interval": "+ 0.153",
+                            "speed": "158.443"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "2nd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "4",
+                            "gap": "+ 0.354",
+                            "interval": "+ 0.115",
+                            "speed": "159.055"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "3rd Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "3",
+                            "gap": "+ 0.822",
+                            "interval": "+ 0.227"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "12",
+                            "gap": "+ 24.397",
+                            "interval": "+ 1.697",
+                            "speed": "155.196",
+                            "fastestLap": "2:03.197",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:03.197"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "fastestLap": "2:03.113",
+                            "lap_of_fastestLap": "8"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lada_sport_rosneft",
+                        "fastest_lap": "2:03.113"
                     }
                 }
             }

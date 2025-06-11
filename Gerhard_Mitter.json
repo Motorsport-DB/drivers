@@ -1,0 +1,126 @@
+{
+    "firstName": "Gerhard",
+    "lastName": "Mitter",
+    "seasons": {
+        "1965": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "gap": "+ 17.700",
+                            "interval": "+ 0.800"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "8",
+                            "speed": "153.674",
+                            "fastestLap": "8:43.600",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "8:43.600"
+                    }
+                }
+            }
+        },
+        "1964": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 35.700",
+                            "interval": "+ 1.100"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "14",
+                            "gap": "1 Lap",
+                            "interval": "+ 1:28.800",
+                            "speed": "142.467",
+                            "fastestLap": "9:12.200",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "9:12.200"
+                    }
+                }
+            }
+        },
+        "1963": {
+            "Formula_1": {
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "gap": "+ 7.200",
+                            "interval": "+ 1.000"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "ecurie_maarsbergen",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "2",
+                            "speed": "68.69",
+                            "fastestLap": "2:24.600",
+                            "lap_of_fastestLap": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "ecurie_maarsbergen",
+                        "fastest_lap": "2:24.600"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 35.100",
+                            "interval": "+ 0.700"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "ecurie_maarsbergen",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "15",
+                            "gap": "+ 8:11.500",
+                            "interval": "+ 5:26.600",
+                            "speed": "145.281",
+                            "fastestLap": "9:16.100",
+                            "lap_of_fastestLap": "9"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "ecurie_maarsbergen",
+                        "fastest_lap": "9:16.100"
+                    }
+                }
+            }
+        }
+    }
+}

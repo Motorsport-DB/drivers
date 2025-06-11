@@ -4,6 +4,102 @@
     "dateOfBirth": "1995-06-13",
     "country": "Portugal",
     "seasons": {
+        "2008": {
+            "Formula_v8_3,5": {
+                "Estoril": {
+                    "Qualifying 2": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "12",
+                            "gap": "+ 0.463",
+                            "interval": "+ 0.027",
+                            "speed": "174.464",
+                            "fastestLap": "1:35.954"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "epsilon_euskadi",
+                        "fastest_lap": "1:35.954"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "27",
+                            "gap": "+ 23.591",
+                            "interval": "+ 0.551",
+                            "speed": "166.502",
+                            "fastestLap": "1:29.537",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "epsilon_euskadi",
+                        "fastest_lap": "1:29.537"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "27",
+                            "gap": "+ 18.783",
+                            "interval": "+ 2.288",
+                            "speed": "165.22",
+                            "fastestLap": "1:28.686",
+                            "lap_of_fastestLap": "8"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "epsilon_euskadi",
+                        "fastest_lap": "1:28.686"
+                    }
+                },
+                "Catalunya": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "9",
+                            "gap": "+ 3.002",
+                            "interval": "+ 0.196",
+                            "speed": "143.66",
+                            "fastestLap": "1:28.686"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "epsilon_euskadi",
+                        "fastest_lap": "1:28.686"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "26",
+                            "gap": "+ 10.086",
+                            "interval": "+ 0.532",
+                            "speed": "153.925",
+                            "fastestLap": "1:36.253",
+                            "lap_of_fastestLap": "9"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "epsilon_euskadi",
+                        "fastest_lap": "1:36.253"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "26",
+                            "gap": "+ 20.068",
+                            "interval": "+ 1.241",
+                            "speed": "169.265",
+                            "fastestLap": "1:36.557",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "epsilon_euskadi",
+                        "fastest_lap": "1:36.557"
+                    }
+                }
+            }
+        },
         "2007": {
             "GP2_Series": {
                 "Silverstone": {
@@ -565,102 +661,6 @@
                         "points": 0,
                         "team": "epsilon_euskadi",
                         "fastest_lap": "1:35.954"
-                    }
-                }
-            }
-        },
-        "2008": {
-            "Formula_v8_3,5": {
-                "Estoril": {
-                    "Qualifying 2": {
-                        "other_info": {
-                            "carNumber": "7",
-                            "laps": "12",
-                            "gap": "+ 0.463",
-                            "interval": "+ 0.027",
-                            "speed": "174.464",
-                            "fastestLap": "1:35.954"
-                        },
-                        "position": "8",
-                        "points": 0,
-                        "team": "epsilon_euskadi",
-                        "fastest_lap": "1:35.954"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "7",
-                            "laps": "27",
-                            "gap": "+ 23.591",
-                            "interval": "+ 0.551",
-                            "speed": "166.502",
-                            "fastestLap": "1:29.537",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "epsilon_euskadi",
-                        "fastest_lap": "1:29.537"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "7",
-                            "laps": "27",
-                            "gap": "+ 18.783",
-                            "interval": "+ 2.288",
-                            "speed": "165.22",
-                            "fastestLap": "1:28.686",
-                            "lap_of_fastestLap": "8"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "epsilon_euskadi",
-                        "fastest_lap": "1:28.686"
-                    }
-                },
-                "Catalunya": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "7",
-                            "laps": "9",
-                            "gap": "+ 3.002",
-                            "interval": "+ 0.196",
-                            "speed": "143.66",
-                            "fastestLap": "1:28.686"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "epsilon_euskadi",
-                        "fastest_lap": "1:28.686"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "7",
-                            "laps": "26",
-                            "gap": "+ 10.086",
-                            "interval": "+ 0.532",
-                            "speed": "153.925",
-                            "fastestLap": "1:36.253",
-                            "lap_of_fastestLap": "9"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "epsilon_euskadi",
-                        "fastest_lap": "1:36.253"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "7",
-                            "laps": "26",
-                            "gap": "+ 20.068",
-                            "interval": "+ 1.241",
-                            "speed": "169.265",
-                            "fastestLap": "1:36.557",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "epsilon_euskadi",
-                        "fastest_lap": "1:36.557"
                     }
                 }
             }

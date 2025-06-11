@@ -1,0 +1,91 @@
+{
+    "firstName": "Paul",
+    "lastName": "Goldsmith",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "gap": "+ 6.550",
+                            "interval": "+ 1.020"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "norman_c_demler",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "laps": "200",
+                            "gap": "+ 3:07.300",
+                            "interval": "+ 2:54.550",
+                            "speed": "220.15"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "norman_c_demler",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "gap": "+ 5.600",
+                            "interval": "+ 0.090"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "norman_c_demler",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "laps": "200",
+                            "gap": "+ 2:06.440",
+                            "interval": "+ 19.350"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "norman_c_demler",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1958": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "31",
+                            "gap": "+ 5.580",
+                            "interval": "+ 0.060"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "henry_yunik",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "31"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "henry_yunik",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

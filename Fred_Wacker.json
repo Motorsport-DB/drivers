@@ -1,0 +1,112 @@
+{
+    "firstName": "Fred",
+    "lastName": "Wacker",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "gap": "+ 40.800",
+                            "interval": "+ 3.900"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "10"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "laps": "75",
+                            "gap": "5 Laps",
+                            "interval": "+ 4.900",
+                            "speed": "168.204"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "42",
+                            "gap": "+ 9.000",
+                            "interval": "+ 2.500",
+                            "speed": "177.187"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "50"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "gordini",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Dutch-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "40"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "38",
+                            "gap": "+ 33.000",
+                            "interval": "+ 6.000",
+                            "speed": "167.762"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "38",
+                            "laps": "32",
+                            "gap": "4 Laps",
+                            "interval": "1 Lap"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

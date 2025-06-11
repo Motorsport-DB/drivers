@@ -1,0 +1,91 @@
+{
+    "firstName": "Bill",
+    "lastName": "Brack",
+    "seasons": {
+        "1972": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "17",
+                            "gap": "+ 4.300",
+                            "interval": "+ 0.800"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "marlboro_brm",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "17",
+                            "laps": "20",
+                            "fastestLap": "1:21.500"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "marlboro_brm",
+                        "fastest_lap": "1:21.500"
+                    }
+                }
+            }
+        },
+        "1969": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "gap": "+ 11.300",
+                            "interval": "+ 0.200"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "owen_racing_organisation",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "laps": "80",
+                            "fastestLap": "1:27.300",
+                            "lap_of_fastestLap": "55"
+                        },
+                        "position": "NCL",
+                        "points": 0,
+                        "team": "owen_racing_organisation",
+                        "fastest_lap": "1:27.300"
+                    }
+                }
+            }
+        },
+        "1968": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "27",
+                            "gap": "+ 7.400"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "gold_leaf_team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "27",
+                            "laps": "18",
+                            "fastestLap": "1:39.500",
+                            "lap_of_fastestLap": "17"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "gold_leaf_team_lotus",
+                        "fastest_lap": "1:39.500"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "firstName": "Eppie",
+    "lastName": "Wietzes",
+    "seasons": {
+        "1974": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "50",
+                            "gap": "+ 3.123",
+                            "interval": "+ 0.496"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "team_canada_formula_1_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "50",
+                            "laps": "33",
+                            "fastestLap": "1:17.914"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "team_canada_formula_1_racing",
+                        "fastest_lap": "1:17.914"
+                    }
+                }
+            }
+        },
+        "1967": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "5",
+                            "gap": "+ 8.400",
+                            "interval": "+ 0.700"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "5",
+                            "laps": "69",
+                            "speed": "107.4",
+                            "fastestLap": "1:33.300",
+                            "lap_of_fastestLap": "48"
+                        },
+                        "position": "DSQ",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:33.300"
+                    }
+                }
+            }
+        }
+    }
+}

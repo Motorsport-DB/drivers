@@ -1,0 +1,89 @@
+{
+    "firstName": "Bill",
+    "lastName": "Schindler",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "gap": "+ 5.840",
+                            "interval": "+ 1.220"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "7",
+                            "laps": "200",
+                            "gap": "+ 18:48.660",
+                            "interval": "+ 1:53.010"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "gap": "+ 4.850",
+                            "interval": "+ 3.130"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "129"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "67",
+                            "gap": "+ 3.340",
+                            "speed": "213.545"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "louis_rassey",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "67",
+                            "laps": "111"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "louis_rassey",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

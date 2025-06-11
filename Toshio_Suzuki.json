@@ -1,0 +1,66 @@
+{
+    "firstName": "Toshio",
+    "lastName": "Suzuki",
+    "seasons": {
+        "1993": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "gap": "+ 5.021",
+                            "interval": "+ 0.186"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "larrousse_f1",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "51",
+                            "gap": "2 Laps",
+                            "interval": "+ 58.936",
+                            "speed": "176.663",
+                            "fastestLap": "1:46.819",
+                            "lap_of_fastestLap": "49"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "larrousse_f1",
+                        "fastest_lap": "1:46.819"
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "gap": "+ 8.422",
+                            "interval": "+ 2.424"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "larrousse_f1",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "74",
+                            "gap": "5 Laps",
+                            "interval": "1 Lap",
+                            "speed": "160.212",
+                            "fastestLap": "1:22.328",
+                            "lap_of_fastestLap": "52"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "larrousse_f1",
+                        "fastest_lap": "1:22.328"
+                    }
+                }
+            }
+        }
+    }
+}

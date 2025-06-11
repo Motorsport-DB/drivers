@@ -1,0 +1,62 @@
+{
+    "firstName": "Billy",
+    "lastName": "Garrett",
+    "seasons": {
+        "1958": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "43",
+                            "gap": "+ 5.520",
+                            "interval": "+ 0.320"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "43",
+                            "laps": "80"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1956": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "41",
+                            "gap": "+ 8.860",
+                            "interval": "+ 1.150"
+                        },
+                        "position": "29",
+                        "points": 0,
+                        "team": "e_r_casale",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "41",
+                            "laps": "194",
+                            "gap": "6 Laps",
+                            "interval": "1 Lap"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "e_r_casale",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

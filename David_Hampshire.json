@@ -1,0 +1,58 @@
+{
+    "firstName": "David",
+    "lastName": "Hampshire",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "6",
+                            "gap": "+ 10.200",
+                            "interval": "+ 2.600",
+                            "speed": "138.329"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "scuderia_ambrosiana",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "6",
+                            "laps": "64",
+                            "gap": "6 Laps",
+                            "interval": "1 Lap",
+                            "speed": "133.2"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "scuderia_ambrosiana",
+                        "fastest_lap": ""
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "scuderia_ambrosiana",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "5"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ambrosiana",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

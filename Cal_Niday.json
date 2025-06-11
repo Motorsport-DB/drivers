@@ -1,0 +1,90 @@
+{
+    "firstName": "Cal",
+    "lastName": "Niday",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "gap": "+ 4.100",
+                            "interval": "+ 1.400"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "racing_associates",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "laps": "170"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "racing_associates",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 2.200",
+                            "speed": "225.032"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "jim_robbins",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "200",
+                            "gap": "+ 7:07.690",
+                            "interval": "+ 0.450",
+                            "speed": "204.219"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "jim_robbins",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "gap": "+ 4.390",
+                            "interval": "+ 1.500"
+                        },
+                        "position": "30",
+                        "points": 0,
+                        "team": "murrell_belanger",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "laps": "30"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "murrell_belanger",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

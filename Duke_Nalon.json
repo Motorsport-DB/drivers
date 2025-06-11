@@ -1,0 +1,89 @@
+{
+    "firstName": "Duke",
+    "lastName": "Nalon",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "9",
+                            "gap": "+ 5.630",
+                            "interval": "+ 0.400"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "jean_marcenac",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "9",
+                            "laps": "191",
+                            "gap": "9 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "jean_marcenac",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "36",
+                            "gap": "+ 3.490",
+                            "interval": "+ 0.920"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "lewis_w_welch",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "36",
+                            "laps": "84"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lewis_w_welch",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "gap": "+ 0.720",
+                            "interval": "+ 0.720"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "jean_marcenac",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "151"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "jean_marcenac",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

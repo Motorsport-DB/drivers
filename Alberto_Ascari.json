@@ -1,0 +1,782 @@
+{
+    "firstName": "Alberto",
+    "lastName": "Ascari",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "laps": "21"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_lancia",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 0.500",
+                            "interval": "+ 0.500",
+                            "speed": "135.952"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_lancia",
+                        "fastest_lap": ""
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "80"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_lancia",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "speed": "111.988"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_lancia",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "gap": "+ 1.100",
+                            "interval": "+ 0.100"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "officine_alfieri_maserati",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "officine_alfieri_maserati",
+                        "fastest_lap": ""
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "31"
+                        },
+                        "position": "30",
+                        "points": 0,
+                        "team": "officine_alfieri_maserati",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "31",
+                            "laps": "21",
+                            "fastestLap": "1:50.000"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "officine_alfieri_maserati",
+                        "fastest_lap": "1:50.000"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "48"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "gap": "+ 0.200",
+                            "interval": "+ 0.200",
+                            "speed": "190.268"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_lancia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "10",
+                            "fastestLap": "2:20.400",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_lancia",
+                        "fastest_lap": "2:20.400"
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "97",
+                            "speed": "125.748",
+                            "fastestLap": "1:48.400",
+                            "lap_of_fastestLap": "73"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "1:48.400"
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "speed": "135.866"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "laps": "90",
+                            "speed": "130.429"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "gap": "+ 2.000",
+                            "interval": "+ 2.000",
+                            "speed": "186.882"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "36",
+                            "speed": "180.998"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "speed": "186.409"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "60",
+                            "gap": "+ 4.600",
+                            "interval": "+ 3.200",
+                            "speed": "182.8",
+                            "fastestLap": "2:41.100"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "2:41.100"
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "5",
+                            "speed": "157.016"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "5",
+                            "laps": "90",
+                            "speed": "150",
+                            "fastestLap": "1:50.000"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "1:50.000"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "1",
+                            "speed": "136.905"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "gap": "+ 0.600",
+                            "interval": "+ 0.600",
+                            "speed": "163.086"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "laps": "65",
+                            "speed": "156.366",
+                            "fastestLap": "2:41.300",
+                            "lap_of_fastestLap": "50"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "2:41.300"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "4"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "laps": "79"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 7.190",
+                            "interval": "+ 0.070"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "40"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "4"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "laps": "36",
+                            "fastestLap": "4:55.000",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "4:55.000"
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "8"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "laps": "76",
+                            "speed": "128.958",
+                            "fastestLap": "2:17.300",
+                            "lap_of_fastestLap": "28"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "2:17.300"
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "15"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "15",
+                            "laps": "85",
+                            "fastestLap": "1:52.000",
+                            "lap_of_fastestLap": "9"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "1:52.000"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "101",
+                            "speed": "135.863"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "101",
+                            "laps": "18",
+                            "speed": "132.3",
+                            "fastestLap": "10:05.100",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "10:05.100"
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "2"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "laps": "90",
+                            "fastestLap": "1:49.800",
+                            "lap_of_fastestLap": "89"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "1:49.800"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "speed": "180.429"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "80",
+                            "speed": "177.1",
+                            "fastestLap": "2:06.100",
+                            "lap_of_fastestLap": "56"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": "2:06.100"
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 10.100",
+                            "interval": "+ 0.800"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "40",
+                            "gap": "2 Laps"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "gap": "+ 5.000",
+                            "interval": "+ 1.000"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "laps": "36",
+                            "gap": "+ 2:51.000",
+                            "interval": "+ 2:51.000"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 2.400",
+                            "interval": "+ 0.700"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "10",
+                            "gap": "+ 58.200"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 2.000",
+                            "interval": "+ 0.400"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "56"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "71"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "71",
+                            "laps": "20",
+                            "interval": "3 Laps"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "gap": "+ 1.900",
+                            "interval": "+ 1.200"
+                        },
+                        "position": "3",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "laps": "80"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "2"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "laps": "68",
+                            "gap": "2 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "gap": "+ 3.600",
+                            "interval": "+ 1.500",
+                            "speed": "100.597"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "99",
+                            "gap": "1 Lap",
+                            "interval": "1 Lap",
+                            "speed": "97.25"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "gap": "+ 4.700",
+                            "interval": "+ 0.700",
+                            "speed": "157.122"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "4"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "gap": "+ 15.000",
+                            "interval": "+ 3.000",
+                            "speed": "174.082"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "laps": "34",
+                            "gap": "1 Lap",
+                            "interval": "1 Lap",
+                            "speed": "170"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "gap": "+ 0.200",
+                            "interval": "+ 0.200",
+                            "speed": "190.909"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "laps": "21"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

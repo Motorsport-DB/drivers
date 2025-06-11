@@ -1,0 +1,65 @@
+{
+    "firstName": "Eugene",
+    "lastName": "Chaboud",
+    "seasons": {
+        "1951": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "gap": "+ 23.900",
+                            "interval": "+ 1.600"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "eugene_chaboud",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "laps": "69",
+                            "gap": "8 Laps",
+                            "interval": "2 Laps",
+                            "fastestLap": "2:50.200",
+                            "lap_of_fastestLap": "40"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "eugene_chaboud",
+                        "fastest_lap": "2:50.200"
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 36.000",
+                            "interval": "+ 12.000",
+                            "speed": "162.402"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "automobiles_talbot-darracq",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "22"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "automobiles_talbot-darracq",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "firstName": "Jim",
+    "lastName": "McWithey",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "gap": "+ 10.870",
+                            "interval": "+ 1.580"
+                        },
+                        "position": "32",
+                        "points": 0,
+                        "team": "hoover_motor_express_inc",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "laps": "60"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hoover_motor_express_inc",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "58",
+                            "gap": "+ 8.200",
+                            "interval": "+ 0.240"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "ray_t_brady",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "58",
+                            "laps": "200",
+                            "gap": "+ 11:41.690",
+                            "interval": "+ 3:21.830"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "ray_t_brady",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

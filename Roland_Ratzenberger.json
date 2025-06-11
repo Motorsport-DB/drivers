@@ -1,0 +1,80 @@
+{
+    "firstName": "Roland",
+    "lastName": "Ratzenberger",
+    "seasons": {
+        "1994": {
+            "Formula_1": {
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 6.745",
+                            "interval": "+ 1.521"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "mtv_simtek_ford",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "mtv_simtek_ford",
+                        "fastest_lap": ""
+                    }
+                },
+                "Pacific-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 6.318",
+                            "interval": "+ 1.788"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "mtv_simtek_ford",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "laps": "78",
+                            "gap": "5 Laps",
+                            "fastestLap": "1:19.248",
+                            "lap_of_fastestLap": "9"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "mtv_simtek_ford",
+                        "fastest_lap": "1:19.248"
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 6.036",
+                            "interval": "+ 0.441"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "mtv_simtek_ford",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "mtv_simtek_ford",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

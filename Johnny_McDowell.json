@@ -1,0 +1,90 @@
+{
+    "firstName": "Johnny",
+    "lastName": "McDowell",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "31",
+                            "gap": "+ 7.930",
+                            "interval": "+ 2.080"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "roger_wolcott",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "31",
+                            "laps": "182",
+                            "gap": "18 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "roger_wolcott",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 8.010",
+                            "interval": "+ 4.820"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "maserati_race_cars",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "15"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "maserati_race_cars",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "62",
+                            "gap": "+ 9.610",
+                            "speed": "208.721"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "m_pete_wales",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "62",
+                            "laps": "128",
+                            "gap": "10 Laps"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "m_pete_wales",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

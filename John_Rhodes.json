@@ -1,0 +1,36 @@
+{
+    "firstName": "John",
+    "lastName": "Rhodes",
+    "seasons": {
+        "1965": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 8.600",
+                            "interval": "+ 3.400"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "bob_gerard_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "38",
+                            "speed": "136.901",
+                            "fastestLap": "1:37.600",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "bob_gerard_racing",
+                        "fastest_lap": "1:37.600"
+                    }
+                }
+            }
+        }
+    }
+}

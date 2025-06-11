@@ -1,0 +1,68 @@
+{
+    "firstName": "Roger",
+    "lastName": "Penske",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "gap": "+ 5.500",
+                            "interval": "+ 0.600"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "dupont_team_zerex",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "96",
+                            "gap": "4 Laps",
+                            "interval": "+ 1.700",
+                            "speed": "167.205",
+                            "fastestLap": "1:17.200",
+                            "lap_of_fastestLap": "60"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "dupont_team_zerex",
+                        "fastest_lap": "1:17.200"
+                    }
+                }
+            }
+        },
+        "1961": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "6",
+                            "gap": "+ 3.600",
+                            "interval": "+ 0.100"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "john_m_wyatt_iii",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "6",
+                            "laps": "96",
+                            "gap": "4 Laps",
+                            "fastestLap": "1:21.500",
+                            "lap_of_fastestLap": "67"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "john_m_wyatt_iii",
+                        "fastest_lap": "1:21.500"
+                    }
+                }
+            }
+        }
+    }
+}

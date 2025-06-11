@@ -1,0 +1,133 @@
+{
+    "firstName": "Jacques",
+    "lastName": "Pollet",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "laps": "91",
+                            "gap": "9 Laps",
+                            "interval": "4 Laps",
+                            "speed": "95.484"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "gap": "+ 8.300",
+                            "interval": "+ 2.100",
+                            "speed": "103.491"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 8.600",
+                            "interval": "+ 2.600"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "90",
+                            "gap": "10 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 13.400",
+                            "interval": "+ 0.100"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "26"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "8"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "48",
+                            "gap": "+ 9.300",
+                            "interval": "+ 1.300"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "48",
+                            "laps": "37"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "equipe_gordini",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

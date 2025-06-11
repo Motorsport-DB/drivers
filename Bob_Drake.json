@@ -1,0 +1,37 @@
+{
+    "firstName": "Bob",
+    "lastName": "Drake",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 10.000",
+                            "interval": "+ 1.000"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "joe_lubin",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "68",
+                            "gap": "7 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "2:09.200",
+                            "lap_of_fastestLap": "15"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "joe_lubin",
+                        "fastest_lap": "2:09.200"
+                    }
+                }
+            }
+        }
+    }
+}

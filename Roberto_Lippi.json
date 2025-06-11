@@ -1,0 +1,79 @@
+{
+    "firstName": "Roberto",
+    "lastName": "Lippi",
+    "seasons": {
+        "1963": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "gap": "+ 26.600",
+                            "interval": "+ 10.200"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "scuderia_settecolli",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1962": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "50",
+                            "gap": "+ 18.250",
+                            "interval": "+ 0.900"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "scuderia_settecolli",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "50"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "scuderia_settecolli",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1961": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "52",
+                            "gap": "+ 22.600",
+                            "interval": "+ 0.800"
+                        },
+                        "position": "32",
+                        "points": 0,
+                        "team": "scuderia_settecolli",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "52",
+                            "laps": "1",
+                            "speed": "152.9",
+                            "fastestLap": "3:55.500",
+                            "lap_of_fastestLap": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_settecolli",
+                        "fastest_lap": "3:55.500"
+                    }
+                }
+            }
+        }
+    }
+}

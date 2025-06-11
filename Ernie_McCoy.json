@@ -1,0 +1,66 @@
+{
+    "firstName": "Ernie",
+    "lastName": "McCoy",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 4.820",
+                            "interval": "+ 0.110",
+                            "speed": "222.765"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "ray_crawford",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "laps": "194",
+                            "gap": "6 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "ray_crawford",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 4.720",
+                            "interval": "+ 0.020"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "200",
+                            "gap": "+ 10:04.550",
+                            "interval": "+ 1:18.530",
+                            "speed": "198.601"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "h_a_chapman",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

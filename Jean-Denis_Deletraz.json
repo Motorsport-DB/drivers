@@ -1,0 +1,91 @@
+{
+    "firstName": "Jean-Denis",
+    "lastName": "Deletraz",
+    "seasons": {
+        "1995": {
+            "Formula_1": {
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "gap": "+ 12.232",
+                            "interval": "+ 5.246"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "pacific_grand_prix_ltd",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "laps": "14",
+                            "fastestLap": "1:34.445",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "pacific_grand_prix_ltd",
+                        "fastest_lap": "1:34.445"
+                    }
+                },
+                "European-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "gap": "+ 9.115",
+                            "interval": "+ 1.755"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "pacific_grand_prix_ltd",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "laps": "60",
+                            "gap": "7 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:31.253",
+                            "lap_of_fastestLap": "59"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "pacific_grand_prix_ltd",
+                        "fastest_lap": "1:31.253"
+                    }
+                }
+            }
+        },
+        "1994": {
+            "Formula_1": {
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 6.243",
+                            "interval": "+ 1.980"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "tourtel_larrousse_f1",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "56",
+                            "fastestLap": "1:23.929",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "tourtel_larrousse_f1",
+                        "fastest_lap": "1:23.929"
+                    }
+                }
+            }
+        }
+    }
+}

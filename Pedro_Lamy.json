@@ -1,0 +1,858 @@
+{
+    "firstName": "Pedro",
+    "lastName": "Lamy",
+    "seasons": {
+        "1996": {
+            "Formula_1": {
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 3.738",
+                            "interval": "+ 0.211"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "42",
+                            "speed": "176.63",
+                            "fastestLap": "1:38.784",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:38.784"
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 3.380",
+                            "interval": "+ 1.051"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "68",
+                            "gap": "3 Laps",
+                            "interval": "1 Lap",
+                            "speed": "160.348",
+                            "fastestLap": "1:23.559",
+                            "lap_of_fastestLap": "67"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:23.559"
+                    }
+                },
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 3.381",
+                            "interval": "+ 0.303"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "39",
+                            "speed": "152.441",
+                            "fastestLap": "1:32.958",
+                            "lap_of_fastestLap": "21"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:32.958"
+                    }
+                },
+                "European-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 4.198",
+                            "interval": "+ 0.218"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "65",
+                            "gap": "2 Laps",
+                            "interval": "+ 29.487",
+                            "speed": "188.911",
+                            "fastestLap": "1:24.369",
+                            "lap_of_fastestLap": "14"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:24.369"
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 3.581",
+                            "interval": "+ 0.482"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "61",
+                            "gap": "2 Laps",
+                            "interval": "+ 2:10.254",
+                            "speed": "184.603",
+                            "fastestLap": "1:31.897",
+                            "lap_of_fastestLap": "17"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:31.897"
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 2.994",
+                            "interval": "+ 0.666"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 4.624",
+                            "interval": "+ 0.806"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 3.203",
+                            "interval": "+ 0.303"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "44",
+                            "speed": "182.694",
+                            "fastestLap": "1:24.855",
+                            "lap_of_fastestLap": "35"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:24.855"
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 3.221",
+                            "interval": "+ 0.606"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "69",
+                            "gap": "3 Laps",
+                            "interval": "+ 46.960",
+                            "speed": "179.82",
+                            "fastestLap": "1:22.842",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:22.842"
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 4.579",
+                            "interval": "+ 0.089"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "21",
+                            "speed": "190.219",
+                            "fastestLap": "1:34.372",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:34.372"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 5.549",
+                            "interval": "+ 0.949"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "43",
+                            "gap": "2 Laps",
+                            "interval": "1 Lap",
+                            "speed": "214.285",
+                            "fastestLap": "1:51.654",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:51.654"
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 4.584",
+                            "interval": "+ 0.123"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "24",
+                            "speed": "163.852",
+                            "fastestLap": "1:25.006",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:25.006"
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 6.256",
+                            "interval": "+ 0.544"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "43",
+                            "gap": "1 Lap",
+                            "interval": "+ 17.068",
+                            "speed": "202.789",
+                            "fastestLap": "1:57.468",
+                            "lap_of_fastestLap": "36"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:57.468"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 4.729",
+                            "interval": "+ 0.461"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "12",
+                            "speed": "221.09",
+                            "fastestLap": "1:31.353",
+                            "lap_of_fastestLap": "9"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:31.353"
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 4.180",
+                            "interval": "+ 0.217"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "65",
+                            "gap": "5 Laps",
+                            "interval": "+ 31.763",
+                            "speed": "168.212",
+                            "fastestLap": "1:27.754",
+                            "lap_of_fastestLap": "48"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:27.754"
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 5.965",
+                            "interval": "+ 1.491"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "laps": "50",
+                            "gap": "2 Laps",
+                            "interval": "1 Lap",
+                            "speed": "189.026",
+                            "fastestLap": "1:49.220",
+                            "lap_of_fastestLap": "18"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "minardi_team",
+                        "fastest_lap": "1:49.220"
+                    }
+                }
+            }
+        },
+        "1995": {
+            "Formula_1": {
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 4.174",
+                            "interval": "+ 0.254"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "74",
+                            "gap": "3 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:24.269",
+                            "lap_of_fastestLap": "16"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:24.269"
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 4.864",
+                            "interval": "+ 0.177"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "44",
+                            "gap": "+ 1:19.789",
+                            "interval": "+ 13.619",
+                            "fastestLap": "1:58.312",
+                            "lap_of_fastestLap": "17"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:58.312"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 5.474",
+                            "interval": "+ 0.377"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 4.120",
+                            "interval": "+ 0.370"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "7",
+                            "fastestLap": "1:27.779",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:27.779"
+                    }
+                },
+                "European-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 4.590",
+                            "interval": "+ 0.270"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "64",
+                            "gap": "3 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:26.832",
+                            "lap_of_fastestLap": "59"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:26.832"
+                    }
+                },
+                "Pacific-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 2.583",
+                            "interval": "+ 0.077"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "80",
+                            "gap": "3 Laps",
+                            "fastestLap": "1:20.055",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:20.055"
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 5.079",
+                            "interval": "+ 0.190"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "51",
+                            "gap": "2 Laps",
+                            "fastestLap": "1:46.954",
+                            "lap_of_fastestLap": "44"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:46.954"
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 3.370",
+                            "interval": "+ 0.047"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "78",
+                            "gap": "3 Laps",
+                            "fastestLap": "1:21.677",
+                            "lap_of_fastestLap": "48"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "minardi_scuderia_italia",
+                        "fastest_lap": "1:21.677"
+                    }
+                }
+            }
+        },
+        "1994": {
+            "Formula_1": {
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 4.013",
+                            "interval": "+ 0.451"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "68",
+                            "gap": "3 Laps",
+                            "fastestLap": "1:23.234",
+                            "lap_of_fastestLap": "11"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:23.234"
+                    }
+                },
+                "Pacific-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 4.439",
+                            "interval": "+ 0.233"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "79",
+                            "gap": "4 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:18.527",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:18.527"
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 3.747",
+                            "interval": "+ 0.061"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 5.298",
+                            "interval": "+ 0.833"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "73",
+                            "gap": "5 Laps",
+                            "interval": "2 Laps",
+                            "fastestLap": "1:26.339",
+                            "lap_of_fastestLap": "42"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:26.339"
+                    }
+                }
+            }
+        },
+        "1993": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 5.145",
+                            "interval": "+ 0.367"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "49",
+                            "gap": "4 Laps",
+                            "interval": "2 Laps",
+                            "speed": "229.06",
+                            "fastestLap": "1:29.209",
+                            "lap_of_fastestLap": "32"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:29.209"
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 4.426",
+                            "interval": "+ 0.016"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "61",
+                            "speed": "193.664",
+                            "fastestLap": "1:17.758",
+                            "lap_of_fastestLap": "59"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:17.758"
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 4.446",
+                            "interval": "+ 0.112"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "49",
+                            "gap": "4 Laps",
+                            "interval": "2 Laps",
+                            "speed": "177.57",
+                            "fastestLap": "1:45.389",
+                            "lap_of_fastestLap": "49"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:45.389"
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 5.998",
+                            "interval": "+ 1.615"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "firstName": "Bobby",
+    "lastName": "Rahal",
+    "seasons": {
+        "1978": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "gap": "+ 4.315",
+                            "interval": "+ 0.250"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "walter_wolf_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "laps": "58",
+                            "gap": "1 Lap",
+                            "fastestLap": "1:43.983"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "walter_wolf_racing",
+                        "fastest_lap": "1:43.983"
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "gap": "+ 2.968",
+                            "interval": "+ 0.013"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "walter_wolf_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "laps": "16",
+                            "fastestLap": "1:41.552"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "walter_wolf_racing",
+                        "fastest_lap": "1:41.552"
+                    }
+                }
+            }
+        }
+    }
+}

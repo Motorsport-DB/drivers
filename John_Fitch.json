@@ -1,0 +1,62 @@
+{
+    "firstName": "John",
+    "lastName": "Fitch",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "gap": "+ 16.600",
+                            "interval": "+ 3.200"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "stirling_moss_ltd",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "46",
+                            "gap": "4 Laps",
+                            "interval": "1 Lap"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "stirling_moss_ltd",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "gap": "+ 15.400",
+                            "interval": "+ 3.100"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "hw_motors",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "14"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hw_motors",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "firstName": "Günther",
+    "lastName": "Bechem",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "41",
+                            "gap": "+ 2:13.500",
+                            "interval": "+ 14.000",
+                            "speed": "111.981"
+                        },
+                        "position": "30",
+                        "points": 0,
+                        "team": "guenther_bechem",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "41",
+                            "laps": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "guenther_bechem",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "130"
+                        },
+                        "position": "30",
+                        "points": 0,
+                        "team": "bernd_nacke",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "130",
+                            "laps": "5"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "bernd_nacke",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

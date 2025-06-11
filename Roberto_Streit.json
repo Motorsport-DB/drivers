@@ -2,6 +2,77 @@
     "firstName": "Roberto",
     "lastName": "Streit",
     "seasons": {
+        "2006": {
+            "Formula3_Euro_Series_F3EURO": {
+                "Hockenheim-2": {
+                    "Starting Grid 2": {
+                        "other_info": {
+                            "carNumber": "19"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "prema_powerteam",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "24",
+                            "gap": "+ 2.029",
+                            "interval": "+ 0.090",
+                            "speed": "146.047"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "prema_powerteam",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "16",
+                            "gap": "+ 0.726",
+                            "interval": "+ 0.013",
+                            "speed": "172.886"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "prema_powerteam",
+                        "fastest_lap": ""
+                    },
+                    "Race 1": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "22",
+                            "gap": "+ 12.665",
+                            "interval": "+ 3.049",
+                            "speed": "170.567",
+                            "fastestLap": "1:35.634",
+                            "lap_of_fastestLap": "21"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "prema_powerteam",
+                        "fastest_lap": "1:35.634"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "18",
+                            "gap": "+ 11.751",
+                            "interval": "+ 5.487",
+                            "speed": "170.445",
+                            "fastestLap": "1:35.347",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "prema_powerteam",
+                        "fastest_lap": "1:35.347"
+                    }
+                }
+            }
+        },
         "2004": {
             "Formula3_Euro_Series_F3EURO": {
                 "Hockenheim": {
@@ -786,77 +857,6 @@
                         "points": 0,
                         "team": "prema_powerteam",
                         "fastest_lap": "1:35.103"
-                    }
-                }
-            }
-        },
-        "2006": {
-            "Formula3_Euro_Series_F3EURO": {
-                "Hockenheim-2": {
-                    "Starting Grid 2": {
-                        "other_info": {
-                            "carNumber": "19"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "prema_powerteam",
-                        "fastest_lap": ""
-                    },
-                    "Free Practice": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "24",
-                            "gap": "+ 2.029",
-                            "interval": "+ 0.090",
-                            "speed": "146.047"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "prema_powerteam",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "16",
-                            "gap": "+ 0.726",
-                            "interval": "+ 0.013",
-                            "speed": "172.886"
-                        },
-                        "position": "12",
-                        "points": 0,
-                        "team": "prema_powerteam",
-                        "fastest_lap": ""
-                    },
-                    "Race 1": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "22",
-                            "gap": "+ 12.665",
-                            "interval": "+ 3.049",
-                            "speed": "170.567",
-                            "fastestLap": "1:35.634",
-                            "lap_of_fastestLap": "21"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "prema_powerteam",
-                        "fastest_lap": "1:35.634"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "19",
-                            "laps": "18",
-                            "gap": "+ 11.751",
-                            "interval": "+ 5.487",
-                            "speed": "170.445",
-                            "fastestLap": "1:35.347",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "prema_powerteam",
-                        "fastest_lap": "1:35.347"
                     }
                 }
             }

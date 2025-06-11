@@ -1,0 +1,59 @@
+{
+    "firstName": "Dennis",
+    "lastName": "Poore",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "6",
+                            "gap": "+ 6.000"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "connaught_engineering",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "6",
+                            "laps": "83",
+                            "gap": "2 Laps"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "connaught_engineering",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "30",
+                            "gap": "+ 8.300",
+                            "interval": "+ 1.000",
+                            "speed": "169.253"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "connaught_engineering",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "30",
+                            "laps": "74",
+                            "gap": "6 Laps",
+                            "interval": "1 Lap"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "connaught_engineering",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "firstName": "Walt",
+    "lastName": "Faulkner",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "77",
+                            "gap": "+ 0.520",
+                            "interval": "+ 0.780"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "merz_engineering_inc",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 2.420",
+                            "interval": "+ 0.280"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "eugene_a_casaroll",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "2"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "j_c_agajanian",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "laps": "123"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "j_c_agajanian",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "speed": "216.206"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "j_c_agajanian",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "135",
+                            "gap": "3 Laps",
+                            "interval": "1 Lap",
+                            "speed": "194.883"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "j_c_agajanian",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "firstName": "Piero",
+    "lastName": "Carini",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "gap": "+ 8.500",
+                            "interval": "+ 1.100"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "40"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "gap": "+ 22.900",
+                            "interval": "+ 1.700"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "scuderia_marzotto",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_marzotto",
+                        "fastest_lap": ""
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "104"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "scuderia_marzotto",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "104",
+                            "laps": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_marzotto",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

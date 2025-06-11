@@ -1,0 +1,60 @@
+{
+    "firstName": "Gene",
+    "lastName": "Force",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "37",
+                            "gap": "+ 5.340",
+                            "interval": "+ 0.670"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "roy_mckay",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "37",
+                            "laps": "74"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "roy_mckay",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "69",
+                            "gap": "+ 6.730",
+                            "interval": "+ 0.510"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "brown_motor_co",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "69",
+                            "laps": "142"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "brown_motor_co",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

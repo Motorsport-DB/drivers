@@ -1,0 +1,58 @@
+{
+    "firstName": "Chet",
+    "lastName": "Miller",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "lewis_w_welch",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "laps": "41"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lewis_w_welch",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 1.360",
+                            "interval": "+ 1.360"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "jean_marcenac",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "laps": "56"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "jean_marcenac",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

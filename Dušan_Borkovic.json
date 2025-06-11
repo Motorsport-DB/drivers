@@ -2,6 +2,150 @@
     "firstName": "Dušan",
     "lastName": "Borkovic",
     "seasons": {
+        "2015": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-argentina": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "10",
+                            "gap": "+ 2.303",
+                            "interval": "+ 0.114",
+                            "speed": "148.594",
+                            "fastestLap": "1:47.882"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": "1:47.882"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "9",
+                            "gap": "+ 2.134",
+                            "interval": "+ 0.331",
+                            "speed": "157.055"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "12",
+                            "gap": "+ 3.173",
+                            "interval": "+ 0.628",
+                            "speed": "157.628"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "5",
+                            "gap": "+ 1.565",
+                            "interval": "+ 0.405",
+                            "speed": "159.545"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "13",
+                            "gap": "+ 34.387",
+                            "interval": "+ 4.121",
+                            "speed": "155.819",
+                            "fastestLap": "1:49.649",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": "1:49.649"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "8",
+                            "speed": "128.286",
+                            "fastestLap": "1:50.302",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": "1:50.302"
+                    }
+                },
+                "Race-of-morocco": {
+                    "Testing": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "13",
+                            "speed": "152.74",
+                            "fastestLap": "1:45.272"
+                        },
+                        "position": "WIT",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": "1:45.272"
+                    },
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "13",
+                            "speed": "155.43"
+                        },
+                        "position": "WIT",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "11",
+                            "speed": "155.613"
+                        },
+                        "position": "WIT",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": ""
+                    },
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "12",
+                            "speed": "155.699"
+                        },
+                        "position": "WIT",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "fastestLap": "1:45.272"
+                        },
+                        "position": "WIT",
+                        "points": 0,
+                        "team": "proteam_racing",
+                        "fastest_lap": "1:45.272"
+                    }
+                }
+            }
+        },
         "2014": {
             "World_Touring_Car_Championship_WTCC": {
                 "Race-of-morocco": {
@@ -863,150 +1007,6 @@
                         "points": 0,
                         "team": "nis_petrol_by_campos_racing",
                         "fastest_lap": "2:09.928"
-                    }
-                }
-            }
-        },
-        "2015": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-argentina": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "10",
-                            "gap": "+ 2.303",
-                            "interval": "+ 0.114",
-                            "speed": "148.594",
-                            "fastestLap": "1:47.882"
-                        },
-                        "position": "10",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": "1:47.882"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "9",
-                            "gap": "+ 2.134",
-                            "interval": "+ 0.331",
-                            "speed": "157.055"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "12",
-                            "gap": "+ 3.173",
-                            "interval": "+ 0.628",
-                            "speed": "157.628"
-                        },
-                        "position": "18",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "5",
-                            "gap": "+ 1.565",
-                            "interval": "+ 0.405",
-                            "speed": "159.545"
-                        },
-                        "position": "13",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "13",
-                            "gap": "+ 34.387",
-                            "interval": "+ 4.121",
-                            "speed": "155.819",
-                            "fastestLap": "1:49.649",
-                            "lap_of_fastestLap": "5"
-                        },
-                        "position": "11",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": "1:49.649"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "8",
-                            "speed": "128.286",
-                            "fastestLap": "1:50.302",
-                            "lap_of_fastestLap": "7"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": "1:50.302"
-                    }
-                },
-                "Race-of-morocco": {
-                    "Testing": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "13",
-                            "speed": "152.74",
-                            "fastestLap": "1:45.272"
-                        },
-                        "position": "WIT",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": "1:45.272"
-                    },
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "13",
-                            "speed": "155.43"
-                        },
-                        "position": "WIT",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "11",
-                            "speed": "155.613"
-                        },
-                        "position": "WIT",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": ""
-                    },
-                    "1st Qualifying": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "laps": "12",
-                            "speed": "155.699"
-                        },
-                        "position": "WIT",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "98",
-                            "fastestLap": "1:45.272"
-                        },
-                        "position": "WIT",
-                        "points": 0,
-                        "team": "proteam_racing",
-                        "fastest_lap": "1:45.272"
                     }
                 }
             }

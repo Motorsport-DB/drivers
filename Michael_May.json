@@ -1,0 +1,75 @@
+{
+    "firstName": "Michael",
+    "lastName": "May",
+    "seasons": {
+        "1961": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "gap": "+ 2.900",
+                            "interval": "+ 0.900"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "scuderia_colonia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "laps": "42",
+                            "fastestLap": "1:45.100",
+                            "lap_of_fastestLap": "22"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_colonia",
+                        "fastest_lap": "1:45.100"
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "gap": "+ 13.000",
+                            "interval": "+ 1.100"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "scuderia_colonia",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "laps": "48",
+                            "gap": "4 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "2:40.700",
+                            "lap_of_fastestLap": "47"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "scuderia_colonia",
+                        "fastest_lap": "2:40.700"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 1:42.300",
+                            "interval": "+ 14.500"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "scuderia_colonia",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

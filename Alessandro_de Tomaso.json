@@ -1,0 +1,62 @@
+{
+    "firstName": "Alessandro",
+    "lastName": "de Tomaso",
+    "seasons": {
+        "1959": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "gap": "+ 28.000",
+                            "interval": "+ 0.700"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "automobili_osca",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "14",
+                            "laps": "13"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "automobili_osca",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1957": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 13.500",
+                            "interval": "+ 7.500"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "scuderia_centro_sud",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "91",
+                            "gap": "9 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "scuderia_centro_sud",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

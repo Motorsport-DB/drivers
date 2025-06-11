@@ -1,0 +1,59 @@
+{
+    "firstName": "Mike",
+    "lastName": "Taylor",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "taylor-crawley_racing_team",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "20"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "taylor-crawley_racing_team",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "50",
+                            "gap": "+ 9.000",
+                            "interval": "+ 0.800"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "alan_brown_equipe",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "50",
+                            "laps": "17",
+                            "fastestLap": "2:11.000",
+                            "lap_of_fastestLap": "15"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "alan_brown_equipe",
+                        "fastest_lap": "2:11.000"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "firstName": "Helmuth",
+    "lastName": "Koinigg",
+    "seasons": {
+        "1974": {
+            "Formula_1": {
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 5.200",
+                            "interval": "+ 0.500"
+                        },
+                        "position": "31",
+                        "points": 0,
+                        "team": "scuderia_finotto",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "scuderia_finotto",
+                        "fastest_lap": ""
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "gap": "+ 2.480",
+                            "interval": "+ 0.007"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "bang_and_olufsen_team_surtees",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "78",
+                            "gap": "2 Laps",
+                            "interval": "1 Lap",
+                            "speed": "184.096",
+                            "fastestLap": "1:15.882"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "bang_and_olufsen_team_surtees",
+                        "fastest_lap": "1:15.882"
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "gap": "+ 2.785",
+                            "interval": "+ 0.263"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "bang_and_olufsen_team_surtees",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "19",
+                            "laps": "9"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "bang_and_olufsen_team_surtees",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

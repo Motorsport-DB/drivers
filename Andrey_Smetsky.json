@@ -2,81 +2,6 @@
     "firstName": "Andrey",
     "lastName": "Smetsky",
     "seasons": {
-        "2007": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-sweden": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "55",
-                            "laps": "15",
-                            "gap": "+ 5.585",
-                            "interval": "+ 3.193",
-                            "speed": "136.485"
-                        },
-                        "position": "28",
-                        "points": 0,
-                        "team": "golden_motors",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "55",
-                            "laps": "10",
-                            "gap": "+ 9.934",
-                            "interval": "+ 5.654",
-                            "speed": "120.76"
-                        },
-                        "position": "28",
-                        "points": 0,
-                        "team": "golden_motors",
-                        "fastest_lap": ""
-                    },
-                    "Warm Up": {
-                        "other_info": {
-                            "carNumber": "55",
-                            "laps": "6",
-                            "gap": "+ 8.739",
-                            "interval": "+ 3.925",
-                            "speed": "120.468"
-                        },
-                        "position": "27",
-                        "points": 0,
-                        "team": "golden_motors",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "55",
-                            "laps": "12",
-                            "gap": "+ 23.620",
-                            "interval": "+ 3.803",
-                            "speed": "119.478",
-                            "fastestLap": "1:58.123",
-                            "lap_of_fastestLap": "7"
-                        },
-                        "position": "26",
-                        "points": 0,
-                        "team": "golden_motors",
-                        "fastest_lap": "1:58.123"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "55",
-                            "laps": "13",
-                            "gap": "+ 1:44.258",
-                            "interval": "+ 49.952",
-                            "speed": "123.49",
-                            "fastestLap": "1:53.576",
-                            "lap_of_fastestLap": "12"
-                        },
-                        "position": "27",
-                        "points": 0,
-                        "team": "golden_motors",
-                        "fastest_lap": "1:53.576"
-                    }
-                }
-            }
-        },
         "2008": {
             "World_Touring_Car_Championship_WTCC": {
                 "Race-of-spain": {
@@ -245,6 +170,81 @@
                         "points": 0,
                         "team": "golden_motors",
                         "fastest_lap": "2:23.791"
+                    }
+                }
+            }
+        },
+        "2007": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-sweden": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "55",
+                            "laps": "15",
+                            "gap": "+ 5.585",
+                            "interval": "+ 3.193",
+                            "speed": "136.485"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "golden_motors",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "55",
+                            "laps": "10",
+                            "gap": "+ 9.934",
+                            "interval": "+ 5.654",
+                            "speed": "120.76"
+                        },
+                        "position": "28",
+                        "points": 0,
+                        "team": "golden_motors",
+                        "fastest_lap": ""
+                    },
+                    "Warm Up": {
+                        "other_info": {
+                            "carNumber": "55",
+                            "laps": "6",
+                            "gap": "+ 8.739",
+                            "interval": "+ 3.925",
+                            "speed": "120.468"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "golden_motors",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "55",
+                            "laps": "12",
+                            "gap": "+ 23.620",
+                            "interval": "+ 3.803",
+                            "speed": "119.478",
+                            "fastestLap": "1:58.123",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "golden_motors",
+                        "fastest_lap": "1:58.123"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "55",
+                            "laps": "13",
+                            "gap": "+ 1:44.258",
+                            "interval": "+ 49.952",
+                            "speed": "123.49",
+                            "fastestLap": "1:53.576",
+                            "lap_of_fastestLap": "12"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "golden_motors",
+                        "fastest_lap": "1:53.576"
                     }
                 }
             }

@@ -1,0 +1,112 @@
+{
+    "firstName": "Hans",
+    "lastName": "Von Stuck",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "gap": "+ 1:37.400",
+                            "interval": "+ 9.800",
+                            "speed": "117.779"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "hans_stuck",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "21"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hans_stuck",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "48",
+                            "gap": "+ 21.400",
+                            "interval": "+ 3.300"
+                        },
+                        "position": "29",
+                        "points": 0,
+                        "team": "hans_stuck",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "48",
+                            "laps": "67",
+                            "gap": "13 Laps",
+                            "interval": "3 Laps",
+                            "speed": "147.9"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "hans_stuck",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "gap": "+ 14.200",
+                            "interval": "+ 0.800"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "afm",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "2",
+                            "laps": "4"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "afm",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "1st Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 2:22.800",
+                            "interval": "+ 1.800",
+                            "speed": "158.8"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "ecurie_espadon",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "20",
+                            "gap": "+ 17.100",
+                            "interval": "+ 1.800",
+                            "speed": "158.823"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "ecurie_espadon",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "firstName": "Noritake",
+    "lastName": "Takahara",
+    "seasons": {
+        "1977": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "gap": "+ 2.130",
+                            "interval": "+ 0.100"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "kojima_engineering",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "kojima_engineering",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1976": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "gap": "+ 3.000",
+                            "interval": "+ 0.470"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "team_surtees",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "18",
+                            "laps": "70",
+                            "gap": "3 Laps",
+                            "interval": "2 Laps"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "team_surtees",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

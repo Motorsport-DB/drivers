@@ -1,0 +1,35 @@
+{
+    "firstName": "Jim",
+    "lastName": "Rigsby",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "29",
+                            "gap": "+ 8.000",
+                            "interval": "+ 0.100"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "bob_estes",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "29",
+                            "laps": "200",
+                            "gap": "+ 16:05.100",
+                            "interval": "+ 1:43.380"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "bob_estes",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

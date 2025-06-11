@@ -1,0 +1,60 @@
+{
+    "firstName": "Bob",
+    "lastName": "Scott",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "29",
+                            "gap": "+ 1.820",
+                            "interval": "+ 0.070"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "louis_and_bruce_bromme",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "29",
+                            "laps": "14"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "louis_and_bruce_bromme",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "93",
+                            "gap": "+ 7.900",
+                            "interval": "+ 0.040"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "ludson_d_morris",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "93",
+                            "laps": "49"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "ludson_d_morris",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

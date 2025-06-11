@@ -2,6 +2,168 @@
     "firstName": "Alessandro",
     "lastName": "Balzan",
     "seasons": {
+        "2006": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-italy": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "9",
+                            "gap": "+ 1.654",
+                            "interval": "+ 0.110",
+                            "speed": "170.325"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "db_motorsport_-_antonelli_sport",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "11",
+                            "gap": "+ 0.931",
+                            "interval": "+ 0.018",
+                            "speed": "170.524"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "db_motorsport_-_antonelli_sport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "11",
+                            "gap": "+ 1.630",
+                            "interval": "+ 0.177",
+                            "speed": "171.103"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "db_motorsport_-_antonelli_sport",
+                        "fastest_lap": ""
+                    },
+                    "Warm Up": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "7",
+                            "gap": "+ 0.620",
+                            "interval": "+ 0.035",
+                            "speed": "170.679"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "db_motorsport_-_antonelli_sport",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "11",
+                            "gap": "+ 14.480",
+                            "interval": "+ 1.572",
+                            "speed": "146.462",
+                            "fastestLap": "2:03.536",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "db_motorsport_-_antonelli_sport",
+                        "fastest_lap": "2:03.536"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "9",
+                            "gap": "+ 3.924",
+                            "interval": "+ 1.344",
+                            "speed": "166.387",
+                            "fastestLap": "2:02.700",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "db_motorsport_-_antonelli_sport",
+                        "fastest_lap": "2:02.700"
+                    }
+                },
+                "Race-of-france": {
+                    "1st Practice": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "12",
+                            "speed": "141.987"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "db_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "2nd Practice": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "8",
+                            "speed": "141.582"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "db_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "9",
+                            "speed": "143.429"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "db_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Warm Up": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "9",
+                            "speed": "142.403"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "db_motorsport",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "4",
+                            "speed": "136.715",
+                            "fastestLap": "1:53.534",
+                            "lap_of_fastestLap": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "db_motorsport",
+                        "fastest_lap": "1:53.534"
+                    },
+                    "Race 2": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "12",
+                            "gap": "+ 40.556",
+                            "interval": "+ 0.894",
+                            "speed": "138.111",
+                            "fastestLap": "1:53.134",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "db_motorsport",
+                        "fastest_lap": "1:53.134"
+                    }
+                }
+            }
+        },
         "2005": {
             "World_Touring_Car_Championship_WTCC": {
                 "Race-of-italy": {
@@ -238,168 +400,6 @@
                         "points": 0,
                         "team": "alessandro_balzan",
                         "fastest_lap": "2:01.792"
-                    }
-                }
-            }
-        },
-        "2006": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-italy": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "9",
-                            "gap": "+ 1.654",
-                            "interval": "+ 0.110",
-                            "speed": "170.325"
-                        },
-                        "position": "21",
-                        "points": 0,
-                        "team": "db_motorsport_-_antonelli_sport",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "11",
-                            "gap": "+ 0.931",
-                            "interval": "+ 0.018",
-                            "speed": "170.524"
-                        },
-                        "position": "18",
-                        "points": 0,
-                        "team": "db_motorsport_-_antonelli_sport",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "11",
-                            "gap": "+ 1.630",
-                            "interval": "+ 0.177",
-                            "speed": "171.103"
-                        },
-                        "position": "22",
-                        "points": 0,
-                        "team": "db_motorsport_-_antonelli_sport",
-                        "fastest_lap": ""
-                    },
-                    "Warm Up": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "7",
-                            "gap": "+ 0.620",
-                            "interval": "+ 0.035",
-                            "speed": "170.679"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "db_motorsport_-_antonelli_sport",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "11",
-                            "gap": "+ 14.480",
-                            "interval": "+ 1.572",
-                            "speed": "146.462",
-                            "fastestLap": "2:03.536",
-                            "lap_of_fastestLap": "7"
-                        },
-                        "position": "9",
-                        "points": 0,
-                        "team": "db_motorsport_-_antonelli_sport",
-                        "fastest_lap": "2:03.536"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "9",
-                            "gap": "+ 3.924",
-                            "interval": "+ 1.344",
-                            "speed": "166.387",
-                            "fastestLap": "2:02.700",
-                            "lap_of_fastestLap": "5"
-                        },
-                        "position": "4",
-                        "points": 0,
-                        "team": "db_motorsport_-_antonelli_sport",
-                        "fastest_lap": "2:02.700"
-                    }
-                },
-                "Race-of-france": {
-                    "1st Practice": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "12",
-                            "speed": "141.987"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "db_motorsport",
-                        "fastest_lap": ""
-                    },
-                    "2nd Practice": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "8",
-                            "speed": "141.582"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "db_motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "9",
-                            "speed": "143.429"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "db_motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Warm Up": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "9",
-                            "speed": "142.403"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "db_motorsport",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "4",
-                            "speed": "136.715",
-                            "fastestLap": "1:53.534",
-                            "lap_of_fastestLap": "3"
-                        },
-                        "position": "DNF",
-                        "points": 0,
-                        "team": "db_motorsport",
-                        "fastest_lap": "1:53.534"
-                    },
-                    "Race 2": {
-                        "other_info": {
-                            "carNumber": "51",
-                            "laps": "12",
-                            "gap": "+ 40.556",
-                            "interval": "+ 0.894",
-                            "speed": "138.111",
-                            "fastestLap": "1:53.134",
-                            "lap_of_fastestLap": "10"
-                        },
-                        "position": "17",
-                        "points": 0,
-                        "team": "db_motorsport",
-                        "fastest_lap": "1:53.134"
                     }
                 }
             }

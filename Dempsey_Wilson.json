@@ -1,0 +1,60 @@
+{
+    "firstName": "Dempsey",
+    "lastName": "Wilson",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 5.790",
+                            "interval": "+ 0.260"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "j_s_donaldson",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "11"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "j_s_donaldson",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1958": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "59",
+                            "gap": "+ 4.650",
+                            "interval": "+ 0.290"
+                        },
+                        "position": "32",
+                        "points": 0,
+                        "team": "bob_sorenson",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "59",
+                            "laps": "151"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "bob_sorenson",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

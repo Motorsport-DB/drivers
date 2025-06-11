@@ -1,0 +1,85 @@
+{
+    "firstName": "Paul",
+    "lastName": "Pietsch",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "127",
+                            "gap": "+ 51.900",
+                            "interval": "+ 14.400",
+                            "speed": "125.119"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "motor_press_verlag",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "127",
+                            "laps": "1"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "motor_press_verlag",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "78",
+                            "gap": "+ 19.900",
+                            "interval": "+ 2.800"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "alfa_romeo_spa",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "78",
+                            "laps": "11"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "alfa_romeo_spa",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "28"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "paul_pietsch",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "28"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "paul_pietsch",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

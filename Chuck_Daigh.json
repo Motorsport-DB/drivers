@@ -1,0 +1,129 @@
+{
+    "firstName": "Chuck",
+    "lastName": "Daigh",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "gap": "+ 10.700",
+                            "interval": "+ 5.400"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "22"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "30",
+                            "gap": "+ 28.500",
+                            "interval": "+ 0.900"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "30",
+                            "laps": "16"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "gap": "+ 7.800",
+                            "interval": "+ 1.200"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "cooper_car_co",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "58",
+                            "fastestLap": "1:37.800",
+                            "lap_of_fastestLap": "7"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "cooper_car_co",
+                        "fastest_lap": "1:37.800"
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 7.200",
+                            "interval": "+ 0.400"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "70",
+                            "gap": "5 Laps",
+                            "interval": "2 Laps",
+                            "fastestLap": "2:05.000",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": "2:05.000"
+                    }
+                }
+            }
+        }
+    }
+}

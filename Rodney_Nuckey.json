@@ -1,0 +1,61 @@
+{
+    "firstName": "Rodney",
+    "lastName": "Nuckey",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "30"
+                        },
+                        "position": "32",
+                        "points": 0,
+                        "team": "ecurie_richmond",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "30"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "ecurie_richmond",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "gap": "+ 1:22.300",
+                            "interval": "+ 3.200",
+                            "speed": "120.387"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "rodney_nuckey",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "40",
+                            "laps": "16",
+                            "gap": "2 Laps",
+                            "interval": "1 Lap",
+                            "speed": "116.635"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "rodney_nuckey",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

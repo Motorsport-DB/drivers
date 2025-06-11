@@ -1,0 +1,35 @@
+{
+    "firstName": "John",
+    "lastName": "Cordts",
+    "seasons": {
+        "1969": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 12.300",
+                            "interval": "+ 1.000"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "paul_seitz",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "10",
+                            "fastestLap": "1:31.200",
+                            "lap_of_fastestLap": "5"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "paul_seitz",
+                        "fastest_lap": "1:31.200"
+                    }
+                }
+            }
+        }
+    }
+}

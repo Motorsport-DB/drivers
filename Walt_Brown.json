@@ -1,0 +1,63 @@
+{
+    "firstName": "Walt",
+    "lastName": "Brown",
+    "seasons": {
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "gap": "+ 9.180",
+                            "interval": "+ 2.240"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "federal_engineering_association",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "44",
+                            "laps": "55"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "federal_engineering_association",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "gap": "+ 7.990",
+                            "interval": "+ 0.710",
+                            "speed": "209.946"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "charles_pritchard",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "laps": "127",
+                            "gap": "11 Laps",
+                            "interval": "1 Lap"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "charles_pritchard",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

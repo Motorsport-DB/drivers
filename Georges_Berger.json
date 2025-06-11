@@ -1,0 +1,59 @@
+{
+    "firstName": "Georges",
+    "lastName": "Berger",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "30"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "georges_berger",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "30",
+                            "laps": "9"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "georges_berger",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "gap": "+ 1:28.000",
+                            "interval": "+ 17.000",
+                            "speed": "141.988"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "georges_berger",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "3"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "georges_berger",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

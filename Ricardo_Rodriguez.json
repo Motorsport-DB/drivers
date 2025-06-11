@@ -1,0 +1,101 @@
+{
+    "firstName": "Ricardo",
+    "lastName": "Rodriguez",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "Dutch-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "73",
+                            "fastestLap": "1:36.400",
+                            "lap_of_fastestLap": "67"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari_spa_sefac",
+                        "fastest_lap": "1:36.400"
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "-40"
+                        },
+                        "position": "DNS",
+                        "points": 0,
+                        "team": "scuderia_ferrari_spa_sefac",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "12",
+                            "laps": "32",
+                            "gap": "+ 2:06.600",
+                            "interval": "+ 0.100",
+                            "fastestLap": "4:00.200",
+                            "lap_of_fastestLap": "8"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "scuderia_ferrari_spa_sefac",
+                        "fastest_lap": "4:00.200"
+                    }
+                },
+                "German-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "3",
+                            "laps": "15",
+                            "gap": "+ 1:23.800",
+                            "interval": "+ 4.200",
+                            "fastestLap": "10:24.400",
+                            "lap_of_fastestLap": "15"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "scuderia_ferrari_spa_sefac",
+                        "fastest_lap": "10:24.400"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "4",
+                            "laps": "63",
+                            "gap": "23 Laps",
+                            "interval": "3 Laps",
+                            "fastestLap": "1:43.600",
+                            "lap_of_fastestLap": "13"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "scuderia_ferrari_spa_sefac",
+                        "fastest_lap": "1:43.600"
+                    }
+                }
+            }
+        },
+        "1961": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "laps": "13",
+                            "fastestLap": "2:49.800",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_ferrari_spa_sefac",
+                        "fastest_lap": "2:49.800"
+                    }
+                }
+            }
+        }
+    }
+}

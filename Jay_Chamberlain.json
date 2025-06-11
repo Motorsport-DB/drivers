@@ -1,0 +1,82 @@
+{
+    "firstName": "Jay",
+    "lastName": "Chamberlain",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "gap": "+ 9.800",
+                            "interval": "+ 1.000"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "ecurie_excelsior",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "46",
+                            "laps": "64",
+                            "gap": "11 Laps",
+                            "interval": "5 Laps",
+                            "speed": "125.745",
+                            "fastestLap": "2:07.600",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "",
+                        "fastest_lap": "2:07.600"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "30",
+                            "gap": "+ 2:25.700",
+                            "interval": "+ 34.700"
+                        },
+                        "position": "29",
+                        "points": 0,
+                        "team": "ecurie_excelsior",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "30"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "ecurie_excelsior",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 19.350",
+                            "interval": "+ 1.100"
+                        },
+                        "position": "29",
+                        "points": 0,
+                        "team": "ecurie_excelsior",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "ecurie_excelsior",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

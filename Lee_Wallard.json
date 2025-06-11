@@ -1,0 +1,67 @@
+{
+    "firstName": "Lee",
+    "lastName": "Wallard",
+    "seasons": {
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "gap": "+ 2.850",
+                            "interval": "+ 2.850"
+                        },
+                        "position": "2",
+                        "points": 0,
+                        "team": "murrell_belanger",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "99",
+                            "laps": "200",
+                            "speed": "203.172",
+                            "fastestLap": "1:07.260",
+                            "lap_of_fastestLap": "23"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "murrell_belanger",
+                        "fastest_lap": "1:07.260"
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "gap": "+ 3.860",
+                            "interval": "+ 0.520",
+                            "speed": "213.136"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "lou_moore",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "8",
+                            "laps": "136",
+                            "gap": "2 Laps",
+                            "interval": "+ 1:01.970",
+                            "speed": "194.747"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "lou_moore",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

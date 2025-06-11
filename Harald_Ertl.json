@@ -1,0 +1,660 @@
+{
+    "firstName": "Harald",
+    "lastName": "Ertl",
+    "seasons": {
+        "1980": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "10",
+                            "gap": "+ 7.280",
+                            "interval": "+ 2.380"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "team_ats",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1978": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 4.350",
+                            "interval": "+ 0.040"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "sachs_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "41",
+                            "gap": "4 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:57.570"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "sachs_racing",
+                        "fastest_lap": "1:57.570"
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 3.890",
+                            "interval": "+ 0.020"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "sachs_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "laps": "7"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "sachs_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 4.640",
+                            "interval": "+ 0.310"
+                        },
+                        "position": "31",
+                        "points": 0,
+                        "team": "sachs_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "23",
+                            "gap": "+ 2.750",
+                            "interval": "+ 0.071"
+                        },
+                        "position": "29",
+                        "points": 0,
+                        "team": "sachs_racing",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1977": {
+            "Formula_1": {
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 2.460",
+                            "interval": "+ 0.110"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "laps": "29",
+                            "fastestLap": "1:23.980"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:23.980"
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 4.900",
+                            "interval": "+ 0.280"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 4.380",
+                            "interval": "+ 0.350"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "laps": "69",
+                            "gap": "1 Lap",
+                            "fastestLap": "1:29.670"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:29.670"
+                    }
+                },
+                "Swedish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 2.973",
+                            "interval": "+ 0.172"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "laps": "68",
+                            "gap": "4 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:30.364"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:30.364"
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 2.850",
+                            "interval": "+ 0.230"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1976": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 6.010",
+                            "interval": "+ 2.760"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "74",
+                            "gap": "4 Laps",
+                            "interval": "2 Laps",
+                            "fastestLap": "1:22.700",
+                            "lap_of_fastestLap": "54"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:22.700"
+                    }
+                },
+                "United-states-grand-prix-west": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 3.725",
+                            "interval": "+ 0.296"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 4.400",
+                            "interval": "+ 0.030"
+                        },
+                        "position": "29",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24"
+                        },
+                        "position": "DNQ",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 2.850",
+                            "interval": "+ 0.310"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "31",
+                            "fastestLap": "1:31.120"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:31.120"
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 4.280",
+                            "interval": "+ 0.200"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Swedish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 3.226",
+                            "interval": "+ 0.070"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "54"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 5.900",
+                            "interval": "+ 0.970"
+                        },
+                        "position": "27",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "4",
+                            "fastestLap": "1:57.300",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:57.300"
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 3.400",
+                            "interval": "+ 0.030"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "73",
+                            "gap": "3 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:23.740",
+                            "lap_of_fastestLap": "42"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:23.740"
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 23.500",
+                            "interval": "+ 1.200"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 4.070",
+                            "interval": "+ 0.730"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "53",
+                            "gap": "1 Lap",
+                            "interval": "1 Lap",
+                            "speed": "205.21",
+                            "fastestLap": "1:38.900"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:38.900"
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 3.060",
+                            "interval": "+ 0.280"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "49",
+                            "fastestLap": "1:25.360",
+                            "lap_of_fastestLap": "37"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:25.360"
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 3.210",
+                            "interval": "+ 0.150"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "49",
+                            "gap": "3 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:43.600",
+                            "lap_of_fastestLap": "47"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:43.600"
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 4.145",
+                            "interval": "+ 0.333"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 5.797",
+                            "interval": "+ 2.643"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "54",
+                            "gap": "5 Laps",
+                            "interval": "3 Laps",
+                            "fastestLap": "1:49.136",
+                            "lap_of_fastestLap": "23"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": "1:49.136"
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "gap": "+ 2.490",
+                            "interval": "+ 0.610"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "24",
+                            "laps": "72",
+                            "gap": "1 Lap"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "hesketh_racing",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1975": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 20.900",
+                            "interval": "+ 0.400"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "warsteiner_brewery",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "laps": "14",
+                            "gap": "+ 7:40.900",
+                            "interval": "+ 10.500",
+                            "speed": "176.1",
+                            "fastestLap": "7:25.000",
+                            "lap_of_fastestLap": "6"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "warsteiner_brewery",
+                        "fastest_lap": "7:25.000"
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 5.870",
+                            "interval": "+ 1.160"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "warsteiner_brewery",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "laps": "23"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "warsteiner_brewery",
+                        "fastest_lap": ""
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "gap": "+ 3.190",
+                            "interval": "+ 0.140"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "warsteiner_brewery",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "51",
+                            "gap": "1 Lap",
+                            "interval": "+ 24.600",
+                            "speed": "210.8",
+                            "fastestLap": "1:35.000",
+                            "lap_of_fastestLap": "35"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "warsteiner_brewery",
+                        "fastest_lap": "1:35.000"
+                    }
+                }
+            }
+        }
+    }
+}

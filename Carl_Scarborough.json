@@ -1,0 +1,50 @@
+{
+    "firstName": "Carl",
+    "lastName": "Scarborough",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "73",
+                            "gap": "+ 4.700",
+                            "interval": "+ 0.450"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "lee_elkins",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "73",
+                            "gap": "+ 1.720",
+                            "interval": "+ 2.440"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "lee_elkins",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "73",
+                            "laps": "100"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lee_elkins",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "firstName": "Hermann",
+    "lastName": "Lang",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "gap": "+ 23.000",
+                            "interval": "+ 1.200"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "daimler_benz_ag",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "laps": "10"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "daimler_benz_ag",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "gap": "+ 14.700",
+                            "interval": "+ 2.800",
+                            "speed": "149.931"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "officine_alfieri_maserati",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "34",
+                            "laps": "62",
+                            "gap": "3 Laps",
+                            "interval": "2 Laps",
+                            "speed": "148.523"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "officine_alfieri_maserati",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "firstName": "Bill",
+    "lastName": "Homeier",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "39",
+                            "gap": "+ 9.290",
+                            "interval": "+ 1.060"
+                        },
+                        "position": "31",
+                        "points": 0,
+                        "team": "norman_hall",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "39",
+                            "laps": "200",
+                            "gap": "+ 12:10.710",
+                            "interval": "+ 53.510",
+                            "speed": "211.41"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "norman_hall",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "gap": "+ 3.830",
+                            "interval": "+ 0.210",
+                            "speed": "223.617"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "cars_inc",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "51",
+                            "laps": "74"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "cars_inc",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

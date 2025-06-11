@@ -1,0 +1,61 @@
+{
+    "firstName": "Philippe",
+    "lastName": "Adams",
+    "seasons": {
+        "1994": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 12.722",
+                            "interval": "+ 2.130"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "15",
+                            "fastestLap": "2:06.759",
+                            "lap_of_fastestLap": "15"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "2:06.759"
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "gap": "+ 4.705",
+                            "interval": "+ 0.799"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "11",
+                            "laps": "67",
+                            "gap": "4 Laps",
+                            "fastestLap": "1:27.082",
+                            "lap_of_fastestLap": "4"
+                        },
+                        "position": "16",
+                        "points": 0,
+                        "team": "team_lotus",
+                        "fastest_lap": "1:27.082"
+                    }
+                }
+            }
+        }
+    }
+}

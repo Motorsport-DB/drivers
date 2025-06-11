@@ -1,0 +1,50 @@
+{
+    "firstName": "Torsten",
+    "lastName": "Palm",
+    "seasons": {
+        "1975": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 5.550",
+                            "interval": "+ 0.350"
+                        },
+                        "position": "24",
+                        "points": 0,
+                        "team": "polar_caravans",
+                        "fastest_lap": ""
+                    }
+                },
+                "Swedish-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "gap": "+ 3.012",
+                            "interval": "+ 0.172"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "polar_caravans",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "32",
+                            "laps": "78",
+                            "gap": "2 Laps",
+                            "interval": "1 Lap",
+                            "fastestLap": "1:29.983",
+                            "lap_of_fastestLap": "10"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "polar_caravans",
+                        "fastest_lap": "1:29.983"
+                    }
+                }
+            }
+        }
+    }
+}

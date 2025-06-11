@@ -1,0 +1,63 @@
+{
+    "firstName": "Franco",
+    "lastName": "Comotti",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "38",
+                            "gap": "+ 21.200",
+                            "interval": "+ 1.400"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "scuderia_marzotto",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "38",
+                            "laps": "63",
+                            "gap": "13 Laps",
+                            "interval": "3 Laps"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "scuderia_marzotto",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "62",
+                            "gap": "+ 35.000",
+                            "interval": "+ 3.000",
+                            "speed": "147.656"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "scuderia_milano",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "62",
+                            "laps": "15"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "scuderia_milano",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

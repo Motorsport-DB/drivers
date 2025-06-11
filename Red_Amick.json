@@ -1,0 +1,63 @@
+{
+    "firstName": "Red",
+    "lastName": "Amick",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "27",
+                            "gap": "+ 6.020",
+                            "interval": "+ 0.130"
+                        },
+                        "position": "22",
+                        "points": 0,
+                        "team": "leonard_a_faas",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "27",
+                            "laps": "200",
+                            "gap": "+ 11:10.580",
+                            "interval": "+ 2:30.300",
+                            "speed": "212.35"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "leonard_a_faas",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "87",
+                            "gap": "+ 5.150",
+                            "interval": "+ 0.230"
+                        },
+                        "position": "26",
+                        "points": 0,
+                        "team": "leroy_e_foutch_jr",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "87",
+                            "laps": "45"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "leroy_e_foutch_jr",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

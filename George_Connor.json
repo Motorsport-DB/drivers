@@ -1,0 +1,93 @@
+{
+    "firstName": "George",
+    "lastName": "Connor",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "54",
+                            "gap": "+ 4.620",
+                            "interval": "+ 0.660"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "federal_auto_associates",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "54",
+                            "laps": "200",
+                            "gap": "+ 12:00.610",
+                            "interval": "+ 1:25.370"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "federal_auto_associates",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "gap": "+ 6.220",
+                            "interval": "+ 0.750"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "lou_moore",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "22",
+                            "laps": "29"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "lou_moore",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "5",
+                            "gap": "+ 4.420",
+                            "interval": "+ 0.320",
+                            "speed": "212.698"
+                        },
+                        "position": "4",
+                        "points": 0,
+                        "team": "lou_moore",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "5",
+                            "laps": "135",
+                            "gap": "3 Laps",
+                            "interval": "+ 0.660",
+                            "speed": "194.87"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "lou_moore",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

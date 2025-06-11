@@ -1,0 +1,64 @@
+{
+    "firstName": "Lloyd",
+    "lastName": "Ruby",
+    "seasons": {
+        "1961": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "gap": "+ 4.800"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "j_frank_harrison",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "26",
+                            "laps": "76",
+                            "fastestLap": "1:21.400",
+                            "lap_of_fastestLap": "69"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "j_frank_harrison",
+                        "fastest_lap": "1:21.400"
+                    }
+                }
+            }
+        },
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "gap": "+ 4.060",
+                            "interval": "+ 0.250"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "j_c_agajanian",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "98",
+                            "laps": "200",
+                            "gap": "+ 4:25.590",
+                            "interval": "+ 14.980",
+                            "speed": "218.84"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "j_c_agajanian",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        }
+    }
+}

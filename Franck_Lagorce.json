@@ -1,0 +1,61 @@
+{
+    "firstName": "Franck",
+    "lastName": "Lagorce",
+    "seasons": {
+        "1994": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 3.368",
+                            "interval": "+ 0.535"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "ligier_gitanes_blondes",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "laps": "10",
+                            "fastestLap": "2:20.381",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "ligier_gitanes_blondes",
+                        "fastest_lap": "2:20.381"
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "gap": "+ 2.974",
+                            "interval": "+ 0.092"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "ligier_gitanes_blondes",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "25",
+                            "laps": "79",
+                            "gap": "2 Laps",
+                            "fastestLap": "1:20.436",
+                            "lap_of_fastestLap": "40"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "ligier_gitanes_blondes",
+                        "fastest_lap": "1:20.436"
+                    }
+                }
+            }
+        }
+    }
+}

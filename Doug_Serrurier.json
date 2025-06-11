@@ -1,0 +1,85 @@
+{
+    "firstName": "Doug",
+    "lastName": "Serrurier",
+    "seasons": {
+        "1965": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "gap": "+ 8.500",
+                            "interval": "+ 0.500"
+                        },
+                        "position": "23",
+                        "points": 0,
+                        "team": "otello_nucci",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "1963": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "gap": "+ 7.500",
+                            "interval": "+ 0.600"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "otello_nucci",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "16",
+                            "laps": "78",
+                            "gap": "7 Laps",
+                            "interval": "1 Lap",
+                            "speed": "139.085",
+                            "fastestLap": "1:38.400",
+                            "lap_of_fastestLap": "49"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "otello_nucci",
+                        "fastest_lap": "1:38.400"
+                    }
+                }
+            }
+        },
+        "1962": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "gap": "+ 7.500",
+                            "interval": "+ 0.400"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "otello_nucci",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "21",
+                            "laps": "62",
+                            "speed": "122.141",
+                            "fastestLap": "1:38.600",
+                            "lap_of_fastestLap": "36"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "otello_nucci",
+                        "fastest_lap": "1:38.600"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "firstName": "Heinz",
+    "lastName": "Schiller",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "8"
+                        },
+                        "position": "WIT",
+                        "points": 0,
+                        "team": "ecurie_filipinetti",
+                        "fastest_lap": ""
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "other_info": {
+                            "carNumber": "28",
+                            "gap": "+ 1:04.700",
+                            "interval": "+ 4.800"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "ecurie_filipinetti",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "carNumber": "28",
+                            "laps": "4",
+                            "fastestLap": "11:59.600",
+                            "lap_of_fastestLap": "2"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "ecurie_filipinetti",
+                        "fastest_lap": "11:59.600"
+                    }
+                }
+            }
+        }
+    }
+}
