@@ -4,6 +4,70 @@
     "dateOfBirth": "2004-02-04",
     "country": "Estonia",
     "seasons": {
+        "2025": {
+            "Formula_1": {
+                "BRITISH GRAND PRIX": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "97",
+                            "laps": "25",
+                            "gap": "+ 1.250",
+                            "interval": "+ 0.056",
+                            "speed": "240.607"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Sauber",
+                        "fastest_lap": ""
+                    }
+                },
+                "HUNGARIAN GRAND PRIX": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "97",
+                            "laps": "9",
+                            "gap": "+ 3.736",
+                            "interval": "+ 2.136",
+                            "speed": "197.668"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Sauber",
+                        "fastest_lap": ""
+                    }
+                },
+                "ITALIAN GRAND PRIX": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "61",
+                            "laps": "23",
+                            "gap": "+ 2.036",
+                            "interval": "+ 0.095",
+                            "speed": "253.853"
+                        },
+                        "position": "20",
+                        "points": 0,
+                        "team": "Alpine",
+                        "fastest_lap": ""
+                    }
+                },
+                "MEXICAN GRAND PRIX": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "61",
+                            "laps": "29",
+                            "gap": "+ 1.482",
+                            "interval": "+ 0.173",
+                            "speed": "194.014"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Alpine",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula_2": {
                 "Sakhir": {
@@ -797,7 +861,7 @@
                     "Feature Race": {
                         "position": "18",
                         "points": 0,
-                        "team": "Trident",
+                        "team": "TRIDENT",
                         "fastest_lap": "1:39.550",
                         "other_info": {
                             "Elapsed_times": "56:48.537",
@@ -811,7 +875,7 @@
                     "Sprint Race": {
                         "position": "16",
                         "points": 0,
-                        "team": "Trident",
+                        "team": "TRIDENT",
                         "fastest_lap": "1:40.695",
                         "other_info": {
                             "Elapsed_times": "43:01.664",
@@ -825,7 +889,7 @@
                     "Qualifying Session": {
                         "position": "21",
                         "points": 0,
-                        "team": "Trident",
+                        "team": "TRIDENT",
                         "fastest_lap": "1:37.391",
                         "other_info": {
                             "Gap": "1.824",
@@ -837,7 +901,7 @@
                     "Free Practice": {
                         "position": "20",
                         "points": 0,
-                        "team": "Trident",
+                        "team": "TRIDENT",
                         "fastest_lap": "1:39.189",
                         "other_info": {
                             "Gap": "1.800",
@@ -853,7 +917,7 @@
                     "Feature Race": {
                         "position": "6",
                         "points": 0,
-                        "team": "PREMA_Racing",
+                        "team": "Prema_Racing",
                         "fastest_lap": "1:34.517",
                         "other_info": {
                             "Elapsed_times": "43:46.343",
@@ -869,7 +933,7 @@
                     "Feature Race": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA_Racing",
+                        "team": "Prema_Racing",
                         "fastest_lap": "1:26.074",
                         "other_info": {
                             "Elapsed_times": "41:52.865",
@@ -885,7 +949,7 @@
                     "Feature Race": {
                         "position": "5",
                         "points": 0,
-                        "team": "PREMA_Racing",
+                        "team": "Prema_Racing",
                         "fastest_lap": "1:36.276",
                         "other_info": {
                             "Elapsed_times": "31:46.666",
@@ -901,7 +965,7 @@
                     "Feature Race": {
                         "position": "8",
                         "points": 0,
-                        "team": "PREMA_Racing",
+                        "team": "Prema_Racing",
                         "fastest_lap": "2:19.902",
                         "other_info": {
                             "Elapsed_times": "40:18.864",
@@ -917,7 +981,7 @@
                     "Feature Race": {
                         "position": "7",
                         "points": 0,
-                        "team": "PREMA_Racing",
+                        "team": "Prema_Racing",
                         "fastest_lap": "1:40.685",
                         "other_info": {
                             "Elapsed_times": "47:07.314",
@@ -931,7 +995,7 @@
                     "Qualifying": {
                         "position": "3",
                         "points": 0,
-                        "team": "PREMA_Racing",
+                        "team": "Prema_Racing",
                         "fastest_lap": "1:39.043",
                         "other_info": {
                             "Gap": "0.134",

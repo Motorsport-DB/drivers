@@ -5,13 +5,32 @@
     "dateOfBirth": "1999-05-06",
     "country": "Mexico",
     "seasons": {
+        "2025": {
+            "Formula_1": {
+                "MEXICAN GRAND PRIX": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "89",
+                            "laps": "30",
+                            "gap": "+ 1.300",
+                            "interval": "+ 0.208",
+                            "speed": "194.457"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "McLaren",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
         "2024": {
             "Formula_1": {
                 "GRAN PREMIO DE LA CIUDAD DE MÉXICO": {
                     "PRACTICE 1": {
                         "position": "13",
                         "points": 0,
-                        "team": "McLaren_Mercedes",
+                        "team": "McLaren",
                         "fastest_lap": "1:19.295",
                         "other_info": {
                             "Laps": "21",
@@ -27,7 +46,7 @@
                     "PRACTICE 1": {
                         "position": "15",
                         "points": 0,
-                        "team": "McLaren_Mercedes",
+                        "team": "McLaren",
                         "fastest_lap": "1:27.114",
                         "other_info": {
                             "Laps": "23",
@@ -43,7 +62,7 @@
                     "PRACTICE 1": {
                         "position": "18",
                         "points": 0,
-                        "team": "McLaren_Mercedes",
+                        "team": "McLaren",
                         "fastest_lap": "1:28.350",
                         "other_info": {
                             "Laps": "22",
