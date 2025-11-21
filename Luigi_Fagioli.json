@@ -1,194 +1,72 @@
 {
     "firstName": "Luigi",
     "lastName": "Fagioli",
-    "country": "Italy",
     "seasons": {
-        "1951": {
+        "1957": {
             "Formula_1": {
-                "French-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "8",
-                            "gap": "+ 7.400",
-                            "interval": "+ 2.300"
-                        },
-                        "position": "7",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
+                "Argentine-grand-prix": {
                     "Race": {
                         "other_info": {
-                            "carNumber": "4",
-                            "laps": "55",
-                            "gap": "22 Laps",
-                            "interval": "3 Laps"
+                            "carNumber": "18",
+                            "laps": "98",
+                            "gap": "2 Laps"
                         },
-                        "position": "11",
+                        "position": "6",
                         "points": 0,
-                        "team": "alfa_romeo_spa",
+                        "team": "scuderia_ferrari_spa",
                         "fastest_lap": ""
                     }
                 }
             }
         },
-        "1950": {
+        "1955": {
             "Formula_1": {
-                "British-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "3",
-                            "gap": "+ 0.200",
-                            "interval": "+ 0.200",
-                            "speed": "150.791"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
+                "Argentine-grand-prix": {
                     "Race": {
                         "other_info": {
-                            "carNumber": "3",
-                            "laps": "70",
-                            "gap": "+ 2.600",
-                            "interval": "+ 2.600",
-                            "speed": "146.3"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    }
-                },
-                "Monaco-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "36",
-                            "gap": "+ 4.000",
-                            "interval": "+ 0.100",
-                            "speed": "100.245"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "36"
+                            "carNumber": "26",
+                            "laps": "55",
+                            "gap": "13 Laps",
+                            "interval": "5 Laps",
+                            "speed": "107.519"
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "alfa_romeo_spa",
+                        "team": "Maserati",
                         "fastest_lap": ""
                     }
-                },
-                "Swiss-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "12",
-                            "gap": "+ 3.100",
-                            "interval": "+ 2.400",
-                            "speed": "158.644"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
                     "Race": {
                         "other_info": {
-                            "carNumber": "12",
-                            "laps": "42",
-                            "gap": "+ 0.400",
-                            "interval": "+ 0.400",
-                            "speed": "149.27"
+                            "carNumber": "43",
+                            "laps": "165"
                         },
-                        "position": "2",
+                        "position": "DNF",
                         "points": 0,
-                        "team": "alfa_romeo_spa",
+                        "team": "Kurtis_Kraft_Offenhauser",
                         "fastest_lap": ""
                     }
-                },
-                "Belgian-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "12",
-                            "gap": "+ 4.000",
-                            "interval": "+ 4.000",
-                            "speed": "180.896"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
                     "Race": {
                         "other_info": {
-                            "carNumber": "12",
-                            "laps": "35",
-                            "gap": "+ 14.000",
-                            "interval": "+ 14.000",
-                            "speed": "177"
+                            "carNumber": "55",
+                            "laps": "107",
+                            "gap": "23 Laps",
+                            "interval": "4 Laps"
                         },
-                        "position": "2",
+                        "position": "DNF",
                         "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    }
-                },
-                "French-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "4",
-                            "gap": "+ 4.100",
-                            "interval": "+ 2.200",
-                            "speed": "181.861"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "4",
-                            "laps": "64",
-                            "gap": "+ 25.700",
-                            "interval": "+ 25.700",
-                            "speed": "168.301"
-                        },
-                        "position": "2",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    }
-                },
-                "Italian-grand-prix": {
-                    "Qualifying": {
-                        "other_info": {
-                            "carNumber": "36",
-                            "gap": "+ 5.400",
-                            "interval": "+ 3.600",
-                            "speed": "182.903"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
-                        "fastest_lap": ""
-                    },
-                    "Race": {
-                        "other_info": {
-                            "carNumber": "36",
-                            "laps": "80",
-                            "gap": "+ 1:35.600",
-                            "interval": "+ 17.000",
-                            "speed": "174.915"
-                        },
-                        "position": "3",
-                        "points": 0,
-                        "team": "alfa_romeo_spa",
+                        "team": "Kurtis_Kraft_Offenhauser",
                         "fastest_lap": ""
                     }
                 }
