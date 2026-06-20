@@ -518,6 +518,67 @@
                         "fastest_lap": "1:41.473"
                     }
                 }
+            },
+            "Formula_2": {
+                "LUSAIL": {
+                    "Feature Race": {
+                        "other_info": {
+                            "Car_number": "23",
+                            "Laps": "32",
+                            "Elapsed_times": "56:12.775",
+                            "Gap": "54.320",
+                            "Interval": "11.606",
+                            "Average_speed": "184.800",
+                            "Lap_of_fastest_lap": "29"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:40.835"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "Car_number": "23",
+                            "Laps": "13",
+                            "Elapsed_times": "22:25.491",
+                            "Gap": "DNF",
+                            "Average_speed": "187.760",
+                            "Lap_of_fastest_lap": "12"
+                        },
+                        "position": "DNF",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "1:41.771"
+                    },
+                    "Qualifying Session": {
+                        "other_info": {
+                            "Car_number": "23",
+                            "Laps": "7",
+                            "Elapsed_times": "1:38.897",
+                            "Gap": "2.782",
+                            "Interval": "0.694",
+                            "Average_speed": "197.259"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "19:38:12"
+                    },
+                    "Free Practice": {
+                        "other_info": {
+                            "Car_number": "23",
+                            "Laps": "19",
+                            "Elapsed_times": "1:40.681",
+                            "Gap": "2.025",
+                            "Interval": "0.161",
+                            "Average_speed": "193.764"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "TRIDENT",
+                        "fastest_lap": "14:22:59"
+                    }
+                }
             }
         },
         "2024": {
@@ -526,7 +587,7 @@
                     "Feature Race": {
                         "position": "21",
                         "points": 0,
-                        "team": "Hitech_Pulse-Eight",
+                        "team": "Hitech_Grand_Prix_Grand_Prix",
                         "fastest_lap": "2:02.662",
                         "other_info": {
                             "Elapsed_times": "48:41.828",
@@ -540,7 +601,7 @@
                     "Sprint Race": {
                         "position": "18",
                         "points": 0,
-                        "team": "Hitech_Pulse-Eight",
+                        "team": "Hitech_Grand_Prix_Grand_Prix",
                         "fastest_lap": "1:49.314",
                         "other_info": {
                             "Elapsed_times": "37:03.035",
@@ -554,7 +615,7 @@
                     "Qualifying": {
                         "position": "27",
                         "points": 0,
-                        "team": "Hitech_Pulse-Eight",
+                        "team": "Hitech_Grand_Prix_Grand_Prix",
                         "fastest_lap": "1:46.773",
                         "other_info": {
                             "Gap": "1.781",
@@ -566,7 +627,7 @@
                     "Practice": {
                         "position": "4",
                         "points": 0,
-                        "team": "Hitech_Pulse-Eight",
+                        "team": "Hitech_Grand_Prix_Grand_Prix",
                         "fastest_lap": "2:00.607",
                         "other_info": {
                             "Gap": "0.454",
@@ -574,6 +635,173 @@
                             "Laps": "17",
                             "Car_number": "15"
                         }
+                    }
+                }
+            }
+        },
+        "2026": {
+            "Formula_3": {
+                "MELBOURNE": {
+                    "Sprint Race": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "7",
+                            "Elapsed_times": "11:43.019",
+                            "Gap": "7.579",
+                            "Interval": "1.722",
+                            "Average_speed": "189.192",
+                            "Lap_of_fastest_lap": "4"
+                        },
+                        "position": "7",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "1:38.029"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "14",
+                            "Elapsed_times": "1:34.621",
+                            "Gap": "0.434",
+                            "Interval": "0.009",
+                            "Average_speed": "200.809"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "14:27:36"
+                    },
+                    "Practice": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "16",
+                            "Elapsed_times": "1:35.659",
+                            "Gap": "1.052",
+                            "Interval": "0.073",
+                            "Average_speed": "198.630"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "9:28:15"
+                    }
+                },
+                "MONACO": {
+                    "Feature Race": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "27",
+                            "Elapsed_times": "41:56.412",
+                            "Gap": "41.426",
+                            "Interval": "1.212",
+                            "Average_speed": "128.896",
+                            "Lap_of_fastest_lap": "16"
+                        },
+                        "position": "18",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "1:25.150"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "18",
+                            "Elapsed_times": "1:02:23.660",
+                            "Gap": "28.279",
+                            "Interval": "1.631",
+                            "Average_speed": "57.761",
+                            "Lap_of_fastest_lap": "16"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "1:25.227"
+                    },
+                    "Qualifying Group B": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "11",
+                            "Elapsed_times": "1:25.649",
+                            "Gap": "1.178",
+                            "Interval": "0.129",
+                            "Average_speed": "140.260"
+                        },
+                        "position": "13",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "11:46:15"
+                    },
+                    "Practice": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "5",
+                            "Elapsed_times": "1:29.145",
+                            "Gap": "3.351",
+                            "Interval": "1.119",
+                            "Average_speed": "134.760"
+                        },
+                        "position": "30",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "13:33:14"
+                    }
+                },
+                "BARCELONA": {
+                    "Feature Race": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "25",
+                            "Elapsed_times": "40:04.680",
+                            "Gap": "28.497",
+                            "Interval": "1.552",
+                            "Average_speed": "174.108",
+                            "Lap_of_fastest_lap": "5"
+                        },
+                        "position": "12",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "1:32.760"
+                    },
+                    "Sprint Race": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "21",
+                            "Elapsed_times": "36:57.355",
+                            "Average_speed": "158.574",
+                            "Lap_of_fastest_lap": "17"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "1:32.211"
+                    },
+                    "Qualifying": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "11",
+                            "Elapsed_times": "1:28.820",
+                            "Gap": "0.557",
+                            "Interval": "0.065",
+                            "Average_speed": "188.754"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "15:30:50"
+                    },
+                    "Practice": {
+                        "other_info": {
+                            "Car_number": "21",
+                            "Laps": "11",
+                            "Elapsed_times": "1:30.190",
+                            "Gap": "1.768",
+                            "Interval": "0.004",
+                            "Average_speed": "185.887"
+                        },
+                        "position": "25",
+                        "points": 0,
+                        "team": "Prema_Racing",
+                        "fastest_lap": "10:30:46"
                     }
                 }
             }

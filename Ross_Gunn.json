@@ -6,69 +6,19 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "17",
-                        "points": 0,
-                        "team": "Aston_Martin",
-                        "fastest_lap": "1:44.084",
-                        "other_info": {
-                            "Laps": "29"
-                        }
-                    },
-                    "Free Practice 2": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Aston_Martin",
-                        "fastest_lap": "1:42.094",
-                        "other_info": {
-                            "Laps": "43"
-                        }
-                    },
-                    "Free Practice 3": {
-                        "position": "15",
-                        "points": 0,
-                        "team": "Aston_Martin",
-                        "fastest_lap": "1:42.207",
-                        "other_info": {
-                            "Laps": "25"
-                        }
-                    },
-                    "Hypercar Qualifying": {
-                        "position": "16",
-                        "points": 0,
-                        "team": "Aston_Martin",
-                        "fastest_lap": "1:41.766",
-                        "other_info": {
-                            "Laps": "6"
-                        }
-                    },
-                    "Race": {
-                        "position": "32",
-                        "points": 0,
-                        "team": "Aston_Martin",
-                        "fastest_lap": "1:42.978",
-                        "other_info": {
-                            "Laps": "181",
-                            "Elapsed_time": "6:19:36.221",
-                            "Gap": "137 Laps",
-                            "Best_lap_number": "136",
-                            "Best_speed": "189.4 km/h"
-                        }
-                    }
-                },
                 "24 Hours of Le Mans": {
                     "Free Practice 1": {
                         "other_info": {
-                            "Average_speed": "236.896 Km/h",
+                            "Average_speed": "236.896",
                             "Laps": "42",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'27.068"
                         },
                         "position": "17",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "3'27.068"
+                        "fastest_lap": ""
                     },
                     "Qualifying (HYPERCAR)": {
                         "other_info": {
@@ -84,123 +34,377 @@
                     },
                     "Free Practice 2": {
                         "other_info": {
-                            "Average_speed": "235.381 Km/h",
+                            "Average_speed": "235.381",
                             "Laps": "24",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'28.400"
                         },
                         "position": "17",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "3'28.400"
+                        "fastest_lap": ""
                     },
                     "Free Practice 3": {
                         "other_info": {
-                            "Average_speed": "234.404 Km/h",
+                            "Average_speed": "234.404",
                             "Laps": "39",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'29.269"
                         },
                         "position": "16",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "3'29.269"
+                        "fastest_lap": ""
                     },
                     "Free Practice 4": {
                         "other_info": {
-                            "Average_speed": "232.634 Km/h",
+                            "Average_speed": "232.634",
                             "Laps": "14",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'30.861"
                         },
                         "position": "19",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "3'30.861"
+                        "fastest_lap": ""
                     },
                     "Race": {
                         "other_info": {
                             "Elapsed_times": "24:02'56.333",
                             "Laps": "381",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "24:02'56.333"
                         },
                         "position": "14",
                         "points": 0,
                         "team": "Aston_Martin",
                         "fastest_lap": ""
-                    }
-                },
-                "Bapco Energies 8 Hours of Bahrain": {
-                    "Free Practice 1": {
+                    },
+                    "Prologue": {
                         "other_info": {
-                            "Average_speed": "174.521 Km/h",
-                            "Laps": "42",
                             "Car_number": "007",
                             "Class": "HYPERCAR"
+                        },
+                        "position": "N/A",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying (Hypercar)": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "8",
+                            "Elapsed_time": "3'26.349",
+                            "Average_speed": "237.721"
+                        },
+                        "position": "21",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Warm Up": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "4",
+                            "Elapsed_time": "3'31.546",
+                            "Average_speed": "231.881"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    }
+                },
+                "1812km of Qatar": {
+                    "Prologue": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "N/A",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "29",
+                            "Elapsed_time": "1'44.084",
+                            "Average_speed": "187.394"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "43",
+                            "Elapsed_time": "1'42.094",
+                            "Average_speed": "191.047"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 3": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "25",
+                            "Elapsed_time": "1'42.207",
+                            "Average_speed": "190.836"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Hypercar Qualifying": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "6",
+                            "Elapsed_time": "1'41.766",
+                            "Average_speed": "191.663"
+                        },
+                        "position": "17",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "181",
+                            "Elapsed_time": "6:19'36.221",
+                            "Gap": "137 Laps",
+                            "Best_lap_number": "136",
+                            "Best_speed": "189.4 km/h"
+                        },
+                        "position": "dnf",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    }
+                },
+                "8 Hours of Bahrain": {
+                    "Prologue": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "N/A",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "42",
+                            "Elapsed_time": "1'51.638",
+                            "Average_speed": "174.521"
                         },
                         "position": "3",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "1'51.638"
+                        "fastest_lap": ""
                     },
                     "Free Practice 2": {
                         "other_info": {
-                            "Average_speed": "177.847 Km/h",
-                            "Laps": "42",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "42",
+                            "Elapsed_time": "1'49.550",
+                            "Average_speed": "177.847"
                         },
                         "position": "9",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "1'49.550"
+                        "fastest_lap": ""
                     },
                     "Free Practice 3": {
                         "other_info": {
-                            "Average_speed": "173.478 Km/h",
-                            "Laps": "27",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "27",
+                            "Elapsed_time": "1'52.309",
+                            "Average_speed": "173.478"
                         },
                         "position": "16",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "1'52.309"
+                        "fastest_lap": ""
                     },
                     "Hypercar Qualifying": {
                         "other_info": {
-                            "Average_speed": "181.593 Km/h",
-                            "Laps": "4",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "4",
+                            "Elapsed_time": "1'47.290",
+                            "Average_speed": "181.593"
                         },
                         "position": "1",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "1'47.290"
+                        "fastest_lap": ""
                     },
                     "Hypercar Hyperpole": {
                         "other_info": {
-                            "Average_speed": "180.339 Km/h",
-                            "Laps": "5",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "5",
+                            "Elapsed_time": "1'48.036",
+                            "Average_speed": "180.339"
                         },
                         "position": "9",
                         "points": 0,
                         "team": "Aston_Martin",
-                        "fastest_lap": "1'48.036"
+                        "fastest_lap": ""
                     },
                     "Race": {
                         "other_info": {
-                            "Elapsed_times": "8:01'30.684",
-                            "Laps": "236",
                             "Car_number": "007",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "236",
+                            "Elapsed_time": "8:01'30.684",
+                            "Elapsed_times": "8:01'30.684"
                         },
                         "position": "15",
                         "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    }
+                }
+            }
+        },
+        "2026": {
+            "World_Endurance_Championship_WEC": {
+                "24 Hours of Le Mans": {
+                    "Prologue": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "N/A",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "34",
+                            "Elapsed_time": "3'26.705",
+                            "Average_speed": "237.312"
+                        },
+                        "position": "10",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying (Hypercar)": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "8",
+                            "Elapsed_time": "3'23.906",
+                            "Average_speed": "240.569"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "29",
+                            "Elapsed_time": "3'26.935",
+                            "Average_speed": "237.048"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 3": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "37",
+                            "Elapsed_time": "3'26.398",
+                            "Average_speed": "237.665"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying Hyperpole H1 (Hypercar)": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "6",
+                            "Elapsed_time": "3'24.004",
+                            "Average_speed": "240.454"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 4": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "12",
+                            "Elapsed_time": "3'28.925",
+                            "Average_speed": "234.790"
+                        },
+                        "position": "14",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Warm Up": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "5",
+                            "Elapsed_time": "3'28.800",
+                            "Average_speed": "234.931"
+                        },
+                        "position": "11",
+                        "points": 0,
+                        "team": "Aston_Martin",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Car_number": "007",
+                            "Class": "HYPERCAR",
+                            "Laps": "379",
+                            "Elapsed_time": "24:03'30.890"
+                        },
+                        "position": "8",
+                        "points": 8.0,
                         "team": "Aston_Martin",
                         "fastest_lap": ""
                     }

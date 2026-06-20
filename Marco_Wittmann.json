@@ -6,42 +6,94 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Rolex 6 Hours of Sao Paulo": {
-                    "Free Practice 1": {
+                "6 Hours of São Paulo": {
+                    "Prologue": {
                         "other_info": {
-                            "Average_speed": "181.793 Km/h",
-                            "Laps": "53",
                             "Car_number": "20",
                             "Class": "HYPERCAR"
+                        },
+                        "position": "N/A",
+                        "points": 0,
+                        "team": "BMW_M_Team_WRT",
+                        "fastest_lap": ""
+                    },
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Car_number": "20",
+                            "Class": "HYPERCAR",
+                            "Laps": "53",
+                            "Elapsed_time": "1'25.330",
+                            "Average_speed": "181.793"
                         },
                         "position": "3",
                         "points": 0,
                         "team": "BMW_M_Team_WRT",
-                        "fastest_lap": "1'25.330"
+                        "fastest_lap": ""
                     },
                     "Free Practice 2": {
                         "other_info": {
-                            "Average_speed": "184.629 Km/h",
-                            "Laps": "57",
                             "Car_number": "20",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "57",
+                            "Elapsed_time": "1'24.019",
+                            "Average_speed": "184.629"
                         },
                         "position": "6",
                         "points": 0,
                         "team": "BMW_M_Team_WRT",
-                        "fastest_lap": "1'24.019"
+                        "fastest_lap": ""
                     },
                     "Free Practice 3": {
                         "other_info": {
-                            "Average_speed": "182.619 Km/h",
-                            "Laps": "34",
                             "Car_number": "20",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Laps": "34",
+                            "Elapsed_time": "1'24.944",
+                            "Average_speed": "182.619"
                         },
                         "position": "14",
                         "points": 0,
                         "team": "BMW_M_Team_WRT",
-                        "fastest_lap": "1'24.944"
+                        "fastest_lap": ""
+                    },
+                    "LMGT3 Hyperpole": {
+                        "other_info": {
+                            "Car_number": "20",
+                            "Class": "HYPERCAR",
+                            "Laps": "6",
+                            "Elapsed_time": "1'23.391",
+                            "Average_speed": "186.020"
+                        },
+                        "position": "6",
+                        "points": 0,
+                        "team": "BMW_M_Team_WRT",
+                        "fastest_lap": ""
+                    },
+                    "Hypercar Hyperpole": {
+                        "other_info": {
+                            "Car_number": "20",
+                            "Class": "HYPERCAR",
+                            "Laps": "5",
+                            "Elapsed_time": "1'23.062",
+                            "Average_speed": "186.756"
+                        },
+                        "position": "5",
+                        "points": 0,
+                        "team": "BMW_M_Team_WRT",
+                        "fastest_lap": ""
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Car_number": "20",
+                            "Class": "HYPERCAR",
+                            "Laps": "241",
+                            "Elapsed_time": "6:01'42.059",
+                            "Elapsed_times": "6:01'42.059"
+                        },
+                        "position": "5",
+                        "points": 10.0,
+                        "team": "BMW_M_Team_WRT",
+                        "fastest_lap": ""
                     },
                     "Hypercar Qualifying": {
                         "other_info": {
@@ -54,30 +106,6 @@
                         "points": 0,
                         "team": "BMW_M_Team_WRT",
                         "fastest_lap": "1'23.391"
-                    },
-                    "Hypercar Hyperpole": {
-                        "other_info": {
-                            "Average_speed": "186.756 Km/h",
-                            "Laps": "5",
-                            "Car_number": "20",
-                            "Class": "HYPERCAR"
-                        },
-                        "position": "5",
-                        "points": 0,
-                        "team": "BMW_M_Team_WRT",
-                        "fastest_lap": "1'23.062"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "Elapsed_times": "6:01'42.059",
-                            "Laps": "241",
-                            "Car_number": "20",
-                            "Class": "HYPERCAR"
-                        },
-                        "position": "5",
-                        "points": "10",
-                        "team": "BMW_M_Team_WRT",
-                        "fastest_lap": ""
                     }
                 }
             }

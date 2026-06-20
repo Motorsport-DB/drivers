@@ -7,66 +7,6 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "23",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:56.016",
-                        "other_info": {
-                            "Laps": "33"
-                        }
-                    },
-                    "Free Practice 2": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:54.742",
-                        "other_info": {
-                            "Laps": "38"
-                        }
-                    },
-                    "Free Practice 3": {
-                        "position": "23",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:55.215",
-                        "other_info": {
-                            "Laps": "23"
-                        }
-                    },
-                    "LMGT3 Qualifying": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:55.477",
-                        "other_info": {
-                            "Laps": "5"
-                        }
-                    },
-                    "LMGT3 Hyperpole": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:54.658",
-                        "other_info": {
-                            "Laps": "5"
-                        }
-                    },
-                    "Race": {
-                        "position": "36",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:56.438",
-                        "other_info": {
-                            "Laps": "15",
-                            "Elapsed_time": "2:41:48.566",
-                            "Gap": "303 Laps",
-                            "Best_lap_number": "9",
-                            "Best_speed": "167.5 km/h"
-                        }
-                    }
-                },
                 "6 Hours of Imola": {
                     "Race": {
                         "position": "22",
@@ -289,7 +229,129 @@
                         "fastest_lap": ""
                     }
                 },
-                "Rolex 6 Hours of Sao Paulo": {
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "160.673 Km/h",
+                            "Laps": "39",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1'42.237"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "161.950 Km/h",
+                            "Laps": "41",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1'41.431"
+                    },
+                    "Free Practice 3": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "21",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "36",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": 0
+                    },
+                    "LMGT3 Qualifying": {
+                        "other_info": {
+                            "Average_speed": "161.227 Km/h",
+                            "Laps": "6",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1'41.886"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Elapsed_times": "6:02'02.546",
+                            "Laps": "184",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "31",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": ""
+                    }
+                },
+                "1812km of Qatar": {
+                    "Free Practice 1": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:56.016",
+                        "other_info": {
+                            "Laps": "33"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:54.742",
+                        "other_info": {
+                            "Laps": "38"
+                        }
+                    },
+                    "Free Practice 3": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:55.215",
+                        "other_info": {
+                            "Laps": "23"
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:55.477",
+                        "other_info": {
+                            "Laps": "5"
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:54.658",
+                        "other_info": {
+                            "Laps": "5"
+                        }
+                    },
+                    "Race": {
+                        "position": "36",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:56.438",
+                        "other_info": {
+                            "Laps": "15",
+                            "Elapsed_time": "2:41:48.566",
+                            "Gap": "303 Laps",
+                            "Best_lap_number": "9",
+                            "Best_speed": "167.5 km/h"
+                        }
+                    }
+                },
+                "6 Hours of São Paulo": {
                     "Free Practice 1": {
                         "other_info": {
                             "Average_speed": "163.271 Km/h",
@@ -363,7 +425,7 @@
                         "fastest_lap": ""
                     }
                 },
-                "Lone Star Le Mans": {
+                "6 Hours of Austin": {
                     "Free Practice 1": {
                         "other_info": {
                             "Average_speed": "173.345 Km/h",
@@ -425,69 +487,7 @@
                         "fastest_lap": ""
                     }
                 },
-                "6 Hours of Fuji": {
-                    "Free Practice 1": {
-                        "other_info": {
-                            "Average_speed": "160.673 Km/h",
-                            "Laps": "39",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "33",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1'42.237"
-                    },
-                    "Free Practice 2": {
-                        "other_info": {
-                            "Average_speed": "161.950 Km/h",
-                            "Laps": "41",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "19",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1'41.431"
-                    },
-                    "Free Practice 3": {
-                        "other_info": {
-                            "Average_speed": " Km/h",
-                            "Laps": "21",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "36",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": 0
-                    },
-                    "LMGT3 Qualifying": {
-                        "other_info": {
-                            "Average_speed": "161.227 Km/h",
-                            "Laps": "6",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1'41.886"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "Elapsed_times": "6:02'02.546",
-                            "Laps": "184",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "31",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": ""
-                    }
-                },
-                "Bapco Energies 8 Hours of Bahrain": {
+                "8 Hours of Bahrain": {
                     "Free Practice 1": {
                         "other_info": {
                             "Average_speed": "158.739 Km/h",
@@ -578,7 +578,7 @@
                         },
                         "position": "6",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -593,7 +593,7 @@
                         },
                         "position": "5",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:23.198"
                     },
                     "Warm Up": {
@@ -608,7 +608,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Sprint Race": {
@@ -623,7 +623,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:22.415"
                     }
                 },
@@ -640,7 +640,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -655,7 +655,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -670,7 +670,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Sprint Race": {
@@ -685,7 +685,7 @@
                         },
                         "position": "19",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:35.827"
                     }
                 },
@@ -702,7 +702,7 @@
                         },
                         "position": "1",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -717,7 +717,7 @@
                         },
                         "position": "5",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -732,7 +732,7 @@
                         },
                         "position": "4",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:43.582"
                     },
                     "Sprint Race": {
@@ -747,7 +747,7 @@
                         },
                         "position": "3",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:42.644"
                     }
                 },
@@ -764,7 +764,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -779,7 +779,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -794,7 +794,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:27.458"
                     },
                     "Sprint Race": {
@@ -809,7 +809,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:27.606"
                     }
                 },
@@ -826,7 +826,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "2nd Free Practice": {
@@ -841,7 +841,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -856,7 +856,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -871,7 +871,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:23.288"
                     }
                 },
@@ -888,7 +888,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -903,7 +903,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -918,7 +918,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Sprint Race": {
@@ -933,7 +933,7 @@
                         },
                         "position": "14",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:31.749"
                     }
                 },
@@ -950,7 +950,7 @@
                         },
                         "position": "5",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -965,7 +965,7 @@
                         },
                         "position": "1",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -980,7 +980,7 @@
                         },
                         "position": "3",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:27.863"
                     },
                     "Sprint Race": {
@@ -995,7 +995,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:26.513"
                     }
                 },
@@ -1012,7 +1012,7 @@
                         },
                         "position": "3",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -1027,7 +1027,7 @@
                         },
                         "position": "26",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -1042,7 +1042,7 @@
                         },
                         "position": "7",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:25.369"
                     },
                     "Sprint Race": {
@@ -1057,7 +1057,7 @@
                         },
                         "position": "2",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:24.917"
                     }
                 },
@@ -1074,7 +1074,7 @@
                         },
                         "position": "4",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -1089,7 +1089,7 @@
                         },
                         "position": "2",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -1104,7 +1104,7 @@
                         },
                         "position": "8",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:32.514"
                     },
                     "Sprint Race": {
@@ -1119,7 +1119,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "2:32.070"
                     }
                 },
@@ -1136,7 +1136,7 @@
                         },
                         "position": "16",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -1151,7 +1151,7 @@
                         },
                         "position": "2",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -1166,7 +1166,7 @@
                         },
                         "position": "9",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:37.563"
                     },
                     "Sprint Race": {
@@ -1181,7 +1181,7 @@
                         },
                         "position": "11",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:38.685"
                     }
                 },
@@ -1198,7 +1198,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Qualifying": {
@@ -1213,7 +1213,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": ""
                     },
                     "Feature Race": {
@@ -1228,7 +1228,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:32.817"
                     },
                     "Sprint Race": {
@@ -1243,7 +1243,7 @@
                         },
                         "position": "DNF",
                         "points": 0,
-                        "team": "Super_Nova_International",
+                        "team": "Super_Nova_Racing",
                         "fastest_lap": "1:31.615"
                     }
                 }

@@ -6,66 +6,6 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "position": "23",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:56.016",
-                        "other_info": {
-                            "Laps": "33"
-                        }
-                    },
-                    "Free Practice 2": {
-                        "position": "21",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:54.742",
-                        "other_info": {
-                            "Laps": "38"
-                        }
-                    },
-                    "Free Practice 3": {
-                        "position": "23",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:55.215",
-                        "other_info": {
-                            "Laps": "23"
-                        }
-                    },
-                    "LMGT3 Qualifying": {
-                        "position": "4",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:55.477",
-                        "other_info": {
-                            "Laps": "5"
-                        }
-                    },
-                    "LMGT3 Hyperpole": {
-                        "position": "6",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:54.658",
-                        "other_info": {
-                            "Laps": "5"
-                        }
-                    },
-                    "Race": {
-                        "position": "36",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1:56.438",
-                        "other_info": {
-                            "Laps": "15",
-                            "Elapsed_time": "2:41:48.566",
-                            "Gap": "303 Laps",
-                            "Best_lap_number": "9",
-                            "Best_speed": "167.5 km/h"
-                        }
-                    }
-                },
                 "6 Hours of Imola": {
                     "LMGT3 Hyperpole": {
                         "position": "2",
@@ -288,7 +228,129 @@
                         "fastest_lap": ""
                     }
                 },
-                "Rolex 6 Hours of Sao Paulo": {
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "other_info": {
+                            "Average_speed": "160.673 Km/h",
+                            "Laps": "39",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "33",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1'42.237"
+                    },
+                    "Free Practice 2": {
+                        "other_info": {
+                            "Average_speed": "161.950 Km/h",
+                            "Laps": "41",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "19",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1'41.431"
+                    },
+                    "Free Practice 3": {
+                        "other_info": {
+                            "Average_speed": " Km/h",
+                            "Laps": "21",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "36",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": 0
+                    },
+                    "LMGT3 Qualifying": {
+                        "other_info": {
+                            "Average_speed": "161.227 Km/h",
+                            "Laps": "6",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1'41.886"
+                    },
+                    "Race": {
+                        "other_info": {
+                            "Elapsed_times": "6:02'02.546",
+                            "Laps": "184",
+                            "Car_number": "87",
+                            "Class": "LMGT3"
+                        },
+                        "position": "31",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": ""
+                    }
+                },
+                "1812km of Qatar": {
+                    "Free Practice 1": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:56.016",
+                        "other_info": {
+                            "Laps": "33"
+                        }
+                    },
+                    "Free Practice 2": {
+                        "position": "21",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:54.742",
+                        "other_info": {
+                            "Laps": "38"
+                        }
+                    },
+                    "Free Practice 3": {
+                        "position": "23",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:55.215",
+                        "other_info": {
+                            "Laps": "23"
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "position": "4",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:55.477",
+                        "other_info": {
+                            "Laps": "5"
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "position": "6",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:54.658",
+                        "other_info": {
+                            "Laps": "5"
+                        }
+                    },
+                    "Race": {
+                        "position": "36",
+                        "points": 0,
+                        "team": "AKKODIS_ASP_Team",
+                        "fastest_lap": "1:56.438",
+                        "other_info": {
+                            "Laps": "15",
+                            "Elapsed_time": "2:41:48.566",
+                            "Gap": "303 Laps",
+                            "Best_lap_number": "9",
+                            "Best_speed": "167.5 km/h"
+                        }
+                    }
+                },
+                "6 Hours of São Paulo": {
                     "Free Practice 1": {
                         "other_info": {
                             "Average_speed": "163.271 Km/h",
@@ -362,7 +424,7 @@
                         "fastest_lap": ""
                     }
                 },
-                "Lone Star Le Mans": {
+                "6 Hours of Austin": {
                     "Free Practice 1": {
                         "other_info": {
                             "Average_speed": "155.495 Km/h",
@@ -424,69 +486,7 @@
                         "fastest_lap": ""
                     }
                 },
-                "6 Hours of Fuji": {
-                    "Free Practice 1": {
-                        "other_info": {
-                            "Average_speed": "160.673 Km/h",
-                            "Laps": "39",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "33",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1'42.237"
-                    },
-                    "Free Practice 2": {
-                        "other_info": {
-                            "Average_speed": "161.950 Km/h",
-                            "Laps": "41",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "19",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1'41.431"
-                    },
-                    "Free Practice 3": {
-                        "other_info": {
-                            "Average_speed": " Km/h",
-                            "Laps": "21",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "36",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": 0
-                    },
-                    "LMGT3 Qualifying": {
-                        "other_info": {
-                            "Average_speed": "161.227 Km/h",
-                            "Laps": "6",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "15",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": "1'41.886"
-                    },
-                    "Race": {
-                        "other_info": {
-                            "Elapsed_times": "6:02'02.546",
-                            "Laps": "184",
-                            "Car_number": "87",
-                            "Class": "LMGT3"
-                        },
-                        "position": "31",
-                        "points": 0,
-                        "team": "AKKODIS_ASP_Team",
-                        "fastest_lap": ""
-                    }
-                },
-                "Bapco Energies 8 Hours of Bahrain": {
+                "8 Hours of Bahrain": {
                     "Free Practice 1": {
                         "other_info": {
                             "Average_speed": "158.739 Km/h",

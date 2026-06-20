@@ -38,15 +38,16 @@
                 "24 Hours of Le Mans": {
                     "Free Practice 1": {
                         "other_info": {
-                            "Average_speed": "237.090 Km/h",
+                            "Average_speed": "237.090",
                             "Laps": "33",
                             "Car_number": "311",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'26.898"
                         },
                         "position": "16",
                         "points": 0,
                         "team": "Cadillac_Whelen",
-                        "fastest_lap": "3'26.898"
+                        "fastest_lap": ""
                     },
                     "Qualifying (HYPERCAR)": {
                         "other_info": {
@@ -62,27 +63,29 @@
                     },
                     "Free Practice 2": {
                         "other_info": {
-                            "Average_speed": "235.864 Km/h",
+                            "Average_speed": "235.864",
                             "Laps": "25",
                             "Car_number": "311",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'27.974"
                         },
                         "position": "15",
                         "points": 0,
                         "team": "Cadillac_Whelen",
-                        "fastest_lap": "3'27.974"
+                        "fastest_lap": ""
                     },
                     "Free Practice 3": {
                         "other_info": {
-                            "Average_speed": "237.072 Km/h",
+                            "Average_speed": "237.072",
                             "Laps": "39",
                             "Car_number": "311",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'26.914"
                         },
                         "position": "8",
                         "points": 0,
                         "team": "Cadillac_Whelen",
-                        "fastest_lap": "3'26.914"
+                        "fastest_lap": ""
                     },
                     "Qualifying Hyperpole H1 (HYPERCAR)": {
                         "other_info": {
@@ -110,24 +113,86 @@
                     },
                     "Free Practice 4": {
                         "other_info": {
-                            "Average_speed": "236.084 Km/h",
+                            "Average_speed": "236.084",
                             "Laps": "12",
                             "Car_number": "311",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "3'27.780"
                         },
                         "position": "3",
                         "points": 0,
                         "team": "Cadillac_Whelen",
-                        "fastest_lap": "3'27.780"
+                        "fastest_lap": ""
                     },
                     "Race": {
                         "other_info": {
                             "Elapsed_times": "16:00'31.169",
                             "Laps": "247",
                             "Car_number": "311",
-                            "Class": "HYPERCAR"
+                            "Class": "HYPERCAR",
+                            "Elapsed_time": "16:00'31.169"
                         },
                         "position": "dnf",
+                        "points": 0,
+                        "team": "Cadillac_Whelen",
+                        "fastest_lap": ""
+                    },
+                    "Prologue": {
+                        "other_info": {
+                            "Car_number": "311",
+                            "Class": "HYPERCAR"
+                        },
+                        "position": "N/A",
+                        "points": 0,
+                        "team": "Cadillac_Whelen",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying (Hypercar)": {
+                        "other_info": {
+                            "Car_number": "311",
+                            "Class": "HYPERCAR",
+                            "Laps": "8",
+                            "Elapsed_time": "3'23.890",
+                            "Average_speed": "240.588"
+                        },
+                        "position": "9",
+                        "points": 0,
+                        "team": "Cadillac_Whelen",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying Hyperpole H1 (Hypercar)": {
+                        "other_info": {
+                            "Car_number": "311",
+                            "Class": "HYPERCAR",
+                            "Laps": "6",
+                            "Elapsed_time": "3'22.742",
+                            "Average_speed": "241.950"
+                        },
+                        "position": "1",
+                        "points": 0,
+                        "team": "Cadillac_Whelen",
+                        "fastest_lap": ""
+                    },
+                    "Qualifying Hyperpole H2 (Hypercar)": {
+                        "other_info": {
+                            "Car_number": "311",
+                            "Class": "HYPERCAR",
+                            "Laps": "5",
+                            "Elapsed_time": "3'24.380",
+                            "Average_speed": "240.011"
+                        },
+                        "position": "8",
+                        "points": 0,
+                        "team": "Cadillac_Whelen",
+                        "fastest_lap": ""
+                    },
+                    "Warm Up": {
+                        "other_info": {
+                            "Car_number": "311",
+                            "Class": "HYPERCAR",
+                            "Laps": "3"
+                        },
+                        "position": "62",
                         "points": 0,
                         "team": "Cadillac_Whelen",
                         "fastest_lap": ""
@@ -2434,6 +2499,25 @@
                         "points": 0,
                         "team": "Van_Amersfoort_Racing",
                         "fastest_lap": "1:34.156"
+                    }
+                }
+            }
+        },
+        "2026": {
+            "Formula_1": {
+                "BARCELONA-CATALUNYA GRAND PRIX": {
+                    "1st Free Practice": {
+                        "other_info": {
+                            "carNumber": "72",
+                            "laps": "28",
+                            "gap": "+ 2.002",
+                            "interval": "+ 0.067",
+                            "speed": "213.937"
+                        },
+                        "position": "15",
+                        "points": 0,
+                        "team": "Mercedes",
+                        "fastest_lap": ""
                     }
                 }
             }
